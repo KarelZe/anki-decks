@@ -3,3 +3,5 @@ Currently, includes:
 
 * *Lineare Algebra I* taught by *Tobias Hartnick*
 * *Höhere Mathematik I* taught by *Gerd Herzog*
+
+:warning: **Please note, that the decks might contain errors or are incomplete. Feel free to open an issue, if you find errors.**
