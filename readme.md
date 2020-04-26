@@ -3,6 +3,7 @@ Currently, includes:
 
 * *Lineare Algebra I* taught by *Tobias Hartnick*
 * *Höhere Mathematik I* taught by *Gerd Herzog*
+* *Höhere Mathematik II* taught by *Gerd Herzog* (WIP)
 
 ## Requirements 
 
