@@ -2,8 +2,9 @@ This is a collection of flashcard decks created for classes at Karlsruhe Institu
 Currently, includes:
 
 * *Lineare Algebra I* taught by *Tobias Hartnick*
-* *Höhere Mathematik I* taught by *Gerd Herzog*
-* *Höhere Mathematik II* taught by *Gerd Herzog* (WIP)
+* *Höhere Mathematik I* taught by *Gerd Herzog* 
+* *Höhere Mathematik II* taught by *Gerd Herzog*
+* *Parallelrechner* taught by *Achim Streit*
 
 ## Requirements 
 
