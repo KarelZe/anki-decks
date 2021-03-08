@@ -5,6 +5,7 @@ Currently, includes:
 * *Höhere Mathematik I* taught by *Gerd Herzog* 
 * *Höhere Mathematik II* taught by *Gerd Herzog*
 * *Parallelrechner* taught by *Achim Streit*
+* *Analysetechniken großer Datenbestände* taught by *Klemens Böhm* (WIP :construction:)
 
 ## Requirements 
 
