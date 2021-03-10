@@ -4,8 +4,9 @@ Currently, includes:
 * *Lineare Algebra I* taught by *Tobias Hartnick*
 * *Höhere Mathematik I* taught by *Gerd Herzog* 
 * *Höhere Mathematik II* taught by *Gerd Herzog*
-* *Parallelrechner* taught by *Achim Streit*
-* *Analysetechniken großer Datenbestände* taught by *Klemens Böhm* (WIP :construction:)
+* *Parallelrechner* taught by *Achim Streit* (SS 20 version)
+* *Heterogene Parallele Rechnerstrukturen* taught by *Wolfgang Karl* (WS 20/21 version)
+* *Analysetechniken großer Datenbestände* taught by *Klemens Böhm* (WIP :construction:) (WS 20/21 version)
 
 ## Requirements 
 
