@@ -1,12 +1,13 @@
-This is a collection of flashcard decks created for classes at Karlsruhe Institute of Technology.
+This is a collection of flashcard decks created for classes at Karlsruher Institute of Technology.
 Currently, includes:
 
-* *Lineare Algebra I* taught by *Tobias Hartnick*
-* *Höhere Mathematik I* taught by *Gerd Herzog* 
-* *Höhere Mathematik II* taught by *Gerd Herzog*
-* *Parallelrechner* taught by *Achim Streit* (SS 20 version)
-* *Heterogene Parallele Rechnerstrukturen* taught by *Wolfgang Karl* (WS 20/21 version)
-* *Analysetechniken großer Datenbestände* taught by *Klemens Böhm* (WIP :construction:) (WS 20/21 version)
+* *Lineare Algebra I* taught by *Prof. T. Hartnick* (WS 19/20 version)
+* *Höhere Mathematik I* taught by *Prof. G. Herzog* (WS 19/20 version)
+* *Höhere Mathematik II* taught by *Prof. G. Herzog* (SS 20 version)
+* *Parallelrechner* taught by *Prof. A. Streit* (SS 20 version)
+* *Recommendersysteme* taught by *Prof. A. Geyer-Schulz* (SS 20 version)
+* *Heterogene Parallele Rechnerstrukturen* taught by *Prof. W. Karl* (WS 20/21 version)
+* *Analysetechniken großer Datenbestände* taught by *Prof. K. Böhm* (WIP :construction:) (WS 20/21 version)
 
 ## Requirements 
 
