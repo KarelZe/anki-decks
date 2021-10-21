@@ -14,6 +14,9 @@ Currently, includes:
 * *Maschinelles Lernen (Grundverfahren)* taught by *Prof. G. Neumann* (WS 20/21 version)
 * *Patentrecht* taught by *M. Hoessle* (SS 21 version)
 * *Vertragsgestaltung* taught by *S. Leipert* (SS 21 version)
+* *Artificial Intelligence in Service Systems* by *Dr. Niklas Kühl* (WS 21/22 version) (WIP :construction:)
+* *Business Intelligence Systems* by *Dr. Mario Nadj* (WS 21/22 version) (WIP :construction:)
+
 
 ## Requirements 
 
