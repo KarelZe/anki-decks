@@ -15,9 +15,10 @@ Currently, includes:
 * *Patentrecht* taught by *M. Hoessle* (SS 21 version)
 * *Recommendersysteme* taught by *Prof. A. Geyer-Schulz* (SS 20 version)
 * *Rechnerstrukturen* taught by *Prof. W. Karl* (also requires heterogene parallele Rechnerstrukturen) (SS 21 version)
+* *Software-Architektur und Qualität* taught by *Prof. R. Reussner* (SS 21 version)
 * *Valuation* taught by *Prof. M. Ruckes* (WS 20/21 version)
 * *Vertragsgestaltung* taught by *S. Leipert* (SS 21 version)
-
+* *Vertragsgestaltung in der IT* taught by *M. Menk* (WS 21/22 version) (WIP :construction:)
 
 ## Requirements 
 
