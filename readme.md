@@ -3,7 +3,7 @@ Currently, includes:
 
 * *Analysetechniken großer Datenbestände* taught by *Prof. K. Böhm* (WS 20/21 version)
 * *Advanced ML* taught by *Dr. A. Nazemi* (SS 20 version)
-* *Artificial Intelligence in Service Systems* by *Dr. Niklas Kühl* (WS 21/22 version) (WIP :construction:)
+* *Artificial Intelligence in Service Systems* by *Dr. Niklas Kühl* (WS 21/22 version)
 * *Derivate* by *Prof. Dr. Uhrig-Homburg* (SS 21 version)
 * *Heterogene Parallele Rechnerstrukturen* taught by *Prof. W. Karl* (WS 20/21 version)
 * *Höhere Mathematik I* taught by *Prof. G. Herzog* (WS 19/20 version)
@@ -17,7 +17,7 @@ Currently, includes:
 * *Software-Architektur und Qualität* taught by *Prof. R. Reussner* (SS 21 version)
 * *Valuation* taught by *Prof. M. Ruckes* (WS 20/21 version)
 * *Vertragsgestaltung* taught by *S. Leipert* (SS 21 version)
-* *Vertragsgestaltung in der IT* taught by *M. Menk* (WS 21/22 version) (WIP :construction:)
+* *Vertragsgestaltung in der IT* taught by *M. Menk* (WS 21/22 version)
 
 ## Requirements 
 
