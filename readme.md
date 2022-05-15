@@ -5,6 +5,7 @@ Currently, includes:
 * *Advanced ML* taught by *Dr. A. Nazemi* (SS 20 version)
 * *Artificial Intelligence in Service Systems* by *Dr. Niklas Kühl* (WS 21/22 version)
 * *Business Data Analytics* by *D. Dann, A. Grote, F. Sterk* (SS 22 version)(WIP :construction:)
+* *Business Intelligence Systems* by *Dr. Mario Nadj* (WS 21/22 version)
 * *Deep Learning for Computer Vision* by *Prof. Dr. R. Stiefelhagen* (SS 22 version)(WIP :construction:)
 * *Derivate* by *Prof. Dr. Uhrig-Homburg* (SS 21 version)
 * *Heterogene Parallele Rechnerstrukturen* taught by *Prof. W. Karl* (WS 20/21 version)
