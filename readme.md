@@ -12,7 +12,7 @@ Currently, includes:
 * *Höhere Mathematik I* taught by *Prof. G. Herzog* (WS 19/20 version)
 * *Höhere Mathematik II* taught by *Prof. G. Herzog* (SS 20 version)
 * *Lineare Algebra I* taught by *Prof. T. Hartnick* (WS 19/20 version)
-* *Maschinelles Lernen (Grundverfahren)* taught by *Prof. G. Neumann* (WS 21/22 version)(WIP :construction:)
+* *Maschinelles Lernen (Grundverfahren)* taught by *Prof. G. Neumann* (WS 21/22 version)
 * *Parallelrechner* taught by *Prof. A. Streit* (SS 20 version)
 * *Patentrecht* taught by *M. Hoessle* (SS 21 version)
 * *Recommendersysteme* taught by *Prof. A. Geyer-Schulz* (SS 20 version)
