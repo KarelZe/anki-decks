@@ -1,3 +1,8 @@
+# ki-specific ignores
+
+.ki
+
+
 # decks to ignore
 
 Heterogene_Rechnerstrukturen Legacy.apkg
