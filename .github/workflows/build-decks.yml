@@ -12,6 +12,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install tidy
+        run: |
+          sudo apt-get install tidy
+
+      - name: Configure git
+        run: |
+          git config --global user.email "ki@example.com"
+          git config --global user.name "Ki GithubActions"
+
+      - name: Install ki
+        run: |
+          pip install wheel
+          pip install git+https://github.com/langfield/ki.git@main
+
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
