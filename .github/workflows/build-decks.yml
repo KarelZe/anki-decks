@@ -31,6 +31,28 @@ jobs:
           pip install wheel
           pip install git+https://github.com/langfield/ki.git@main
 
+      - name: Clone empty collection
+        working-directory: ../
+        run: |
+          ki clone collection.anki2
+          ls
+
+      - name: Copy deck repository into newly-cloned empty ki repository
+        run: |
+          cp -r ./ ../collection/
+          ls -l ../collection/
+
+      - name: Add and commit changes in ki repository
+        working-directory: ../collection/
+        run: |
+          git add .
+          git commit -m "Add deck."
+
+      - name: Push changes back to database file
+        working-directory: ../collection/
+        run: |
+          ki push
+
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
