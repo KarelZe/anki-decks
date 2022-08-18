@@ -32,9 +32,8 @@ jobs:
           pip install git+https://github.com/langfield/ki.git@main
 
       - name: Clone empty collection
-        working-directory: ../
         run: |
-          ki clone collection.anki2
+          ki clone collection.anki2 ../collection
           ls
 
       - name: Copy deck repository into newly-cloned empty ki repository
