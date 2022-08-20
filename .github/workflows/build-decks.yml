@@ -2,6 +2,8 @@ name: Publish Anki .apkg deck binaries
 
 on: 
   push:
+    tags:
+      - "v*.*.*"
   workflow_dispatch:
 
 jobs:
