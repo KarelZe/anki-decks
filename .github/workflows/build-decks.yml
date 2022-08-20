@@ -66,7 +66,7 @@ jobs:
           python3 ../ki/compile.py --collection collection.anki2 --deck '🐸 AISS'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🔮Analysetechniken_großer_Datenbestände'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🍰 Business Data Analytics'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🍣 Business Intelligence Systes'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🍣 Business Intelligence Systems'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🛣️ Deep Learning for Computer Vision'
           python3 ../ki/compile.py --collection collection.anki2 --deck 'DeepLearning for CV'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🌟Derivate'
