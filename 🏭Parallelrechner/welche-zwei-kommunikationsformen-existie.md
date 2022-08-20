@@ -1,7 +1,7 @@
 ## Note
 nid: 1593012179149
 model: Basic-b122e
-tags: 4_3_4_4_entwurf_paralleler_programme,, 5_1_mpi
+tags: 4_3_4_4_entwurf_paralleler_programme, 5_1_mpi
 markdown: false
 
 ### Front
