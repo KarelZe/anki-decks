@@ -60,6 +60,8 @@ jobs:
       - name: Compile deck
         run: |
           python3 ../ki/compile.py --collection collection.anki2 --deck 'HM I'
+          ls .
+          ls ../ki/
 
       - name: Release
         uses: softprops/action-gh-release@v1
@@ -67,4 +69,4 @@ jobs:
         with:
           files: |
             Release.txt
-            'HM I.apkg'
+            HM I.apkg
