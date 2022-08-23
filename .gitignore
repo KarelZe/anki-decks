@@ -3,13 +3,5 @@
 .ki
 
 
-# decks to ignore
-
-Heterogene_Rechnerstrukturen Legacy.apkg
-Verteiltes_Rechnen Legacy.apkg
-
-🔮Analysetechniken_großer_Datenbestände Daniel.apkg
-🔮 Analysetechniken_großer_Datenbestände Offizielle Fragen.apkg
-🛩️Vertragsgestaltung_Liam.apkg
-🗽 Internetrecht Klausurfragen.apkg
-🥪 BIS (Ankreuzfragen).apkg
+# ignore binary apkgs
+*.apkg
