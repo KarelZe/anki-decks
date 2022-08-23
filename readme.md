@@ -1,33 +1,31 @@
 This is a collection of flashcard decks created for classes at Karlsruher Institute of Technology.
 Currently, includes:
 
-| Subject                                    | Lecturer                    | Semester | Language | Hint               | Download                                                       |
-| ------------------------------------------ | --------------------------- | -------- | -------- | ------------------ | -------------------------------------------------------------- |
-| Advanced ML                                | Dr. A. Nazemi               | SS 20    | :us:     |                    | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Artificial Intelligence in Service Systems | Dr. Niklas Kühl             | WS 21/22 | :us:     |                    | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Business Data Analytics                    | D. Dann, A. Grote, F. Sterk | SS 22    | :us:     |                    | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Business Intelligence Systems              | Dr. Mario Nadj              | WS 21/22 | :us:     |                    | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Deep Learning for Computer Vision          | Prof. Dr. R. Stiefelhagen   | SS 22    | :us:     | WIP :construction: | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Derivate                                   | Prof. Dr. Uhrig-Homburg     | SS 21    | :de:     |                    | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Subject                                    | Lecturer                    | Semester | Language | Hint                                                | Download                                                       |
+| ------------------------------------------ | --------------------------- | -------- | -------- | --------------------------------------------------- | -------------------------------------------------------------- |
+| Advanced ML                                | Dr. A. Nazemi               | SS 20    | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Artificial Intelligence in Service Systems | Dr. Niklas Kühl             | WS 21/22 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Business Data Analytics                    | D. Dann, A. Grote, F. Sterk | SS 22    | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Business Intelligence Systems              | Dr. Mario Nadj              | WS 21/22 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Deep Learning for Computer Vision          | Prof. Dr. R. Stiefelhagen   | SS 22    | :us:     | WIP :construction:                                  | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Derivate                                   | Prof. Dr. Uhrig-Homburg     | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Heterogene Parallele Rechnerstrukturen     | Prof. W. Karl               | WS 20/21 | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Höhere Mathematik I                        | G. Herzog                   | WS 19/20 | :de:     | Requires LaTeX :warning:                            | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Höhere Mathematik II                       | G. Herzog                   | WS 19/20 | :de:     | Requires LaTeX :warning:                            | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Lineare Algebra I                          | Prof. T. Hartnick           | WS 19/20 | :de:     | Requires LaTeX :warning:                            | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Maschinelles Lernen (Grundverfahren)       | Prof. G. Neumann            | WS 21/22 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Parallelrechner                            | Prof. A. Streit             | SS 20    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Patentrecht                                | M. Hoessle                  | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Recommendersysteme                         | Prof. A. Geyer-Schulz       | SS 20    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Rechnerstrukturen                          | Prof. W. Karl               | SS 21    | :de:     | Requires Het. parallele Rechnerstrukturen :warning: | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Requirements Engineering                   | Prof. A. Koziolek           | SS 22    | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Software-Architektur und Qualität          | Prof. R. Reussner           | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Steuerrecht I                              | D. Dietrich                 | WS 20/21 | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Steuerrecht II                             | D. Dietrich                 | SS 20    | :de:     | Requires Steuerrecht I :warning:                    | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Valuation                                  | Prof. M Ruckes              | WS 20/21 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Vertragsgestaltung                         | S. Leipert                  | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Vertragsgestaltung in der IT               | M. Menk                     | WS 21/22 | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 
-- _Heterogene Parallele Rechnerstrukturen_ taught by _Prof. W. Karl_ (WS 20/21 version)
-- _Höhere Mathematik I_ taught by _Prof. G. Herzog_ (WS 19/20 version)
-- _Höhere Mathematik II_ taught by _Prof. G. Herzog_ (SS 20 version)
-- _Lineare Algebra I_ taught by _Prof. T. Hartnick_ (WS 19/20 version)
-- _Maschinelles Lernen (Grundverfahren)_ taught by _Prof. G. Neumann_ (WS 21/22 version)
-- _Parallelrechner_ taught by _Prof. A. Streit_ (SS 20 version)
-- _Patentrecht_ taught by _M. Hoessle_ (SS 21 version)
-- _Recommendersysteme_ taught by _Prof. A. Geyer-Schulz_ (SS 20 version)
-- _Rechnerstrukturen_ taught by _Prof. W. Karl_ (also requires heterogene parallele Rechnerstrukturen :warning:) (SS 21 version)
-- _Requirements Engineering_ taught by _Prof. Anne Koziolek_ (SS 22 version)
-- _Software-Architektur und Qualität_ taught by _Prof. R. Reussner_ (SS 21 version)
-- _Steuerrecht I_ taught by _D. Dietrich_ (WS 20/21 version)
-- _Steuerrecht II_ taught by _D. Dietrich_ (also requires Steuerrecht 1 :warning:) (SS 20 version)
-- _Valuation_ taught by _Prof. M. Ruckes_ (WS 20/21 version)
-- _Vertragsgestaltung_ taught by _S. Leipert_ (SS 21 version)
-- _Vertragsgestaltung in der IT_ taught by _M. Menk_ (WS 21/22 version)
-
-https://github.com/KarelZe/anki-decks/releases/
 
 ## Contribute
 
