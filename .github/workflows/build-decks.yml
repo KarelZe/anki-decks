@@ -36,7 +36,6 @@ jobs:
       - name: Clone ki
         run: |
           git clone https://github.com/langfield/ki.git ../ki/
-          cd ../ki/ && git checkout compile-deck-binaries && cd -
 
       - name: Clone empty collection
         run: |
