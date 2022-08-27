@@ -1,11 +1,12 @@
 ## Note
 nid: 1655730271454
-model: Basic-02d89
-tags: 07_image_seg_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::07_image_seg
 markdown: false
 
 ### Front
-What is a <b>Deconvolution Network</b>? What does its <b>architecture</b> look like?
+What is a <b>Deconvolution Network</b>? What does its
+<b>architecture</b> look like?
 
 ### Back
 <ul>

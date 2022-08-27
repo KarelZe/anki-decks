@@ -1,7 +1,7 @@
 ## Note
 nid: 1634573060628
-model: Basic-d7a3e
-tags: 01_einfuehrung_unternehmenssteuerrecht
+model: Basic-d7a3e-4ce08
+tags: SR_1::01_einfuehrung_unternehmenssteuerrecht
 markdown: false
 
 ### Front

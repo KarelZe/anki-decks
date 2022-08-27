@@ -1,11 +1,12 @@
 ## Note
 nid: 1648451287921
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: 01_steuerrecht
 markdown: false
 
 ### Front
-Unterscheiden Sie <b>Einkommenserzielung </b>und <b>Einkommensverwendung</b>.
+Unterscheiden Sie <b>Einkommenserzielung</b> und
+<b>Einkommensverwendung</b>.
 
 ### Back
 <img src="paste-6f43ab9c3a3350a022e3146aae6d8fc2fbb36c12.jpg">

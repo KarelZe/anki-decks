@@ -1,6 +1,6 @@
 ## Note
 nid: 1648541359660
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: 01_steuerrecht
 markdown: false
 

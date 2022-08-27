@@ -1,6 +1,6 @@
 ## Note
 nid: 1634836817326
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: vertragsgestaltung_it
 markdown: false
 
@@ -8,5 +8,8 @@ markdown: false
 Was charakterisiert einen <b>Dienstvertrag</b>? (§§ 611 ff. BGB)
 
 ### Back
-Verpflichtung zur Leistung von Diensten gegen Vergütung. <div>
-</div><div>Kein Erfolg geschuldet! Nur die übliche Anstrengung / ordnungsgemäßer Dienst.</div>
+Verpflichtung zur Leistung von Diensten gegen Vergütung.
+<div>
+  Kein Erfolg geschuldet! Nur die übliche Anstrengung /
+  ordnungsgemäßer Dienst.
+</div>

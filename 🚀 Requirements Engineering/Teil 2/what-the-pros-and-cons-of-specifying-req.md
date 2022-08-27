@@ -1,12 +1,11 @@
 ## Note
 nid: 1655905403783
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::documentating
 markdown: false
 
 ### Front
-What the <b>pros</b> and <b>cons</b> of specifying requirements in
-<b>natural language</b>?
+What the <b>pros </b>and <b>cons </b>of specifying requirements in <b>natural language</b>?
 
 ### Back
 <b>Pro</b>

@@ -1,11 +1,12 @@
 ## Note
 nid: 1648536804988
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: 01_steuerrecht
 markdown: false
 
 ### Front
-Geben Sie drei <b>Beispiele </b>an, wie sich das <b>Vorsichtsprinzip </b>auswirkt.
+Geben Sie drei <b>Beispiele</b> an, wie sich das
+<b>Vorsichtsprinzip</b> auswirkt.
 
 ### Back
 In Form des Imparitätsprinzips bei:

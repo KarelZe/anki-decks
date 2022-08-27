@@ -1,0 +1,19 @@
+## Note
+nid: 1591525901511
+model: Basic-b122e-20a86
+tags: 07_modelling
+markdown: false
+
+### Front
+Aus welchen Phasen besteht der <b>Knowledge Discovery-Prozess</b>
+(KDD)?
+
+### Back
+<ol>
+  <li>Data Selection
+  <li>Preprocessing
+  <li>Data Storage
+  <li>Data Mining
+  <li>Interpretation / Evaluation
+  <li>Presentation / Delivery
+</ol>

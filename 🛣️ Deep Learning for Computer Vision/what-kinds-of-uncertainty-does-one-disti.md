@@ -1,11 +1,12 @@
 ## Note
 nid: 1659855746061
-model: Basic-02d89
-tags: 12_adv_topics_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::12_adv_topics
 markdown: false
 
 ### Front
-What <b>kinds </b>of <b>uncertainty </b>does one distinguish? Explain them shortly.
+What <b>kinds</b> of <b>uncertainty</b> does one distinguish?
+Explain them shortly.
 
 ### Back
 <img src="paste-8aa4a72ff2959b446f9b6472a80e06a0ba46ab1c.jpg">

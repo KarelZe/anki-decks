@@ -1,11 +1,11 @@
 ## Note
 nid: 1639135708768
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Welche Handlungen bedürfen keiner Zustimmung nach § 69d UrhG?
+Welche Handlungen bedürfen keiner Zustimmung nach <b>§ 69d UrhG</b>?
 
 ### Back
-<ul><li>Bestimmungsgemäße Nutzung</li><li>Sicherungskopie</li><li>Beobachten, untersuchen, testen</li></ul>
+<ul><li>Bestimmungsgemäße Nutzung (einschl. technisch notwendiger Vervielfältigungen z. B. Programm laden)</li><li>Sicherungskopie (Backup; auch >= 1)</li><li>Beobachten, untersuchen, testen</li></ul>

@@ -1,11 +1,11 @@
 ## Note
 nid: 1651484947177
-model: Basic-02d89
-tags: 02_basics_nn_dlcv
+model: Basic-02d89-e0e22
+tags: dl_cv::02_basics_nn
 markdown: false
 
 ### Front
-How do <b>Maxout </b>and <b>ReLU</b> relate?
+How do <b>Maxout</b> and <b>ReLU</b> relate?
 
 ### Back
 Maxout generalizes ReLU and Leaky ReLU.

@@ -1,7 +1,7 @@
 ## Note
 nid: 1647506219183
-model: Basic-02d89
-tags: vertragsgestaltung_it, word_skript
+model: Basic-02d89-e0e22
+tags: ultra, vertragsgestaltung_it, word_skript
 markdown: false
 
 ### Front
@@ -17,10 +17,11 @@ Unterscheiden Sie <b>Gewährleistung</b> und <b>Garantie</b>.
 </ul><b>Garantie:</b>
 <ul>
   <li>Vertragliche Vereinbarung zwischen den Parteien.
-  <li>Garantie ist eine von einem Verkäufer oder Hsteller gegenüber
-  dem Verbraucher ohne Aufpreis eingegangene Verpflichtung, den
-  Kaufpreis zu erstatten, das Verbrauchsgut zu ersetzen [...],
-  sofern es nicht den genannten Eigenschaften entspricht.
+  <li>Garantie ist eine von einem Verkäufer oder Hersteller
+  gegenüber dem Verbraucher ohne Aufpreis eingegangene
+  Verpflichtung, den Kaufpreis zu erstatten, das Verbrauchsgut zu
+  ersetzen [...], sofern es nicht den genannten Eigenschaften
+  entspricht.
   <li>Garantie ist also "Mehr". Garantie kann aber viele (oder auch
   alle) Elemente der gesetzlichen Gewährleistung umfassen. Sie muss
   zwingend die Erklärung enthalten für etwas "voll einstehen" zu

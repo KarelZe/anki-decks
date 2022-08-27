@@ -1,7 +1,7 @@
 ## Note
 nid: 1657441374238
-model: Basic-02d89
-tags: 10_video_self_learning
+model: Basic-02d89-e0e22
+tags: dl_cv::10_video_self_learning
 markdown: false
 
 ### Front

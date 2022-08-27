@@ -60,32 +60,29 @@ jobs:
 
       - name: Compile deck
         run: |
-          python3 ../ki/compile.py --collection collection.anki2 --deck 'HM I'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🎪Advanced ML'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🐸 AISS'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🔮Analysetechniken_großer_Datenbestände'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '⚡ Heterogene Rechnerstrukturen'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🌟 Derivate'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🍦 AISS'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🍩 Vertragsgestaltung IT-Bereich'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🍰 Business Data Analytics'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🍣 Business Intelligence Systems'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🛣️ Deep Learning for Computer Vision'
-          python3 ../ki/compile.py --collection collection.anki2 --deck 'DeepLearning for CV'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🌟Derivate'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '⚡Heterogene_Rechnerstrukturen'
-          python3 ../ki/compile.py --collection collection.anki2 --deck 'HM I'
-          python3 ../ki/compile.py --collection collection.anki2 --deck 'HM II'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '👨‍🚀 Klausurfragen AdvML'
-          python3 ../ki/compile.py --collection collection.anki2 --deck 'LA 1'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🧠Machine_Learning'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🏭Parallelrechner'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '👩‍⚖️Patentrecht offizielle Fragen 2020'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🧮Rechnerstrukturen'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🧙‍Recommendersysteme'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🚀 Requirements Engineering'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🫖Software Architektur'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🎀 Valuation'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🎪 Advanced ML'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🏭 Parallelrechner'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '👩‍⚖️ Patentrecht'
           python3 ../ki/compile.py --collection collection.anki2 --deck '💵 Steuerrecht 1'
           python3 ../ki/compile.py --collection collection.anki2 --deck '💷 Steuerrecht 2'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🎀Valuation'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🛩️Vertragsgestaltung 2021'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🍩 Vertragsgestaltung IT-Bereich'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '📐 LA 1'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🔢 HM 1'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🔢 HM 2'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🗽 Internetrecht'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🧮 Rechnerstrukturen'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🧙‍ Recommendersysteme'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🚀 Requirements Engineering'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🛣️ Deep Learning for Computer Vision'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🛩️ Vertragsgestaltung'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🧠 Machine Learning'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🧮 Rechnerstrukturen'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '🫖 Software Architektur'
           ls .
           ls ../ki/
 
@@ -94,28 +91,26 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            🎪Advanced ML.apkg
-            🐸 AISS.apkg
-            🔮Analysetechniken_großer_Datenbestände.apkg
+            ⚡ Heterogene Rechnerstrukturen.apkg
+            🌟 Derivate.apkg
+            🍦 AISS.apkg
+            🍩 Vertragsgestaltung IT-Bereich.apkg
             🍰 Business Data Analytics.apkg
-            🍣 Business Intelligence Systems.apkg
-            🛣️ Deep Learning for Computer Vision.apkg
-            DeepLearning for CV.apkg
-            🌟Derivate.apkg
-            ⚡Heterogene_Rechnerstrukturen.apkg
-            HM I.apkg
-            HM II.apkg
-            👨‍🚀 Klausurfragen AdvML.apkg
-            LA 1.apkg
-            🧠Machine_Learning.apkg
-            🏭Parallelrechner.apkg
-            👩‍⚖️Patentrecht offizielle Fragen 2020.apkg
-            🧮Rechnerstrukturen.apkg
-            🧙‍Recommendersysteme.apkg
-            🚀 Requirements Engineering.apkg
-            🫖Software Architektur.apkg
+            🎀 Valuation.apkg
+            🎪 Advanced ML.apkg
+            🏭 Parallelrechner.apkg
+            👩‍⚖️ Patentrecht.apkg
             💵 Steuerrecht 1.apkg
             💷 Steuerrecht 2.apkg
-            🎀Valuation.apkg
-            🛩️Vertragsgestaltung 2021.apkg
-            🍩 Vertragsgestaltung IT-Bereich.apkg
+            📐 LA 1.apkg
+            🔢 HM 1.apkg
+            🔢 HM 2.apkg
+            🗽 Internetrecht.apkg
+            🏭 Parallelrechner.apkg
+            🚀 Requirements Engineering.apkg
+            🛣️ Deep Learning for Computer Vision.apkg
+            🧙‍ Recommendersysteme.apkg
+            🚀 Requirements Engineering.apkg
+            🛩️ Vertragsgestaltung.apkg
+            🧮 Rechnerstrukturen.apkg
+            🫖 Software Architektur.apkg

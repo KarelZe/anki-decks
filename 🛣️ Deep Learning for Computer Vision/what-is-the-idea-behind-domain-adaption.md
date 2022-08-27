@@ -1,11 +1,11 @@
 ## Note
 nid: 1659862330060
-model: Basic-02d89
-tags: 12_adv_topics_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::12_adv_topics
 markdown: false
 
 ### Front
-What is the <b>idea </b>behind <b>domain adaption</b>?
+What is the <b>idea</b> behind <b>domain adaption</b>?
 
 ### Back
 <ul>

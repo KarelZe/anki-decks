@@ -1,11 +1,11 @@
 ## Note
 nid: 1659593316023
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::model-based-specification
 markdown: false
 
 ### Front
-Why do we use <b>OCL </b>in <b>requirements engineering</b>?
+Why do we use <b>OCL</b> in <b>requirements engineering</b>?
 
 ### Back
 <ul>

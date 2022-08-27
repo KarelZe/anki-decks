@@ -1,11 +1,12 @@
 ## Note
 nid: 1651471110325
-model: Basic-02d89
-tags: 02_basics_nn_dlcv
+model: Basic-02d89-e0e22
+tags: dl_cv::02_basics_nn
 markdown: false
 
 ### Front
-Give the formula, how the output of a <b>FFN</b> can be calculated in the <b>forward pass</b>.
+Give the formula, how the output of a <b>FFN</b> can be calculated
+in the <b>forward pass</b>.
 
 ### Back
 \(y=f(Wx+b)\) where \(f(\boldsymbol{x})\) e.g.,

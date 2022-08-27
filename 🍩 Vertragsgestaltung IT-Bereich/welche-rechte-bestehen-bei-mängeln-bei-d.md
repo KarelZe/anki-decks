@@ -1,11 +1,12 @@
 ## Note
 nid: 1635445634055
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Welche Rechte bestehen bei <b>Mängeln </b>bei der Herstellung unkörperlicher Sachen beim <b>Werkvertrag</b>?
+Welche Rechte bestehen bei <b>Mängeln</b> bei der Herstellung
+unkörperlicher Sachen beim <b>Werkvertrag</b>?
 
 ### Back
 <ul>

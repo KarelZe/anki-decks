@@ -1,6 +1,6 @@
 ## Note
 nid: 1647508617672
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: vertragsgestaltung_it, word_skript
 markdown: false
 
@@ -13,7 +13,7 @@ genügen?
 Eine technische Regel gilt als allgemein anerkannt, wenn sie:
 <ul>
   <li>die Richtigkeitsüberzeugung der vorherrschenden Ansicht der
-  technischen Fachleute enspricht (allgmeine wissenschaftliche
+  technischen Fachleute entspricht (allgemeine wissenschaftliche
   Anerkennung)
   <li>Praxis-erprobt und bewährt ist (praktische Bewährung)
 </ul>

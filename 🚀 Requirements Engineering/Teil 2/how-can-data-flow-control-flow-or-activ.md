@@ -1,11 +1,12 @@
 ## Note
 nid: 1659590716509
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::model-based-specification
 markdown: false
 
 ### Front
-How can <b>data flow</b>, <b>control flow</b> or <b>activities </b>be modeled?
+How can <b>data flow</b>, <b>control flow</b> or <b>activities</b>
+be modeled?
 
 ### Back
 Acitivity diagrams, which are based on petri nets. <b>Viz:</b>

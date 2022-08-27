@@ -1,6 +1,6 @@
 ## Note
 nid: 1649169990920
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: 01_steuerrecht, checklater
 markdown: false
 

@@ -1,11 +1,12 @@
 ## Note
 nid: 1635438640556
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Was versteht man unter <b>Verzug</b>? Was ist die gesetzliche Grundlage?
+Was versteht man unter <b>Verzug</b>? Was ist die gesetzliche
+Grundlage?
 
 ### Back
 Schuldhafte Nichtleistung trotz Fälligkeit, Durchsetzbarkeit und

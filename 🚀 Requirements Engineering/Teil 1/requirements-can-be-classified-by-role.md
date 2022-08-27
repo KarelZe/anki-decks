@@ -1,11 +1,12 @@
 ## Note
 nid: 1652177835012
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::classifiying-re
 markdown: false
 
 ### Front
-<b>Requirements</b> can be classified by <b>role</b>. Name and explain the criteria.
+<b>Requirements</b> can be classified by <b>role</b>. Name and
+explain the criteria.
 
 ### Back
 <ul>

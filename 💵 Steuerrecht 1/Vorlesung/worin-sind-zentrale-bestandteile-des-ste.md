@@ -1,11 +1,12 @@
 ## Note
 nid: 1634574101763
-model: Basic-d7a3e
-tags: 01_einfuehrung_unternehmenssteuerrecht
+model: Basic-d7a3e-4ce08
+tags: SR_1::01_einfuehrung_unternehmenssteuerrecht
 markdown: false
 
 ### Front
-Worin sind zentrale <b>Bestandteile </b>des <b>Steuerrechts </b>formuliert?
+Worin sind zentrale <b>Bestandteile</b> des <b>Steuerrechts</b>
+formuliert?
 
 ### Back
 <ul>

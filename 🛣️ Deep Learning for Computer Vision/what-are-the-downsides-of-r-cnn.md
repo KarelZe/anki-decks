@@ -1,11 +1,11 @@
 ## Note
 nid: 1653299115923
-model: Basic-02d89
-tags: 05_object_detection_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::05_object_detection
 markdown: false
 
 ### Front
-What are the <b>downsides </b>of <b>R-CNN</b>?
+What are the <b>downsides</b> of <b>R-CNN</b>?
 
 ### Back
 <ul>

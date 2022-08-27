@@ -1,11 +1,12 @@
 ## Note
 nid: 1646828973786
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: vertragsgestaltung_it
 markdown: false
 
 ### Front
-Welche <b>Eckpunkte </b>umfasst die <b>Datenportabilität</b> der <b>DSGVO</b>?
+Welche <b>Eckpunkte</b> umfasst die <b>Datenportabilität</b> der
+<b>DSGVO</b>?
 
 ### Back
 <ul>

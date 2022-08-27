@@ -1,11 +1,11 @@
 ## Note
 nid: 1655127205960
-model: Basic-02d89
-tags: 07_image_seg_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::07_image_seg
 markdown: false
 
 ### Front
-Name <b>applications </b>of <b>semantic segmentation</b>.
+Name <b>applications</b> of <b>semantic segmentation</b>.
 
 ### Back
 <b>Street segmentation</b> e. g., in autnomous driving <b>Indoor

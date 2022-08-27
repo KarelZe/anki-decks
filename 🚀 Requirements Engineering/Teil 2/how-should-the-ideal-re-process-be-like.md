@@ -1,6 +1,6 @@
 ## Note
 nid: 1655197503175
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::engineering-process
 markdown: false
 
@@ -8,4 +8,10 @@ markdown: false
 How should the ideal RE process be like?
 
 ### Back
-<ul><li>strongly iterative</li><li>close and intense collaboration between stakeholders and re engineers</li><li>short feedback cycles</li><li>risk and feasability aware</li></ul>
+<ul>
+  <li>strongly iterative
+  <li>close and intense collaboration between stakeholders and re
+  engineers
+  <li>short feedback cycles
+  <li>risk and feasability aware
+</ul>

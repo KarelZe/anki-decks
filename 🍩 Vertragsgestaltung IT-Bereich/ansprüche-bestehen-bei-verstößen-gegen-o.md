@@ -1,6 +1,6 @@
 ## Note
 nid: 1639137339883
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
@@ -8,8 +8,4 @@ markdown: false
 Ansprüche bestehen bei Verstößen gegen <b>Open Source Lizenzen</b>?
 
 ### Back
-<ul>
-  <li>Unterlassungsanspruch
-  <li>Auskunftsanspruch
-  <li>Schadensersatzanspruch
-</ul>
+<ul><li>Unterlassungsanspruch</li><li>Auskunftsanspruch</li><li>Schadensersatzanspruch</li></ul>

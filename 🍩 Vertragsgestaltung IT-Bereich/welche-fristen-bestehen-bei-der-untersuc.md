@@ -1,6 +1,6 @@
 ## Note
 nid: 1647500915426
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: vertragsgestaltung_it, word_skript
 markdown: false
 

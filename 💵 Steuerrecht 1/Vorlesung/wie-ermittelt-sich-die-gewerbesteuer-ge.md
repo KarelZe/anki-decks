@@ -1,7 +1,7 @@
 ## Note
 nid: 1648394863534
-model: Basic-02d89
-tags: 01_steuerrecht, SR_2, SR_2::SR_2-II
+model: Basic-02d89-e0e22
+tags: 01_steuerrecht, SR_2, SR_2::SR_2-III
 markdown: false
 
 ### Front

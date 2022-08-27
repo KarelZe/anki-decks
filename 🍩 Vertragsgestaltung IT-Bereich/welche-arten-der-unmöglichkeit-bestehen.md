@@ -1,11 +1,11 @@
 ## Note
 nid: 1635439292595
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Welche <b>Arten </b>der <b>Unmöglichkeit </b>bestehen?
+Welche <b>Arten</b> der <b>Unmöglichkeit</b> bestehen?
 
 ### Back
 <div>

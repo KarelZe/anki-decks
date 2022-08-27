@@ -1,11 +1,11 @@
 ## Note
 nid: 1635443061425
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Was erhält man bei <b>Bestehen </b>eines <b>Verzugsschadens</b>?
+Was erhält man bei <b>Bestehen</b> eines <b>Verzugsschadens</b>?
 
 ### Back
 <ol>

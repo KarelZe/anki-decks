@@ -1,7 +1,7 @@
 ## Note
 nid: 1652098912212
-model: Basic-02d89
-tags: 03_nn_basics_dlcv
+model: Basic-02d89-e0e22
+tags: dl_cv::03_nn_basics
 markdown: false
 
 ### Front

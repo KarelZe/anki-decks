@@ -1,0 +1,11 @@
+## Note
+nid: 1617523079476
+model: Basic-d7a3e-4ce08
+tags: rs::02_rechnerarchitektur
+markdown: false
+
+### Front
+Wie ist die <b>Latenz</b> / <b>Antwortzeit</b> definiert?
+
+### Back
+Zeit zwischen dem Start und dem Ende eines Ereignisses.

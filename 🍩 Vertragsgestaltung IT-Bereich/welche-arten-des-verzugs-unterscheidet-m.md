@@ -1,11 +1,12 @@
 ## Note
 nid: 1635439878616
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Welche <b>Arten </b>des <b>Verzugs </b>unterscheidet man? Wann gerät man dann in Verzug?
+Welche <b>Arten</b> des <b>Verzugs</b> unterscheidet man? Wann
+gerät man dann in Verzug?
 
 ### Back
 <ul>

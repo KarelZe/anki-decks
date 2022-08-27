@@ -1,11 +1,12 @@
 ## Note
 nid: 1659603799734
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::engineering-process
 markdown: false
 
 ### Front
-When to use <b>customer-specific processes</b> and and <b>market-oriented processes</b> in RE?
+When to use <b>customer-specific processes</b> and and
+<b>market-oriented processes</b> in RE?
 
 ### Back
 <b>Customer-specific process</b>

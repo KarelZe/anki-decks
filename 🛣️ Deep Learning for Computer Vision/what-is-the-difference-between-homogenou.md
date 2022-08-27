@@ -1,11 +1,12 @@
 ## Note
 nid: 1652097741752
-model: Basic-02d89
-tags: 03_nn_basics_dlcv
+model: Basic-02d89-e0e22
+tags: dl_cv::03_nn_basics
 markdown: false
 
 ### Front
-What is the difference between <b>homogenous</b> and <b>heterogenous ensembles</b>?
+What is the difference between <b>homogenous</b> and
+<b>heterogenous ensembles</b>?
 
 ### Back
 <ul>

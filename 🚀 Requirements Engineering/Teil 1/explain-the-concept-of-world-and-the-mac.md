@@ -1,11 +1,12 @@
 ## Note
 nid: 1650966358946
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::principles-re
 markdown: false
 
 ### Front
-Explain the concept of <b>world and the machine</b> by <b>Zave </b>and <b>Jackson</b>.
+Explain the concept of <b>world and the machine</b> by <b>Zave</b>
+and <b>Jackson</b>.
 
 ### Back
 <b>Definition:</b> Given a machine the specification \(S\) and

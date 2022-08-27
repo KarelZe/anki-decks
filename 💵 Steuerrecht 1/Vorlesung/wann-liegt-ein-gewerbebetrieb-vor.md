@@ -1,11 +1,11 @@
 ## Note
 nid: 1634649106247
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: SR_1::I-8
 markdown: false
 
 ### Front
-Wann liegt ein <b>Gewerbebetrieb </b>vor?
+Wann liegt ein <b>Gewerbebetrieb</b> vor?
 
 ### Back
 <div>

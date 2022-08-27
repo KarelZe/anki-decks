@@ -1,11 +1,12 @@
 ## Note
 nid: 1648310439444
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: 01_steuerrecht, 02_steuerrecht, SR_2
 markdown: false
 
 ### Front
-Welche <b>3 Arten von Kosten</b> kann ein <b>Steuerpflichtiger </b>haben?
+Welche <b>3 Arten von Kosten</b> kann ein <b>Steuerpflichtiger</b>
+haben?
 
 ### Back
 Betriebsausgaben, Werbungskosten und Kosten der Lebensführung.

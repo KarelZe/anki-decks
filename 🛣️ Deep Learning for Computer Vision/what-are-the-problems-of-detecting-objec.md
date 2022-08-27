@@ -1,11 +1,12 @@
 ## Note
 nid: 1653288254296
-model: Basic-02d89
-tags: 05_object_detection_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::05_object_detection
 markdown: false
 
 ### Front
-What are the problems of <b>detecting objects</b> using a<b> sliding window</b>?
+What are the problems of <b>detecting objects</b> using a
+<b>sliding window</b>?
 
 ### Back
 <ul>

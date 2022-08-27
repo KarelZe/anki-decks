@@ -1,6 +1,6 @@
 ## Note
 nid: 1638451604642
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
@@ -8,18 +8,4 @@ markdown: false
 Welche Verwertungsrechte stehen nach dem Urheberrecht zu?
 
 ### Back
-<ul>
-  <li>Vervielfältigungsrecht § 16 UrhG (z. B. Scan erstellen / Foto
-  des Eifelturms bei Nacht verboten wegen Lichtshow)
-  <li>Verbreitungsrecht § 17 UrhG (z. B. Vertrieb / Weitergabe)
-  <li>Bearbeitungsrecht § 23, 24 UrhG (z. B. Werk bearbeiten)
-  <li>Verwertung § 15 UrhG
-  <li>Unterscheid Benutzung und Nutzung
-  <ul>
-    <li>Nutzungsrechte betreffen einzelne Aspekte der
-    Verwertungsrechte z. B.
-    <li>Benutzung eines Werkes ist frei z. B. wann man Buch liest,
-    kann nicht beschränkt werden.
-  </ul>
-</ul>Alle obigen Rechte brauchen Genehmigung des Urhebers z. B.
-Urheberrecht. Kein gutgläubiger Erwerb von Rechten!
+<ul><li>Vervielfältigungsrecht § 16 UrhG (z. B. Scan erstellen / Foto des Eifelturms bei Nacht verboten wegen Lichtshow)</li><li>Verbreitungsrecht § 17 UrhG (z. B. Vertrieb / Weitergabe)</li><li>Bearbeitungsrecht § 23, 24 UrhG (z. B. Werk bearbeiten)</li><li>Verwertung § 15 UrhG</li><li>Unterscheid Benutzung und Nutzung</li><ul><li>Nutzungsrechte betreffen einzelne Aspekte der Verwertungsrechte z. B. </li><li>Benutzung eines Werkes ist frei z. B. wann man Buch liest, kann nicht beschränkt werden.</li></ul></ul>Alle obigen Rechte brauchen Genehmigung des Urhebers z. B. Urheberrecht. Kein gutgläubiger Erwerb von Rechten!

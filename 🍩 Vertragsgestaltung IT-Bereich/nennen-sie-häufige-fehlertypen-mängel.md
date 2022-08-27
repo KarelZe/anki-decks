@@ -1,11 +1,12 @@
 ## Note
 nid: 1635442301653
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Nennen Sie häufige <b>Fehlertypen </b>/ <b>Mängel</b> im <b>IT-Bereich</b>.
+Nennen Sie häufige <b>Fehlertypen</b> / <b>Mängel</b> im
+<b>IT-Bereich</b>.
 
 ### Back
 <ul>

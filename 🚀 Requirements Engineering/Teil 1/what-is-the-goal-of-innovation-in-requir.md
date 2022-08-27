@@ -1,11 +1,12 @@
 ## Note
 nid: 1651561902210
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::principles-re
 markdown: false
 
 ### Front
-What is the goal of <b>Innovation</b> in <b>Requirements Engineering</b>?
+What is the goal of <b>innovation</b> in <b>Requirements
+Engineering</b>?
 
 ### Back
 Don't just <b>satisfy</b> stakeholders <i>(build what stakeholders

@@ -1,11 +1,12 @@
 ## Note
 nid: 1655732449074
-model: Basic-02d89
-tags: 07_image_seg_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::07_image_seg
 markdown: false
 
 ### Front
-How does a <b>transposed convolution</b> for <b>learnable upsampling</b> work?
+How does a <b>transposed convolution</b> for <b>learnable
+upsampling</b> work?
 
 ### Back
 <b>Convolution:</b> <img src= 

@@ -1,6 +1,6 @@
 ## Note
 nid: 1650958609580
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::principles-re
 markdown: false
 
@@ -8,4 +8,4 @@ markdown: false
 Define <b>stakeholders</b>.
 
 ### Back
-A person or organization that has a (direct e.g., using or indirect e.g.,influenced by) influence on a system's requirement.
+A person or organization that has a (direct e.g., using or indirect e.g., influenced by) influence on a system's requirement.

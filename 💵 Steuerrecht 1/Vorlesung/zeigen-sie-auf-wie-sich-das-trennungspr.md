@@ -1,11 +1,12 @@
 ## Note
 nid: 1648451405491
-model: Basic-02d89
-tags: 01_steuerrecht, 02_steuerrecht, 06_sr2, SR_2, SR_2::SR_2_II-1
+model: Basic-02d89-e0e22
+tags: 01_steuerrecht, 02_steuerrecht, SR_2, SR_2::SR_2-II::SR_2_II-1
 markdown: false
 
 ### Front
-Zeigen Sie auf, wie sich das <b>Trennungsprinzip </b>auf die Besteuerung von Gewinnen der Kapitalgesellschaft auswirkt?
+Zeigen Sie auf, wie sich das <b>Trennungsprinzip</b> auf die
+Besteuerung von Gewinnen der Kapitalgesellschaft auswirkt?
 
 ### Back
 Laufende Gewinne der Kapitalgesellschaft werden ausschließlich auf

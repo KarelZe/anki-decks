@@ -1,11 +1,12 @@
 ## Note
 nid: 1653297921126
-model: Basic-02d89
-tags: 05_object_detection_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::05_object_detection
 markdown: false
 
 ### Front
-What is <b>AP / mAP</b> in context of <b>object detection</b>? How is it calculated?
+What is <b>AP / mAP</b> in context of <b>object detection</b>? How
+is it calculated?
 
 ### Back
 Average of the precision in the Precision / recall curve. The

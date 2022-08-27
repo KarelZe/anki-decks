@@ -1,11 +1,11 @@
 ## Note
 nid: 1655752002919
-model: Basic-02d89
-tags: 08_rnn
+model: Basic-02d89-e0e22
+tags: dl_cv::08_rnn
 markdown: false
 
 ### Front
-Describe the <b>idea</b> behind <b>Sequence-to-Sequence models</b>.
+Describe the <b>idea </b>behind <b>Sequence-to-Sequence models</b>.
 
 ### Back
 Input sequence "ABC", Target sequence "WXYZ". 

@@ -1,11 +1,11 @@
 ## Note
 nid: 1652172643555
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::shared-understanding
 markdown: false
 
 ### Front
-How can <b>shared understanding </b>be classified?
+How can <b>shared understanding</b> be classified?
 
 ### Back
 <ul>

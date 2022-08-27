@@ -1,11 +1,11 @@
 ## Note
 nid: 1634840013216
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Nennen Sie <b>Rechtsfolgen </b>der <b>Abnahme</b>.
+Nennen Sie <b>Rechtsfolgen</b> der <b>Abnahme</b>.
 
 ### Back
 <ul>

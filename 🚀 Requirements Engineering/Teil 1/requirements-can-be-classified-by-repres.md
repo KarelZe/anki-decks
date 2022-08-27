@@ -1,6 +1,6 @@
 ## Note
 nid: 1652176668263
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::classifiying-re
 markdown: false
 
@@ -9,4 +9,9 @@ markdown: false
 Name and explain the criteria.
 
 ### Back
-<ul><li><b>Operational:</b> Specification of operations or data</li><li><b>Quantitative:</b> Specification of measurable properties</li><li><b>Qualitative:</b> Specification of goals</li><li><b>Declarative:</b> Description of a required property</li></ul>
+<ul>
+  <li><b>Operational:</b> Specification of operations or data
+  <li><b>Quantitative:</b> Specification of measurable properties
+  <li><b>Qualitative:</b> Specification of goals
+  <li><b>Declarative:</b> Description of a required property
+</ul>

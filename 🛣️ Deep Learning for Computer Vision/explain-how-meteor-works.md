@@ -1,11 +1,11 @@
 ## Note
 nid: 1656317051636
-model: Basic-02d89
-tags: 
+model: Basic-02d89-e0e22
+tags: dl_cv::misc
 markdown: false
 
 ### Front
-Explain how <b>METEOR </b>works?
+Explain how <b>METEOR</b> works?
 
 ### Back
 Combine precision and recall. <b>Example:</b> Hyp: on the mat sat

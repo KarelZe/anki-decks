@@ -1,7 +1,7 @@
 ## Note
 nid: 1652601368867
-model: Basic-02d89
-tags: 04_deep_cnns_background
+model: Basic-02d89-e0e22
+tags: dl_cv::04_deep_cnns_background
 markdown: false
 
 ### Front
@@ -11,5 +11,4 @@ give the <b>formula</b>. <img src=
 
 ### Back
 <img src="paste-30dee6b9c87bc93a6c60daaab5e43b1859172fc2.jpg">
-
 \(g(i, j)=\sum_{k, l} f(i+k, j+l) h(k, l)\)

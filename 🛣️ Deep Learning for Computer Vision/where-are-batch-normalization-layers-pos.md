@@ -1,11 +1,12 @@
 ## Note
 nid: 1652098679285
-model: Basic-02d89
-tags: 03_nn_basics_dlcv
+model: Basic-02d89-e0e22
+tags: dl_cv::03_nn_basics
 markdown: false
 
 ### Front
-Where are <b>batch normalization layers</b> positioned in a <b>neural net</b>?
+Where are <b>batch normalization layers</b> positioned in a
+<b>neural net</b>?
 
 ### Back
 Usually inserted after fully-connected or convolutional layers and

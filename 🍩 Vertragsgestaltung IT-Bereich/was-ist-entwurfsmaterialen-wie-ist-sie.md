@@ -1,11 +1,12 @@
 ## Note
 nid: 1647886683558
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: vertragsgestaltung_it
 markdown: false
 
 ### Front
-Was ist <b>Entwurfsmaterialen</b>? Wie ist sie <b>urheberrechtlich </b>geschützt?
+Was ist <b>Entwurfsmaterialen</b>? Wie ist sie
+<b>urheberrechtlich</b> geschützt?
 
 ### Back
 Entwicklungsdokumentation umfasst Entwursmaterialen, also insb. Quellcode, sonstige Aufschriebe die zur Erstellung des Computerprogramms dienen. 

@@ -1,11 +1,12 @@
 ## Note
 nid: 1651480404167
-model: Basic-02d89
-tags: 02_basics_nn_dlcv
+model: Basic-02d89-e0e22
+tags: dl_cv::02_basics_nn
 markdown: false
 
 ### Front
-What are <b>important properties</b> of <b>activation functions</b>?
+What are <b>important properties</b> of <b>activation
+functions</b>?
 
 ### Back
 <ul>

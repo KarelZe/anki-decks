@@ -1,11 +1,12 @@
 ## Note
 nid: 1648540317646
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: 01_steuerrecht
 markdown: false
 
 ### Front
-Wer fällt unter die <b>derivative Buchführungspflicht</b>? Wer nicht?
+Wer fällt unter die <b>derivative Buchführungspflicht</b>? Wer
+nicht?
 
 ### Back
 Von der <b>derivativen Buchführungspflicht</b> sind insbes. die

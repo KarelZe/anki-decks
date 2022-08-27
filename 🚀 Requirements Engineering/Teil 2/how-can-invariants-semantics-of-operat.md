@@ -1,11 +1,12 @@
 ## Note
 nid: 1659593695971
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::model-based-specification
 markdown: false
 
 ### Front
-How can <b>invariants / semantics of operations </b>be modelled in <b>OCL</b>?
+How can <b>invariants / semantics of operations</b> be modelled in
+<b>OCL</b>?
 
 ### Back
 <div>

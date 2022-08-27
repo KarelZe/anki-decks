@@ -1,11 +1,11 @@
 ## Note
 nid: 1659597344462
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::re-management
 markdown: false
 
 ### Front
-How can <b>tracability </b>between <b>documents </b>be maintained?
+How can <b>tracability</b> between <b>documents</b> be maintained?
 
 ### Back
 <b>Manually:</b>

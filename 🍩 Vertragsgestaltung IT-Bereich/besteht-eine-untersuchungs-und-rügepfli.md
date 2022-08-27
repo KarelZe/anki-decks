@@ -1,11 +1,12 @@
 ## Note
 nid: 1635436283126
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: vertragsgestaltung_it
 markdown: false
 
 ### Front
-Besteht eine <b>Untersuchungs-</b> und <b>Rügepflicht </b>bereits bei <b>Teillieferungen</b>?
+Besteht eine <b>Untersuchungs-</b> und <b>Rügepflicht</b> bereits
+bei <b>Teillieferungen</b>?
 
 ### Back
 Nein. <b>Untersuchungs</b>- und <b>Rügepflicht</b> erst ab

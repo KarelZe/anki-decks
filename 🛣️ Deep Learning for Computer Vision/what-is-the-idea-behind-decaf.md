@@ -1,11 +1,11 @@
 ## Note
 nid: 1655105075010
-model: Basic-02d89
-tags: 05_dl_architectures_2_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::05_dl_architectures_2
 markdown: false
 
 ### Front
-What is the <b>idea </b>behind <b>DeCAF</b>?
+What is the <b>idea</b> behind <b>DeCAF</b>?
 
 ### Back
 <ul>

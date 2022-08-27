@@ -1,11 +1,12 @@
 ## Note
 nid: 1634885324736
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Was unterscheidet <b>inneres Erklärungsbewusstsein</b> von <b>äußerem</b> <b>Erklärungwille / Rechtsbindungswille</b>?
+Was unterscheidet <b>inneres Erklärungsbewusstsein</b> von
+<b>äußerem</b> <b>Erklärungwille / Rechtsbindungswille</b>?
 
 ### Back
 <div>

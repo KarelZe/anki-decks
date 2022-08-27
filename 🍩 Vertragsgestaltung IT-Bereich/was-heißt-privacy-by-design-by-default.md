@@ -1,11 +1,12 @@
 ## Note
 nid: 1646829358962
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: vertragsgestaltung_it
 markdown: false
 
 ### Front
-Was heißt <b>Privacy by design / by default</b>? Wodurch unterscheiden sich <b>beide Varianten</b>?
+Was heißt <b>Privacy by design / by default</b>? Wodurch
+unterscheiden sich <b>beide Varianten</b>?
 
 ### Back
 <ul>

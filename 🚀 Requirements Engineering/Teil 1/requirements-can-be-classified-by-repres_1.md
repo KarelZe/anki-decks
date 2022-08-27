@@ -1,6 +1,6 @@
 ## Note
 nid: 1652178176259
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::classifiying-re
 markdown: false
 
@@ -10,4 +10,9 @@ markdown: false
 they be validated?
 
 ### Back
-<ul><li><b>Operational:</b> (?)</li><li><b>Quantitative</b><b>:</b> Can not be validated by review</li><li><b>Qualitative:</b> Can not have hard satisfaction (binary)</li><li><b>Declarative:</b> Can be validated by review</li></ul>
+<ul>
+  <li><b>Operational:</b> (?)
+  <li><b>Quantitative</b><b>:</b> Can not be validated by review
+  <li><b>Qualitative:</b> Can not have hard satisfaction (binary)
+  <li><b>Declarative:</b> Can be validated by review
+</ul>

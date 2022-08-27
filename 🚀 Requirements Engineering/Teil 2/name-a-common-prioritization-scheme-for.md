@@ -1,11 +1,11 @@
 ## Note
 nid: 1659543675583
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-II::re-management
 markdown: false
 
 ### Front
-Name a common <b>prioritization scheme</b> for requirmements.
+Name a common <b>prioritization scheme</b> for requirements.
 
 ### Back
 <ul>

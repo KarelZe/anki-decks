@@ -1,12 +1,11 @@
 ## Note
 nid: 1655752942982
-model: Basic-02d89
-tags: 08_rnn
+model: Basic-02d89-e0e22
+tags: dl_cv::08_rnn
 markdown: false
 
 ### Front
-What is the <b>problem</b> about <b>One-hot-encoding</b>? Give an
-example.
+What is the <b>problem </b>about <b>One-hot-encoding</b>? Give an example.
 
 ### Back
 Classes are usually represented in binary labels

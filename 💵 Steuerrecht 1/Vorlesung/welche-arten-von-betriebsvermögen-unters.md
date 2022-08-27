@@ -1,11 +1,11 @@
 ## Note
 nid: 1649169822107
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: 01_steuerrecht, checklater
 markdown: false
 
 ### Front
-Welche <b>Arten </b>von <b>Betriebsvermögen </b>unterscheidet man?
+Welche <b>Arten</b> von <b>Betriebsvermögen</b> unterscheidet man?
 
 ### Back
 Wirtschaftsgüter, die dem Betriebsvermögen dienen rechnen zum

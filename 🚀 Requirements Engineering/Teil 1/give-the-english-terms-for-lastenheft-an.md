@@ -1,11 +1,12 @@
 ## Note
 nid: 1650350782046
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: re::re-I::introduction
 markdown: false
 
 ### Front
-Give the <b>English terms</b> for <b>Lastenheft </b>and <b>Pflichtenheft</b>.
+Give the <b>English terms</b> for <b>Lastenheft</b> and
+<b>Pflichtenheft</b>.
 
 ### Back
 <b>Customer / stakeholder requirements specification:</b>

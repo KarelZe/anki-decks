@@ -29,7 +29,7 @@
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
         "mod": 1637850487,
-        "name": "Basic-d7a3e",
+        "name": "Basic-d7a3e-4ce08",
         "req": [
             [
                 0,
@@ -90,7 +90,7 @@
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
         "mod": 1637414829,
-        "name": "Einfach",
+        "name": "Einfach-996eb",
         "req": [
             [
                 0,
@@ -121,9 +121,9 @@
         "usn": -1,
         "vers": []
     },
-    "1550818728245": {
-        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-        "did": 1564142309807,
+    "1563779741627": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\nul, ol {\n    list-style-position: inside;\n}\nli {\n    margin-left: -30px;\n}",
+        "did": 1610704476043,
         "flds": [
             {
                 "description": "",
@@ -131,6 +131,7 @@
                 "media": [],
                 "name": "Front",
                 "ord": 0,
+                "perform-auto-markdown": true,
                 "rtl": false,
                 "size": 20,
                 "sticky": false
@@ -141,17 +142,18 @@
                 "media": [],
                 "name": "Back",
                 "ord": 1,
+                "perform-auto-markdown": true,
                 "rtl": false,
                 "size": 20,
                 "sticky": false
             }
         ],
-        "id": 1550818728245,
+        "id": 1563779741627,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
-        "mod": 1564145023,
-        "name": "Basic-66395",
+        "mod": 1660583197,
+        "name": "Basic-4936d",
         "req": [
             [
                 0,
@@ -165,7 +167,7 @@
         "tags": [],
         "tmpls": [
             {
-                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<script type=\"text/x-mathjax-config\">\nMathJax.Hub.processSectionDelay = 0;\nMathJax.Hub.Config({\n  messageStyle: 'none',\n  showProcessingMessages: false,\n  tex2jax: {\n            inlineMath: [ ['$','$'], ['\\\\(','\\\\)'] ],\n            displayMath: [ ['$$','$$'], ['\\\\[','\\\\]'] ],\n            processEscapes:true\n  }\n});\n</script>\n<script type=\"text/javascript\">\n(function() {\n  if (window.MathJax != null) {\n    var card = document.querySelector('.card');\n    MathJax.Hub.Queue(['Typeset', MathJax.Hub, card]);\n    return;\n  }\n  var script = document.createElement('script');\n  script.type = 'text/javascript';\n  script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';\n  document.body.appendChild(script);\n})();\n</script>",
                 "bafmt": "",
                 "bfont": "",
                 "bqfmt": "",
@@ -173,7 +175,7 @@
                 "did": null,
                 "name": "Card 1",
                 "ord": 0,
-                "qfmt": "{{Front}}"
+                "qfmt": "{{Front}}\n\n\n<script type=\"text/x-mathjax-config\">\nMathJax.Hub.processSectionDelay = 0;\nMathJax.Hub.Config({\n  messageStyle: 'none',\n  showProcessingMessages: false,\n  tex2jax: {\n            inlineMath: [ ['$','$'], ['\\\\(','\\\\)'] ],\n            displayMath: [ ['$$','$$'], ['\\\\[','\\\\]'] ],\n            processEscapes:true\n  }\n});\n</script>\n<script type=\"text/javascript\">\n(function() {\n  if (window.MathJax != null) {\n    var card = document.querySelector('.card');\n    MathJax.Hub.Queue(['Typeset', MathJax.Hub, card]);\n    return;\n  }\n  var script = document.createElement('script');\n  script.type = 'text/javascript';\n  script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';\n  document.body.appendChild(script);\n})();\n</script>"
             }
         ],
         "type": 0,
@@ -210,7 +212,7 @@
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
         "mod": 1637241641,
-        "name": "Basic-02d89",
+        "name": "Basic-02d89-e0e22",
         "req": [
             [
                 0,
@@ -243,7 +245,7 @@
     },
     "1580114271995": {
         "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-        "did": 1627622322387,
+        "did": 1604694516764,
         "flds": [
             {
                 "description": "",
@@ -270,8 +272,8 @@
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
-        "mod": 1627731137,
-        "name": "Basic-b122e",
+        "mod": 1623489334,
+        "name": "Basic-b122e-20a86",
         "req": [
             [
                 0,
@@ -282,10 +284,7 @@
             ]
         ],
         "sortf": 0,
-        "tags": [
-            "02_uebung",
-            "klausur"
-        ],
+        "tags": [],
         "tmpls": [
             {
                 "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -333,6 +332,371 @@
         "latexPre": "%\\providecommand{\\pgfsyspdfmark}[3]{}\n%\\documentclass[convert={convertexe={magick convert}}]{standalone}\n\\documentclass[10pt]{article}\n% \\special{papersize=105mm,74mm}\n% \\usepackage[paperwidth=105mm, paperheight=74mm]{geometry}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\usepackage{graphicx}\n\\graphicspath{{C:/Users/mail/OneDrive/Pictures/anki/}}\n\\usepackage{tikz}\n\\usetikzlibrary{matrix,arrows.meta,topaths,calc,trees,positioning,arrows,fit,shapes,calc}\n\\begin{document}\n",
         "latexsvg": false,
         "mod": 1614962137,
+        "name": "LaTeX-deb4a",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "03_vorlesung"
+        ],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n [latex]{{Back}}[/latex] ",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": " [latex]{{Front}}[/latex] "
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
+    "1661019585705": {
+        "css": ".card {\n font-family: 'Comic Sans MS';\n font-size: 24px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\nu { font-family: courier new; text-decoration: none; }\n",
+        "did": 1634827988616,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661019585705,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661019585,
+        "name": "Basic-d7a3e",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "vertragsgestaltung_it"
+        ],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                "bafmt": "",
+                "bfont": "Arial",
+                "bqfmt": "",
+                "bsize": 12,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": " {{Front}}"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
+    "1661019585706": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+        "did": 1587803057370,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Vorderseite",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Rückseite",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661019585706,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661019585,
+        "name": "Einfach",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "02_architectural_vp"
+        ],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Karte 1",
+                "ord": 0,
+                "qfmt": "{{Vorderseite}}"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
+    "1661019585707": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+        "did": 1564142309807,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661019585707,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661019585,
+        "name": "Basic-66395",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "{{Front}}"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
+    "1661019585708": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+        "did": 1634827988616,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661019585708,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661019585,
+        "name": "Basic-02d89",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "vertragsgestaltung_it"
+        ],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "{{Front}}"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
+    "1661019585709": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+        "did": 1627622322387,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661019585709,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661019585,
+        "name": "Basic-b122e",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "02_uebung",
+            "klausur"
+        ],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "{{Front}}"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
+    "1661019585710": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white; \n}\nimg {\nwidth: auto;\nheight: auto;\n}\n",
+        "did": 1603701556865,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1661019585710,
+        "latexPost": "\\end{document}",
+        "latexPre": "%\\providecommand{\\pgfsyspdfmark}[3]{}\n%\\documentclass[convert={convertexe={magick convert}}]{standalone}\n\\documentclass[10pt]{article}\n% \\special{papersize=105mm,74mm}\n% \\usepackage[paperwidth=105mm, paperheight=74mm]{geometry}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\usepackage{graphicx}\n\\graphicspath{{C:/Users/mail/OneDrive/Pictures/anki/}}\n\\usepackage{tikz}\n\\usetikzlibrary{matrix,arrows.meta,topaths,calc,trees,positioning,arrows,fit,shapes,calc}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1661019585,
         "name": "LaTeX",
         "req": [
             [
@@ -364,8 +728,8 @@
         "usn": -1,
         "vers": []
     },
-    "1660559874154": {
-        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+    "1661074334465": {
+        "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
         "did": null,
         "flds": [
             {
@@ -387,7 +751,7 @@
                 "sticky": false
             }
         ],
-        "id": 1660559874154,
+        "id": 1661074334465,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
@@ -419,8 +783,8 @@
         "type": 0,
         "usn": 0
     },
-    "1660559874155": {
-        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+    "1661074334466": {
+        "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
         "did": null,
         "flds": [
             {
@@ -442,7 +806,7 @@
                 "sticky": false
             }
         ],
-        "id": 1660559874155,
+        "id": 1661074334466,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
@@ -492,8 +856,8 @@
         "type": 0,
         "usn": 0
     },
-    "1660559874156": {
-        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+    "1661074334467": {
+        "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
         "did": null,
         "flds": [
             {
@@ -524,7 +888,7 @@
                 "sticky": false
             }
         ],
-        "id": 1660559874156,
+        "id": 1661074334467,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
@@ -575,8 +939,8 @@
         "type": 0,
         "usn": 0
     },
-    "1660559874157": {
-        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+    "1661074334468": {
+        "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
         "did": null,
         "flds": [
             {
@@ -598,7 +962,7 @@
                 "sticky": false
             }
         ],
-        "id": 1660559874157,
+        "id": 1661074334468,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
@@ -631,8 +995,8 @@
         "type": 0,
         "usn": 0
     },
-    "1660559874158": {
-        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+    "1661074334469": {
+        "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
         "did": null,
         "flds": [
             {
@@ -654,7 +1018,7 @@
                 "sticky": false
             }
         ],
-        "id": 1660559874158,
+        "id": 1661074334469,
         "latexPost": "\\end{document}",
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
@@ -685,298 +1049,5 @@
         ],
         "type": 1,
         "usn": 0
-    },
-    "1660559874207": {
-        "css": "/*template\n######## CLOZE OVERLAPPER DEFAULT TEMPLATE START ########\nversion: 1.0.0\n*/\n\n/*\nPLEASE DO NOT MODIFY THE DEFAULT TEMPLATE SECTIONS.\nAny changes between the 'template' markers will be lost once\nthe add-on updates its template.\n*/\n\n/* general card style */\n\nhtml {\n  /* scrollbar always visible in order to prevent shift when revealing answer*/\n  overflow-y: scroll;\n}\n\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* general layout */\n\n.text {\n  /* center left-aligned text on card */\n  display: inline-block;\n  align: center;\n  text-align: left;\n  margin: auto;\n  max-width: 40em;\n}\n\n.hidden {\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n\n.title {\n  font-weight: bold;\n  font-size: 1.1em;\n  margin-bottom: 1em;\n  text-align: center;\n}\n\n/* clozes */\n\n.cloze {\n  /* regular cloze deletion */\n  font-weight: bold;\n  color: #0048FF;\n}\n\n.card21 #btn-reveal{\n  /* no need to display reveal btn on last card */\n  display:none;\n}\n\n/* additional fields */\n\n.extra{\n  margin-top: 0.5em;\n  margin: auto;\n  max-width: 40em;\n}\n\n.extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.extra-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#btn-reveal {\n  font-size: 0.5em;\n}\n\n.mobile #btn-reveal {\n  font-size: 0.8em;\n}\n\n/*\n######## CLOZE OVERLAPPER DEFAULT TEMPLATE END ########\ntemplate*/\n\n/* Add your customizations here: */\n",
-        "did": null,
-        "flds": [
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Original",
-                "ord": 0,
-                "rtl": false,
-                "size": 20,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Title",
-                "ord": 1,
-                "rtl": false,
-                "size": 20,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Remarks",
-                "ord": 2,
-                "rtl": false,
-                "size": 20,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Sources",
-                "ord": 3,
-                "rtl": false,
-                "size": 20,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Settings",
-                "ord": 4,
-                "rtl": false,
-                "size": 20,
-                "sticky": true
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text1",
-                "ord": 5,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text2",
-                "ord": 6,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text3",
-                "ord": 7,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text4",
-                "ord": 8,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text5",
-                "ord": 9,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text6",
-                "ord": 10,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text7",
-                "ord": 11,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text8",
-                "ord": 12,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text9",
-                "ord": 13,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text10",
-                "ord": 14,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text11",
-                "ord": 15,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text12",
-                "ord": 16,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text13",
-                "ord": 17,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text14",
-                "ord": 18,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text15",
-                "ord": 19,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text16",
-                "ord": 20,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text17",
-                "ord": 21,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text18",
-                "ord": 22,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text19",
-                "ord": 23,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Text20",
-                "ord": 24,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            },
-            {
-                "description": "",
-                "font": "Arial",
-                "name": "Full",
-                "ord": 25,
-                "rtl": false,
-                "size": 12,
-                "sticky": false
-            }
-        ],
-        "id": 1660559874207,
-        "latexPost": "\\end{document}",
-        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-        "latexsvg": false,
-        "mod": 1660559874,
-        "name": "Cloze (overlapping)",
-        "req": [
-            [
-                0,
-                "any",
-                [
-                    0,
-                    1,
-                    5,
-                    6,
-                    7,
-                    8,
-                    9,
-                    10,
-                    11,
-                    12,
-                    13,
-                    14,
-                    15,
-                    16,
-                    17,
-                    18,
-                    19,
-                    20,
-                    21,
-                    22,
-                    23,
-                    24,
-                    25
-                ]
-            ]
-        ],
-        "sortf": 1,
-        "tmpls": [
-            {
-                "afmt": "<!--template\n######## CLOZE OVERLAPPER DEFAULT TEMPLATE START ########\nversion: 1.0.0\n-->\n\n<!--\nPLEASE DO NOT MODIFY THE DEFAULT TEMPLATE SECTIONS.\nAny changes between the 'template' markers will be lost once\nthe add-on updates its template.\n-->\n\n<div class=\"back\">\n    {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n    <div class=\"text\">\n        <div id=\"clozed\">\n            {{cloze:Text1}}\n            {{cloze:Text2}}\n            {{cloze:Text3}}\n            {{cloze:Text4}}\n            {{cloze:Text5}}\n            {{cloze:Text6}}\n            {{cloze:Text7}}\n            {{cloze:Text8}}\n            {{cloze:Text9}}\n            {{cloze:Text10}}\n            {{cloze:Text11}}\n            {{cloze:Text12}}\n            {{cloze:Text13}}\n            {{cloze:Text14}}\n            {{cloze:Text15}}\n            {{cloze:Text16}}\n            {{cloze:Text17}}\n            {{cloze:Text18}}\n            {{cloze:Text19}}\n            {{cloze:Text20}}\n            {{cloze:Full}}\n        </div>\n        <div class=\"hidden\">\n            <div><span class=\"cloze\">[...]</span></div>\n            <div>{{Original}}</div>\n        </div>\n    </div>\n    <div class=\"extra\"><hr></div>\n    <button id=\"btn-reveal\" onclick=\"olToggle();\">Reveal all clozes</button>\n    <div class=\"hidden\"><div id=\"original\">{{Original}}</div></div>\n    <div class=\"extra\">\n        {{#Remarks}}\n        <div class=\"extra-entry\">\n            <div class=\"extra-descr\">Remarks</div><div>{{Remarks}}</div>\n        </div>\n        {{/Remarks}}\n        {{#Sources}}\n        <div class=\"extra-entry\">\n            <div class=\"extra-descr\">Sources</div><div>{{Sources}}</div>\n        </div>\n        {{/Sources}}\n    </div>\n</div>\n\n<script>\n// Remove cloze syntax from revealed hint\nvar hint = document.getElementById(\"original\");\nif (hint) {\n    var html = hint.innerHTML.replace(/\\[\\[oc(\\d+)::(.*?)(::(.*?))?\\]\\]/mg,\n                                      \"<span class='cloze'>$2</span>\");\n    hint.innerHTML = html\n};\n\n// Scroll to cloze\nfunction scrollToCloze () {\n    const cloze1 = document.getElementsByClassName(\"cloze\")[0];\n    const rect = cloze1.getBoundingClientRect();\n    const absTop = rect.top + window.pageYOffset;\n    const absBot = rect.bottom + window.pageYOffset;\n    if (absBot >= window.innerHeight) {\n        const height = rect.top - rect.bottom\n        const middle = absTop - (window.innerHeight/2) - (height/2);\n        window.scrollTo(0, middle);\n    };\n}\nif ( document.readyState === 'complete' ) {\n    setTimeout(scrollToCloze, 1);\n} else {\n    document.addEventListener('DOMContentLoaded', function() {\n        setTimeout(scrollToCloze, 1);\n    }, false);\n}\n\n\n// Reveal full list\nvar olToggle = function() {\n    var orig = document.getElementById('original');\n    var clozed = document.getElementById('clozed');\n    var origHtml = orig.innerHTML\n    orig.innerHTML = clozed.innerHTML\n    clozed.innerHTML = origHtml\n}\n</script>\n\n<!--\n######## CLOZE OVERLAPPER DEFAULT TEMPLATE END ######## */\ntemplate-->\n\n<!-- Add your customizations here: -->\n",
-                "bafmt": "",
-                "bfont": "",
-                "bqfmt": "",
-                "bsize": 0,
-                "did": null,
-                "name": "cloze-ol",
-                "ord": 0,
-                "qfmt": "<!--template\n######## CLOZE OVERLAPPER DEFAULT TEMPLATE START ########\nversion: 1.0.0\n-->\n\n<!--\nPLEASE DO NOT MODIFY THE DEFAULT TEMPLATE SECTIONS.\nAny changes between the 'template' markers will be lost once\nthe add-on updates its template.\n\nCopyright (C) 2016-2019 Aristotelis P. <https://glutanimate.com/>\n\nThe Cloze Overlapper card template is licensed under the CC BY-SA 4.0\nlicense (https://creativecommons.org/licenses/by-sa/4.0/). This only\napplies to the card template, not the contents of your notes.\n\nGet Cloze Overlapper for Anki at:\nhttps://ankiweb.net/shared/info/969733775\n-->\n\n<div class=\"front\">\n    {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n    <div class=\"text\">\n        <div id=\"clozed\">\n            {{cloze:Text1}}\n            {{cloze:Text2}}\n            {{cloze:Text3}}\n            {{cloze:Text4}}\n            {{cloze:Text5}}\n            {{cloze:Text6}}\n            {{cloze:Text7}}\n            {{cloze:Text8}}\n            {{cloze:Text9}}\n            {{cloze:Text10}}\n            {{cloze:Text11}}\n            {{cloze:Text12}}\n            {{cloze:Text13}}\n            {{cloze:Text14}}\n            {{cloze:Text15}}\n            {{cloze:Text16}}\n            {{cloze:Text17}}\n            {{cloze:Text18}}\n            {{cloze:Text19}}\n            {{cloze:Text20}}\n            {{cloze:Full}}\n        </div>\n        <div class=\"hidden\">\n            <div><span class=\"cloze\">[...]</span></div>\n            <div>{{Original}}</div>\n        </div>\n    </div>\n</div>\n\n<script>\n// Scroll to cloze\nfunction scrollToCloze () {\n    const cloze1 = document.getElementsByClassName(\"cloze\")[0];\n    const rect = cloze1.getBoundingClientRect();\n    const absTop = rect.top + window.pageYOffset;\n    const absBot = rect.bottom + window.pageYOffset;\n    if (absBot >= window.innerHeight) {\n        const height = rect.top - rect.bottom\n        const middle = absTop - (window.innerHeight/2) - (height/2);\n        window.scrollTo(0, middle);\n    };\n}\nif ( document.readyState === 'complete' ) {\n    setTimeout(scrollToCloze, 1);\n} else {\n    document.addEventListener('DOMContentLoaded', function() {\n        setTimeout(scrollToCloze, 1);\n    }, false);\n}\n</script>\n\n<!--\n######## CLOZE OVERLAPPER DEFAULT TEMPLATE END ######## */\ntemplate-->\n\n<!-- Add your customizations here: -->"
-            }
-        ],
-        "type": 1,
-        "usn": -1
     }
 }

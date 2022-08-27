@@ -1,6 +1,6 @@
 ## Note
 nid: 1637241641545
-model: Basic-02d89
+model: Basic-02d89-e0e22
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
@@ -9,5 +9,6 @@ Bei welchen Beispielen greift die Produzentenhaftung / Produkthaftungsgesetz die
 
 ### Back
 <ul>
-<li>Löschen von persönlichen Daten in DB</li>
-<li>körperlicher Schaden durch Industrieroboter</li></ul>
+  <li>Löschen von persönlichen Daten in DB
+  <li>körperlicher Schaden durch Industrieroboter
+</ul>

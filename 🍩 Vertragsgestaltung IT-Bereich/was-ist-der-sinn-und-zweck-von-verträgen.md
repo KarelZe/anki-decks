@@ -1,11 +1,11 @@
 ## Note
 nid: 1634885098342
-model: Basic-d7a3e
+model: Basic-d7a3e-4ce08
 tags: repeat, vertragsgestaltung_it
 markdown: false
 
 ### Front
-Was ist der <b>Sinn </b>und <b>Zweck </b>von <b>Verträgen</b>?
+Was ist der <b>Sinn</b> und <b>Zweck</b> von <b>Verträgen</b>?
 
 ### Back
 <ul>

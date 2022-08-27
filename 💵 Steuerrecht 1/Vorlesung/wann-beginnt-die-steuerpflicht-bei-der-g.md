@@ -1,11 +1,11 @@
 ## Note
 nid: 1648396393409
-model: Basic-02d89
-tags: 01_steuerrecht, SR_2, SR_2::SR_2-II
+model: Basic-02d89-e0e22
+tags: 01_steuerrecht, SR_2, SR_2::SR_2-III
 markdown: false
 
 ### Front
-Wann beginnt die <b>Steuerpflicht </b>bei der <b>Gewerbesteuer</b>?
+Wann beginnt die <b>Steuerpflicht</b> bei der <b>Gewerbesteuer</b>?
 
 ### Back
 <ul>

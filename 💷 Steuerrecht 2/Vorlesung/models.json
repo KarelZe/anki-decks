@@ -1,4 +1,65 @@
 {
+    "1563779741627": {
+        "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\nul, ol {\n    list-style-position: inside;\n}\nli {\n    margin-left: -30px;\n}",
+        "did": 1610704476043,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Front",
+                "ord": 0,
+                "perform-auto-markdown": true,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "media": [],
+                "name": "Back",
+                "ord": 1,
+                "perform-auto-markdown": true,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1563779741627,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1660583197,
+        "name": "Basic-4936d",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<script type=\"text/x-mathjax-config\">\nMathJax.Hub.processSectionDelay = 0;\nMathJax.Hub.Config({\n  messageStyle: 'none',\n  showProcessingMessages: false,\n  tex2jax: {\n            inlineMath: [ ['$','$'], ['\\\\(','\\\\)'] ],\n            displayMath: [ ['$$','$$'], ['\\\\[','\\\\]'] ],\n            processEscapes:true\n  }\n});\n</script>\n<script type=\"text/javascript\">\n(function() {\n  if (window.MathJax != null) {\n    var card = document.querySelector('.card');\n    MathJax.Hub.Queue(['Typeset', MathJax.Hub, card]);\n    return;\n  }\n  var script = document.createElement('script');\n  script.type = 'text/javascript';\n  script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';\n  document.body.appendChild(script);\n})();\n</script>",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "{{Front}}\n\n\n<script type=\"text/x-mathjax-config\">\nMathJax.Hub.processSectionDelay = 0;\nMathJax.Hub.Config({\n  messageStyle: 'none',\n  showProcessingMessages: false,\n  tex2jax: {\n            inlineMath: [ ['$','$'], ['\\\\(','\\\\)'] ],\n            displayMath: [ ['$$','$$'], ['\\\\[','\\\\]'] ],\n            processEscapes:true\n  }\n});\n</script>\n<script type=\"text/javascript\">\n(function() {\n  if (window.MathJax != null) {\n    var card = document.querySelector('.card');\n    MathJax.Hub.Queue(['Typeset', MathJax.Hub, card]);\n    return;\n  }\n  var script = document.createElement('script');\n  script.type = 'text/javascript';\n  script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';\n  document.body.appendChild(script);\n})();\n</script>"
+            }
+        ],
+        "type": 0,
+        "usn": -1,
+        "vers": []
+    },
     "1568916307370": {
         "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
         "did": 1634827988616,
@@ -29,7 +90,7 @@
         "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
         "latexsvg": false,
         "mod": 1637241641,
-        "name": "Basic-02d89",
+        "name": "Basic-02d89-e0e22",
         "req": [
             [
                 0,

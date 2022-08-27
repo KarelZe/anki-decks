@@ -1,11 +1,11 @@
 ## Note
 nid: 1655134296841
-model: Basic-02d89
-tags: 05_object_detection_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::05_object_detection
 markdown: false
 
 ### Front
-Give an <b>overview </b>over the <b>Fast R-CNN architecture</b>.
+Give an <b>overview</b> over the <b>Fast R-CNN architecture</b>.
 
 ### Back
 <ul>

@@ -1,12 +1,11 @@
 ## Note
 nid: 1655753586961
-model: Basic-02d89
-tags: 08_rnn
+model: Basic-02d89-e0e22
+tags: dl_cv::08_rnn
 markdown: false
 
 ### Front
-What type of <b>RNN architecture</b> should be used for
-<b>translation</b>?
+What type of <b>RNN architecture</b> should be used for <b>translation</b>?
 
 ### Back
 Many-to-Many RNN models. 

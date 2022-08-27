@@ -1,7 +1,7 @@
 ## Note
 nid: 1655111322377
-model: Basic-02d89
-tags: 05_dl_architectures_2_dl_cv
+model: Basic-02d89-e0e22
+tags: dl_cv::05_dl_architectures_2
 markdown: false
 
 ### Front

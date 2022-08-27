@@ -1,11 +1,11 @@
 ## Note
 nid: 1634572446523
-model: Basic-d7a3e
-tags: 01_einfuehrung_unternehmenssteuerrecht
+model: Basic-d7a3e-4ce08
+tags: SR_1::01_einfuehrung_unternehmenssteuerrecht
 markdown: false
 
 ### Front
-Wie ist der <b>Steuerbegriff </b>definiert? Wo geregelt?
+Wie ist der <b>Steuerbegriff</b> definiert? Wo geregelt?
 
 ### Back
 Steuern sind <b>Geldleistungen</b>, die <b>nicht eine
