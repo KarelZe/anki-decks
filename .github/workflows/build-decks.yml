@@ -75,7 +75,6 @@ jobs:
           python3 ../ki/compile.py --collection collection.anki2 --deck '🔢 HM 1'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🔢 HM 2'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🗽 Internetrecht'
-          python3 ../ki/compile.py --collection collection.anki2 --deck '🧮 Rechnerstrukturen'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🧙‍ Recommendersysteme'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🚀 Requirements Engineering'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🛣️ Deep Learning for Computer Vision'
@@ -106,11 +105,10 @@ jobs:
             🔢 HM 1.apkg
             🔢 HM 2.apkg
             🗽 Internetrecht.apkg
-            🏭 Parallelrechner.apkg
-            🚀 Requirements Engineering.apkg
-            🛣️ Deep Learning for Computer Vision.apkg
             🧙‍ Recommendersysteme.apkg
             🚀 Requirements Engineering.apkg
+            🛣️ Deep Learning for Computer Vision.apkg
             🛩️ Vertragsgestaltung.apkg
+            🧠 Machine Learning.apkg
             🧮 Rechnerstrukturen.apkg
             🫖 Software Architektur.apkg
