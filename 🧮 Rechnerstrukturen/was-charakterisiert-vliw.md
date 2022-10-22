@@ -1,13 +1,18 @@
-## Note
-nid: 1628138430957
-model: Basic-d7a3e-4ce08
-tags: 07_multi_threading
-markdown: false
+# Note
+```
+guid: o,re1{4[4d
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+07_multi_threading
+```
+
+## Front
 Was charakterisiert <b>VLIW</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

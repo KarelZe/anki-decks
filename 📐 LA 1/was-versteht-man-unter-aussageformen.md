@@ -1,12 +1,17 @@
-## Note
-nid: 1580142746285
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: BVcEas1IG(
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was versteht man unter Aussageformen?
 
-### Back
+## Back
 Eine Aussageform ist ein Ausdruck mit \textit{freien Variablen}. Werden freie
 Variablen durch einen Begriff ersetzt, entsteht daraus eine \textit{Aussage}.

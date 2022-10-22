@@ -1,13 +1,18 @@
-## Note
-nid: 1617977018973
-model: Basic-d7a3e-4ce08
-tags: derivate::04_optionen
-markdown: false
+# Note
+```
+guid: w6tA.-6?J?
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::04_optionen
+```
+
+## Front
 Wie funktioniert ein 1:1 Hedge?
 
-### Back
+## Back
 Covered Call (1 Aktie long, 1 Call short), Protective Put (1 Aktie
 long, 1 Put long) Auch Vielfache möglich z. B. 2:2.
 <b>Intuition</b>: Verliert Aktie an Wert, dann gewinnt Call short

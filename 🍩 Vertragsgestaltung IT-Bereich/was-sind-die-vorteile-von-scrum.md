@@ -1,13 +1,18 @@
-## Note
-nid: 1646674016109
-model: Basic-02d89-e0e22
-tags: scrum_projekt
-markdown: false
+# Note
+```
+guid: d]`>VX<H57
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+scrum_projekt
+```
+
+## Front
 Was sind die <b>Vorteile</b> von <b>Scrum</b>?
 
-### Back
+## Back
 <ul>
   <li>Ständige Interaktion zwischen Projektbeteiligen
   <li>Steuerung des Projektumfangs

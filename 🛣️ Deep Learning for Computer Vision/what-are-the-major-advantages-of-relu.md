@@ -1,13 +1,18 @@
-## Note
-nid: 1651480657883
-model: Basic-02d89-e0e22
-tags: dl_cv::02_basics_nn
-markdown: false
+# Note
+```
+guid: tjgKm|g+<[
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::02_basics_nn
+```
+
+## Front
 What are the <b>major advantages</b> of <b>ReLU</b>?
 
-### Back
+## Back
 <ul>
   <li>simple, inexpensive operation (only comparision, addition and
   multiplication)

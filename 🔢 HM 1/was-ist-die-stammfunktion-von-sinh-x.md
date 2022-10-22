@@ -1,11 +1,16 @@
-## Note
-nid: 1597999802953
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: G4QDH9+Z78
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von $\sinh x$?
 
-### Back
+## Back
 $\cosh x$

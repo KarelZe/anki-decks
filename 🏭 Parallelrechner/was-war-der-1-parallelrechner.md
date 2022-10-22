@@ -1,11 +1,16 @@
-## Note
-nid: 1602352924877
-model: Basic-b122e-20a86
-tags: Eigene
-markdown: false
+# Note
+```
+guid: pEK3{)5{qb
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was war der 1. Parallelrechner?
 
-### Back
+## Back
 ZUSE Z3.

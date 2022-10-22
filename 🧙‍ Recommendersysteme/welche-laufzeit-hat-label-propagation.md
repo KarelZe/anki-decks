@@ -1,11 +1,16 @@
-## Note
-nid: 1616227057926
-model: Basic-b122e-20a86
-tags: 10_Cluster_Modularity
-markdown: false
+# Note
+```
+guid: K+?IP@GY9
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+10_Cluster_Modularity
+```
+
+## Front
 Welche <b>Laufzeit</b> hat <b>Label Propagation</b>?
 
-### Back
+## Back
 \(\mathcal{O}(n)\), da Abbruchkriterium meist nach sehr wenigen Iterationen erfüllt ist.

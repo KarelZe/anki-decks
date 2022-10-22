@@ -1,13 +1,19 @@
-## Note
-nid: 1629550842959
-model: Basic-d7a3e-4ce08
-tags: 01_ueberblick_einfuehrung, checklater
-markdown: false
+# Note
+```
+guid: pDpp7)G>u6
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_ueberblick_einfuehrung
+checklater
+```
+
+## Front
 Was umfasst Vertragsverhandlung?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

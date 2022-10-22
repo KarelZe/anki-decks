@@ -1,11 +1,16 @@
-## Note
-nid: 1591271751531
-model: Basic-b122e-20a86
-tags: 3_4_prozesse_threads
-markdown: false
+# Note
+```
+guid: I^dNT|b*ae
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_4_prozesse_threads
+```
+
+## Front
 Was versteht man unter einer <b>Aussperrung</b>?
 
-### Back
+## Back
 Prozess wird undefinierbar lang verzögert.

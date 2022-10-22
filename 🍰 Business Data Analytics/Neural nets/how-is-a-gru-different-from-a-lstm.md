@@ -1,13 +1,18 @@
-## Note
-nid: 1653672685734
-model: Basic-02d89-e0e22
-tags: bda::05_neural_networks
-markdown: false
+# Note
+```
+guid: ECjkL~``Yx
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::05_neural_networks
+```
+
+## Front
 How is a <b>GRU</b> different from a <b>LSTM</b>?
 
-### Back
+## Back
 <ul>
   <li>Cell state vectors represented by single vector \(h_t\)
   <li>Forget and input gate is fused in a single state controller

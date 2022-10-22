@@ -1,13 +1,18 @@
-## Note
-nid: 1635320004029
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation
-markdown: false
+# Note
+```
+guid: E_wl9lLKpR
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+```
+
+## Front
 Describe what <b>sparsity</b> is.
 
-### Back
+## Back
 Describes a dataset which mostly contains zeros.
 <div>
   Such a data structure is not unusual for machine learning

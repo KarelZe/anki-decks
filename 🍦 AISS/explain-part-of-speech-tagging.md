@@ -1,13 +1,19 @@
-## Note
-nid: 1635320835069
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: z3^Z3W0U.b
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Explain <b>part-of-speech tagging</b>.
 
-### Back
+## Back
 POS is the process of identifying grammatical word classes form㊗️.
 <div>
   <b>Example</b>:

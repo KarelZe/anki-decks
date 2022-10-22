@@ -1,13 +1,19 @@
-## Note
-nid: 1586606095964
-model: LaTeX-deb4a
-tags: Folge, wichtig
-markdown: false
+# Note
+```
+guid: i4/$g|W>}[
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Folge
+wichtig
+```
+
+## Front
 Wann heißt eine Folge beschränkt?
 
-### Back
+## Back
 Es sei $\left(a_{n}\right)$ eine Folge und $M:=\left\{a_{1}, a_{2}, \ldots\right\}$.<div>
 </div><div>$\left(a_{n}\right)$ heißt beschränkt $: \Longleftrightarrow M$ ist beschränkt. Äquivalent ist:
 $$

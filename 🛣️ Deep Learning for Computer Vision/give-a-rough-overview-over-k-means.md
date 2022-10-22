@@ -1,13 +1,18 @@
-## Note
-nid: 1655127904580
-model: Basic-02d89-e0e22
-tags: dl_cv::07_image_seg
-markdown: false
+# Note
+```
+guid: w~yS:Z1~w+
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::07_image_seg
+```
+
+## Front
 Give a rough overview over k-means.
 
-### Back
+## Back
 <ul>
   <li>Choose intial mean values for k regions.
   <li>Classify n pixels by assigning them to closest mean

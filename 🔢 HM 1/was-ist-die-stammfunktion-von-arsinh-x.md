@@ -1,11 +1,16 @@
-## Note
-nid: 1597999959327
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: I(]]f}Kb)5
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von arsinh $x$?
 
-### Back
+## Back
 $x \operatorname{arsinh} x-\sqrt{x^{2}+1}$

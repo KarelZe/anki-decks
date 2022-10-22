@@ -1,13 +1,18 @@
-## Note
-nid: 1659862330060
-model: Basic-02d89-e0e22
-tags: dl_cv::12_adv_topics
-markdown: false
+# Note
+```
+guid: uL(4UJ`^9$
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::12_adv_topics
+```
+
+## Front
 What is the <b>idea</b> behind <b>domain adaption</b>?
 
-### Back
+## Back
 <ul>
   <li>Train network on image and ground truth data from source
   domain. Use unlabled images from the target domain.

@@ -1,13 +1,18 @@
-## Note
-nid: 1582905013269
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: xx:F1tcPHo
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie weißt man einen Unterring nach?
 
-### Back
+## Back
 % Theorem 12.3 <div>
 </div><div>\textbf{Alternative Herangehensweise}\\</div><div>
 </div><div>Eine nicht-leere Teilmenge $S$ eines Rings $R$ ist ein Unterring, wenn $S$ geschlossen ist unter Subtraktion und Multiplikation -- d.~h. wenn $a-b$ und $ab$ in $S$ sind, wann immer $a$ und $b$ in $S$ sind.</div>

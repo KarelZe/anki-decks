@@ -1,13 +1,18 @@
-## Note
-nid: 1627887678234
-model: Basic-d7a3e-4ce08
-tags: 06_para_maschinenbefehl
-markdown: false
+# Note
+```
+guid: My))~|d+C0
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_para_maschinenbefehl
+```
+
+## Front
 Wie arbeitet ein <b>Ein-Bit Prädikator</b>?
 
-### Back
+## Back
 Ein Ein-Bit-Prädikator hat ein Bit (Vorhersagebit) für die
 Kodierung der Vorhersage.
 <div>

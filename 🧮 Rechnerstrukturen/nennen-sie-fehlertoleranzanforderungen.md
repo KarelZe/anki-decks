@@ -1,13 +1,18 @@
-## Note
-nid: 1620911756351
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: N(,;QVHVos
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Nennen Sie <b>Fehlertoleranzanforderungen</b>
 
-### Back
+## Back
 <div>
   <div>
     <ul>

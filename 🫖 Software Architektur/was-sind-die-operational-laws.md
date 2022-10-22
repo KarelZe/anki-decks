@@ -1,13 +1,19 @@
-## Note
-nid: 1593328128484
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality, performance
-markdown: false
+# Note
+```
+guid: tT-BaQeP<_
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+performance
+```
+
+## Front
 Was sind die <b>Operational Laws</b>?
 
-### Back
+## Back
 <b>Operational laws</b> sind einfache Gleichungen, die das
 durchschnittliche Serviceverhalten einer Warteschlange beschreiben.
 Sie machen keine Annahmen hinsichtlich dem Scheduling oder der

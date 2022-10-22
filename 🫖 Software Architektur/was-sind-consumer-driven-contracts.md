@@ -1,13 +1,20 @@
-## Note
-nid: 1637146806645
-model: Basic-d7a3e-4ce08
-tags: 04_Architectural_Reuse, architecture, architecture_4
-markdown: false
+# Note
+```
+guid: A+5JKUKUcu
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_Architectural_Reuse
+architecture
+architecture_4
+```
+
+## Front
 Was sind <b>Consumer-Driven Contracts</b>?
 
-### Back
+## Back
 Der Provider implementiert die Gesamtheit aller von den
 Konsumenten, benötigten Informationen.
 <div>
@@ -18,5 +25,4 @@ Konsumenten, benötigten Informationen.
 <div>
   Contracts: Daten-Schema, Service-Interfaces, Policies,...
 </div>
-<div><img src=
-"paste-9014eea3638edf1749818ed98543ea125761c6e9.jpg"></div>
+<div><img src="paste-9014eea3638edf1749818ed98543ea125761c6e9.jpg"></div>

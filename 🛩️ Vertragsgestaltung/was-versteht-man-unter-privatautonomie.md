@@ -1,13 +1,20 @@
-## Note
-nid: 1629721409577
-model: Basic-d7a3e-4ce08
-tags: 02_zivilrechtliche_grundlagen, checklater, ultra
-markdown: false
+# Note
+```
+guid: n|m3Y53|E_
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_zivilrechtliche_grundlagen
+checklater
+ultra
+```
+
+## Front
 Was versteht man unter <b>Privatautonomie</b>?
 
-### Back
+## Back
 <strong>Privatautonomie</strong> ist die Freiheit des Einzelnen,
 seine Rechtsbeziehungen eigenverantwortlich und frei zu gestalten.
 Rechte eines Dritten dürfen nicht beschnitten werden.

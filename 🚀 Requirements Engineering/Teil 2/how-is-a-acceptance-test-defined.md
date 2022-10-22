@@ -1,11 +1,16 @@
-## Note
-nid: 1659597865834
-model: Basic-02d89-e0e22
-tags: re::re-II::validation
-markdown: false
+# Note
+```
+guid: tq3UrINg_z
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::validation
+```
+
+## Front
 How is a <b>acceptance test</b> defined?
 
-### Back
+## Back
 A test that assesses whether a system satisfies all its requirements.

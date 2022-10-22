@@ -1,11 +1,16 @@
-## Note
-nid: 1636444245702
-model: Basic-d7a3e-4ce08
-tags: 04_deployment
-markdown: false
+# Note
+```
+guid: A~<WCju00*
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+```
+
+## Front
 Who is the founder of REST?
 
-### Back
+## Back
 Roy Fielding

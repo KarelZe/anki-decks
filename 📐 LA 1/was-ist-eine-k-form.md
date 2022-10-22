@@ -1,13 +1,18 @@
-## Note
-nid: 1582282323184
-model: LaTeX-deb4a
-tags: Determinante
-markdown: false
+# Note
+```
+guid: L{pH)?e&-y
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Determinante
+```
+
+## Front
 Was ist eine $k$-Form?
 
-### Back
+## Back
 Sei $D: V^{k} \rightarrow \mathrm{K}$ eine Abbildung. $D$ heißt schief-symmetrisch, falls für $1 \leq i<j \leq n$ und $v_{1}, \ldots, v_{k} \in V$ gilt
 $$
 D\left(v_{1}, \ldots, v_{i}, \ldots, v_{j}, \ldots, v_{k}\right)=-D\left(v_{1}, \ldots, v_{j}, \ldots, v_{i}, \ldots, v_{k}\right).

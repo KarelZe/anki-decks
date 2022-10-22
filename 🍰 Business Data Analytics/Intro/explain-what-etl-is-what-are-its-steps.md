@@ -1,13 +1,18 @@
-## Note
-nid: 1653634741078
-model: Basic-02d89-e0e22
-tags: bda::01_orga_intro
-markdown: false
+# Note
+```
+guid: gY:BBYdw8<
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::01_orga_intro
+```
+
+## Front
 Explain what <b>ETL</b> is? What are its <b>steps</b>?
 
-### Back
+## Back
 The data provision process consists of three steps:
 <ul>
   <li>extraction (i. e., reading data from a database)

@@ -1,0 +1,18 @@
+# Note
+```
+guid: QaxtG#qWjY
+notetype: Basic-d7a3e-4ce08
+```
+
+### Tags
+```
+05_uebung
+05_uebung_rs
+checklater
+```
+
+## Front
+Erweitern Sie den aus der Vorlesung bekannten MESI-Zustandsautomat zum MOESI-Zustandsautomat.
+
+## Back
+<img src="paste-0cf7680c1c6f303827aba2672ba39743044b2e3d.jpg">

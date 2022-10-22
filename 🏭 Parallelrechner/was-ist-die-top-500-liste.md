@@ -1,11 +1,17 @@
-## Note
-nid: 1588774491004
-model: Basic-b122e-20a86
-tags: 01_einfuehrung, 2_parallelrechner
-markdown: false
+# Note
+```
+guid: e?oRu[1yrq
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+01_einfuehrung
+2_parallelrechner
+```
+
+## Front
 Was ist die Top 500-Liste?
 
-### Back
+## Back
 Eine Liste der schnellsten Supercomputer der Welt veröffentlicht unter http://www.top500.org

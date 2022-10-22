@@ -1,11 +1,17 @@
-## Note
-nid: 1606854990564
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung, 05_grundlagen_parallelverarbeitung
-markdown: false
+# Note
+```
+guid: j{+r+oP)&x
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+05_grundlagen_parallelverarbeitung
+```
+
+## Front
 Was versteht man unter <b>Nebenläufigkeit</b>?
 
-### Back
+## Back
 Eine Maschine arbeitet nebenläufig, wenn die Objekte vollständig gleichzeitig abgearbeitet werden.

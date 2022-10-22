@@ -1,13 +1,18 @@
-## Note
-nid: 1620898340828
-model: Basic-d7a3e-4ce08
-tags: adv_ml::09_lecture
-markdown: false
+# Note
+```
+guid: B>3BX+[{H^
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+adv_ml::09_lecture
+```
+
+## Front
 Give the <b>formula</b> for a <b>hyperplane</b>.
 
-### Back
+## Back
 A hpyperplane in \(p\) dimensions is an affine subspace of
 dimension \(p-1\).
 <div>

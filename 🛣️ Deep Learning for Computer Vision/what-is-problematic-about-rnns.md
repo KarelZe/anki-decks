@@ -1,11 +1,16 @@
-## Note
-nid: 1655789869859
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: lgJsNQ{moD
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 What is <b>problematic </b>about <b>RNNs</b>?
 
-### Back
+## Back
 Vanishing and exploding gradient problem.

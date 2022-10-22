@@ -1,13 +1,19 @@
-## Note
-nid: 1636629388371
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality, performance
-markdown: false
+# Note
+```
+guid: LLU(U|oB1$
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+performance
+```
+
+## Front
 Wie ist der Ablauf im KAMP Modell?
 
-### Back
+## Back
 <img src="paste-14808edfe5e4b3f431913db307f80172f0e1fa98.jpg">
 <div>
   <b>Ablauf:</b>

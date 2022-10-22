@@ -1,11 +1,17 @@
-## Note
-nid: 1635320735535
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: CF-Qdn)k]O
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Explain <b>tokenizing</b>.
 
-### Back
+## Back
 Tokenizing is the process of separating a string into its component words.

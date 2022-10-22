@@ -1,11 +1,16 @@
-## Note
-nid: 1590595130768
-model: Basic-b122e-20a86
-tags: 2_7_parallelrechner
-markdown: false
+# Note
+```
+guid: DQG-`I1/F{
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+2_7_parallelrechner
+```
+
+## Front
 Wie funktioniert Space-Sharing?
 
-### Back
+## Back
 <img src="paste-456ecf02b38be237fb7d2a802d479274e9a74e06.jpg">

@@ -1,11 +1,16 @@
-## Note
-nid: 1580142763929
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: eY2N%#98=_
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was ist eine Konjunktion?
 
-### Back
+## Back
 Die Aussage $(A \wedge B)$ ist die Aussage "Die Aussage $A$ ist wahr und die Aussage $B$ ist wahr." und heißt die Konjunktion von $A$ und $B$.

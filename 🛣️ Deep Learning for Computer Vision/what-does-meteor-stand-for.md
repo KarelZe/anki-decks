@@ -1,11 +1,16 @@
-## Note
-nid: 1656316721983
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: oaWMNqR^(H
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 What does METEOR stand for?
 
-### Back
+## Back
 Metric for evaluation of Translation with Explicit Ordering.

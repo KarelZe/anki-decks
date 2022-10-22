@@ -1,13 +1,18 @@
-## Note
-nid: 1620896237313
-model: Basic-d7a3e-4ce08
-tags: adv_ml::09_lecture
-markdown: false
+# Note
+```
+guid: pmtoKKa[Q,
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+adv_ml::09_lecture
+```
+
+## Front
 Compare <b>SVMs</b> with <b>Logistic Regression</b>
 
-### Back
+## Back
 <div>
   <div>
     <ul>

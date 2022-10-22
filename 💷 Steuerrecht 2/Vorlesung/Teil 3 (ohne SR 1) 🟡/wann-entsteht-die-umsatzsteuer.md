@@ -1,13 +1,20 @@
-## Note
-nid: 1659675956396
-model: Basic-02d89-e0e22
-tags: SR_2, SR_2::SR-2-V::SR_2-V-3, SR_2::SR-2-V::SR_2_V-1
-markdown: false
+# Note
+```
+guid: j$&p1sQPy5
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+SR_2
+SR_2::SR-2-V::SR_2-V-3
+SR_2::SR-2-V::SR_2_V-1
+```
+
+## Front
 Wann entsteht die <b>Umsatzsteuer</b>?
 
-### Back
+## Back
 Abhängig davon, ob der Unternehmer seine Umsätze nach vereinbarten
 Entgelten (Sollversteuerung = Regelfall ; Art. 63 i.V.m. Art 64
 MwStSystRL) oder auf Antrag gem. § 20 UStG nach vereinnahmten

@@ -1,13 +1,18 @@
-## Note
-nid: 1613912532703
-model: Basic-d7a3e-4ce08
-tags: 06_mpi_openmp
-markdown: false
+# Note
+```
+guid: G2|9fk`$D5
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_mpi_openmp
+```
+
+## Front
 Was ist <b>OpenMP parallel</b>?
 
-### Back
+## Back
 <div>
 <div><ul>
 <li>#pragma omp parallel for [clause[clause]…]</li>

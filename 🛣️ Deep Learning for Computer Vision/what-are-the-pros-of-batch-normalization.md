@@ -1,13 +1,18 @@
-## Note
-nid: 1652108968615
-model: Basic-02d89-e0e22
-tags: dl_cv::03_nn_basics
-markdown: false
+# Note
+```
+guid: r.{6H4h]%,
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::03_nn_basics
+```
+
+## Front
 What are the pros of <b>batch normalization</b>?
 
-### Back
+## Back
 <ul>
   <li>Enables higher learning rates (thus faster training)
   <li>Less sensitive to weight initialization

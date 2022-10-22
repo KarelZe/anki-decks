@@ -1,13 +1,18 @@
-## Note
-nid: 1604746047775
-model: Basic-d7a3e-4ce08
-tags: ml::00_introduction
-markdown: false
+# Note
+```
+guid: ntf*7Qx9U+
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::00_introduction
+```
+
+## Front
 <p>When is Machine Learning useful?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

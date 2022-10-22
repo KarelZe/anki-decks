@@ -1,11 +1,15 @@
-## Note
-nid: 1586710131129
-model: LaTeX-deb4a
-tags: 
-markdown: false
+# Note
+```
+guid: l8PRz[Jvc0
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+```
+
+## Front
 $|z \cdot w|=\cdots(z, w \in \mathbb{C})$
 
-### Back
+## Back
 $|z \cdot w|=|z| \cdot|w|(z, w \in \mathbb{C})$

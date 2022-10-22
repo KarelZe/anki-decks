@@ -1,13 +1,18 @@
-## Note
-nid: 1653299115923
-model: Basic-02d89-e0e22
-tags: dl_cv::05_object_detection
-markdown: false
+# Note
+```
+guid: hi[!HK@JjM
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_object_detection
+```
+
+## Front
 What are the <b>downsides</b> of <b>R-CNN</b>?
 
-### Back
+## Back
 <ul>
   <li>Majority of time is lost for region proposals
   <li>Model is not fully end-to-end as proposals come from outside

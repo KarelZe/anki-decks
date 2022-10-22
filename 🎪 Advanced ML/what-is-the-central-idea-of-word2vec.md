@@ -1,13 +1,18 @@
-## Note
-nid: 1621758367450
-model: Basic-d7a3e-4ce08
-tags: 11_lecture
-markdown: false
+# Note
+```
+guid: CXu*I!5G9#
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+11_lecture
+```
+
+## Front
 What is the central idea of <b>Word2Vec</b>?
 
-### Back
+## Back
 <div>
   <b>Key idea:</b>
 </div>

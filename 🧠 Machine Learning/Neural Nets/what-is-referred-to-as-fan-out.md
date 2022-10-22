@@ -1,13 +1,18 @@
-## Note
-nid: 1629434730595
-model: Basic-d7a3e-4ce08
-tags: ml::10_neural_networks
-markdown: false
+# Note
+```
+guid: H)r,:lCLWS
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::10_neural_networks
+```
+
+## Front
 What is referred to as <b>fan-out</b>?
 
-### Back
+## Back
 Number of outgoing network connections from one layer.
 <div>
   <b>Example</b> (regularized regression):
@@ -15,5 +20,4 @@ Number of outgoing network connections from one layer.
 <div>
   See purple lines below
 </div>
-<div><img src=
-"paste-f4ea162621a06aece55728cbef89f943b1591026.jpg"></div>
+<div><img src="paste-f4ea162621a06aece55728cbef89f943b1591026.jpg"></div>

@@ -1,13 +1,19 @@
-## Note
-nid: 1634726721864
-model: Basic-d7a3e-4ce08
-tags: 01_introduction, repeat
-markdown: false
+# Note
+```
+guid: mt~?m/d&@O
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+repeat
+```
+
+## Front
 What role does <b>ML</b> play in <b>AI</b>?
 
-### Back
+## Back
 <img src="paste-ad758666bc84b3fc82c8c1a7742589b4db11d3b2.jpg">
 <div>
   <div>

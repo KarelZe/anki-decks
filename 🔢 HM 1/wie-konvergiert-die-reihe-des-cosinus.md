@@ -1,11 +1,16 @@
-## Note
-nid: 1586619307516
-model: LaTeX-deb4a
-tags: wichtig
-markdown: false
+# Note
+```
+guid: dqmf6~U-36
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+wichtig
+```
+
+## Front
 Wie konvergiert die Reihe des Cosinus?
 
-### Back
+## Back
 Die Potenzreihe des Cosinus hat den Konvergenzradius $r=\infty,$ konvergiert also absolut für jedes $x \in \mathbb{R}$.

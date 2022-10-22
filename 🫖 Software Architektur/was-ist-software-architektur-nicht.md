@@ -1,11 +1,16 @@
-## Note
-nid: 1588933538607
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints
-markdown: false
+# Note
+```
+guid: zz=^km80](
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+```
+
+## Front
 Was ist Software-Architektur nicht?
 
-### Back
+## Back
 Die implizite innere Struktur eines Systems.

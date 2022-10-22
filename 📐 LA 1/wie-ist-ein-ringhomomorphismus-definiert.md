@@ -1,13 +1,18 @@
-## Note
-nid: 1582906013517
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: nl(exb(<)^
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie ist ein Ringhomomorphismus definiert?
 
-### Back
+## Back
 $f: R \rightarrow S$ heißt Ringhomomorphismus, falls gilt:<div>
 </div><div>$f(1)=1$, $f(x+y)=f(x)+f(y)$ und $f(x y)=f(x) \cdot f(y) \quad (x, y \in R)$</div><div>
 </div><div>% <a href="https://de.wikipedia.org/wiki/Ringhomomorphismus">https://de.wikipedia.org/wiki/Ringhomomorphismus</a></div><div>

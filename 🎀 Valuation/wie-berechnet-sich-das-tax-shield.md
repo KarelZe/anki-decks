@@ -1,11 +1,16 @@
-## Note
-nid: 1614615475458
-model: Basic-d7a3e-4ce08
-tags: 01_uebung
-markdown: false
+# Note
+```
+guid: wZXw]@yI7M
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_uebung
+```
+
+## Front
 Wie berechnet sich das <b>Tax-Shield</b>?
 
-### Back
+## Back
 \(\text{Taxshield} =  \text{Interest expenses} \times \text{Taxrate}\)

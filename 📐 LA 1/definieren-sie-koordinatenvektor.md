@@ -1,13 +1,18 @@
-## Note
-nid: 1580154229575
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: Hzdh5DaC^0
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Definieren Sie Koordinatenvektor
 
-### Back
+## Back
 <div>% 2.4.12</div><div>
 </div>Sei das $n$-Tupel $\mathcal{B}:=\left(b_{1}, \dots, b_{n}\right)$ eine geordnete Basis von $V$. In diesem Fall definiert jedes $v \in V$ einen \textit{Koordinatenvektor}:<div>\begin{align*}
 v_{\mathcal{B}}:=\left(\begin{array}{c}

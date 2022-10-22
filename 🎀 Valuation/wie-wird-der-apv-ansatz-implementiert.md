@@ -1,13 +1,18 @@
-## Note
-nid: 1606151578532
-model: Basic-d7a3e-4ce08
-tags: valuation::06_enterprise_valuation
-markdown: false
+# Note
+```
+guid: sJub;2Z?;>
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+valuation::06_enterprise_valuation
+```
+
+## Front
 <p>Wie wird der <b>APV Ansatz</b> implementiert?
 
-### Back
+## Back
 <p>Ähnlich zum traditionalen WACC Ansatz. Zahlungsströme in
 Planungsperiode werden diskontiert und zum diskontierten Restwert
 addiert. Ggü. dem traditionellen WACC gibt es zwei Zahlungsströme

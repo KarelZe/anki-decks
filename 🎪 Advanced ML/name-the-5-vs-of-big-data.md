@@ -1,13 +1,18 @@
-## Note
-nid: 1619448593470
-model: Basic-d7a3e-4ce08
-tags: 01_introduction
-markdown: false
+# Note
+```
+guid: mIiVUhtXpH
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+```
+
+## Front
 Name the 5 V's of Big Data.
 
-### Back
+## Back
 <div>
   <div>
     <ul>

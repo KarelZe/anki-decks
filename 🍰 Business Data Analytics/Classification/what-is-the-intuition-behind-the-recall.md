@@ -1,11 +1,16 @@
-## Note
-nid: 1653714267456
-model: Basic-02d89-e0e22
-tags: bda::02_classification
-markdown: false
+# Note
+```
+guid: MK7<=-%uvw
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::02_classification
+```
+
+## Front
 What is the <b>intuition</b> behind the <b>recall</b>?
 
-### Back
+## Back
 Of all images that really are cats, what % were correctly recognized?

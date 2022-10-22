@@ -1,13 +1,18 @@
-## Note
-nid: 1655736569067
-model: Basic-02d89-e0e22
-tags: dl_cv::07_image_seg
-markdown: false
+# Note
+```
+guid: E#JAoa1XDx
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::07_image_seg
+```
+
+## Front
 Explain <b>Deeplab</b> form <b>image segmentation</b>.
 
-### Back
+## Back
 <ul>
   <li>Apply atrous (dilated) convolution
   <ul>
@@ -18,5 +23,4 @@ Explain <b>Deeplab</b> form <b>image segmentation</b>.
   <li>Feature aggregation through atrous spatial pyramid pooling
   <li>Potential postprocessing with fully connected Conditional
   Random Fields (CRF) to improve localization performance
-</ul><b>Visualization:</b> <img src= 
-"paste-9a5263670c10cb3ada27d1d65b24e14fdd7bdddb.jpg">
+</ul><b>Visualization:</b> <img src="paste-9a5263670c10cb3ada27d1d65b24e14fdd7bdddb.jpg">

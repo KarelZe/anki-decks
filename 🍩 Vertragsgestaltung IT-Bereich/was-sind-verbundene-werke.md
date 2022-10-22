@@ -1,13 +1,18 @@
-## Note
-nid: 1638453801674
-model: Basic-02d89-e0e22
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: HyFadm):jp
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Was sind verbundene Werke?
 
-### Back
+## Back
 Z. B. ERP-Software und Kassensystem.
 
 <b>Intuition</b>:

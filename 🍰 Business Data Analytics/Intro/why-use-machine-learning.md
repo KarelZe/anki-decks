@@ -1,13 +1,18 @@
-## Note
-nid: 1653576799445
-model: Basic-02d89-e0e22
-tags: bda::01_orga_intro
-markdown: false
+# Note
+```
+guid: piiU]owc$2
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::01_orga_intro
+```
+
+## Front
 Why use <b>Machine Learning</b>?
 
-### Back
+## Back
 <ul>
   <li>Automatically adapt to changes
   <li>If problem is too complex for traditional algorithms or no

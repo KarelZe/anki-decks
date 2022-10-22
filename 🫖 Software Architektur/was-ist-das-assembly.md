@@ -1,13 +1,19 @@
-## Note
-nid: 1589728843183
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: P^I|*>I;BE
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was ist das <i>Assembly</i>?
 
-### Back
+## Back
 <div>
   Beschreibt die innere Struktur eine composite entity (entweder
   ein System oder eine composite component). Ein Assembly view
@@ -27,5 +33,4 @@ Was ist das <i>Assembly</i>?
   Assembly <i>contexts</i> mit den Interfaces eines zweiten
   assembly contexts.
 </div>
-<div><img src=
-"paste-43666f2e608978314aa04973d618fb71f434bca9.jpg"></div>
+<div><img src="paste-43666f2e608978314aa04973d618fb71f434bca9.jpg"></div>

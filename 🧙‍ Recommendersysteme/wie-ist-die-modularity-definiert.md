@@ -1,13 +1,18 @@
-## Note
-nid: 1616224275380
-model: Basic-b122e-20a86
-tags: 10_Cluster_Modularity
-markdown: false
+# Note
+```
+guid: v7~[(Y98?7
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+10_Cluster_Modularity
+```
+
+## Front
 Wie ist die <b>Modularity</b> definiert?
 
-### Back
+## Back
 \[
 Q=\sum_{i=1}^{c}\left(e_{i i}-a_{i}^{2}\right)
 \]

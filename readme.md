@@ -4,11 +4,12 @@ Currently, includes:
 | Subject                                    | Lecturer                    | Semester | Language | Hint                                                | Download                                                       |
 | ------------------------------------------ | --------------------------- | -------- | -------- | --------------------------------------------------- | -------------------------------------------------------------- |
 | Advanced ML                                | Dr. A. Nazemi               | SS 20    | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Artificial Intelligence in Service Systems | Dr. Niklas Kühl             | WS 21/22 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Artificial Intelligence in Service Systems | Dr. N. Kühl                 | WS 21/22 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Business Data Analytics                    | D. Dann, A. Grote, F. Sterk | SS 22    | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Business Intelligence Systems              | Dr. Mario Nadj              | WS 21/22 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Business Intelligence Systems              | Dr. M. Nadj                 | WS 21/22 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Datenschutz von A bis Z                    | Prof. Dr. E. Buchmann       | SS 22    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Deep Learning for Computer Vision          | Prof. Dr. R. Stiefelhagen   | SS 22    | :us:     | WIP :construction:                                  | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Derivate                                   | Prof. Dr. Uhrig-Homburg     | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Derivate                                   | Prof. Dr. M. Uhrig-Homburg  | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Heterogene Parallele Rechnerstrukturen     | Prof. W. Karl               | WS 20/21 | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Höhere Mathematik I                        | G. Herzog                   | WS 19/20 | :de:     | Requires LaTeX :warning:                            | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Höhere Mathematik II                       | G. Herzog                   | WS 19/20 | :de:     | Requires LaTeX :warning:                            | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
@@ -22,7 +23,7 @@ Currently, includes:
 | Software-Architektur und Qualität          | Prof. R. Reussner           | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Steuerrecht I                              | D. Dietrich                 | WS 20/21 | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Steuerrecht II                             | D. Dietrich                 | SS 20    | :de:     | Requires Steuerrecht I :warning:                    | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
-| Valuation                                  | Prof. M Ruckes              | WS 20/21 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
+| Valuation                                  | Prof. M. Ruckes             | WS 20/21 | :us:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Vertragsgestaltung                         | S. Leipert                  | SS 21    | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 | Vertragsgestaltung in der IT               | M. Menk                     | WS 21/22 | :de:     |                                                     | [Download 📥](https://github.com/KarelZe/anki-decks/releases/) |
 

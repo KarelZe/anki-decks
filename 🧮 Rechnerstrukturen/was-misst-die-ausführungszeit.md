@@ -1,11 +1,16 @@
-## Note
-nid: 1620044036886
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: xz*C=Qs~}&
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Was misst die <b>Ausführungszeit</b>?
 
-### Back
+## Back
 Zeit zwischen dem Beginn und dem Ende eines Ereignisses / einer Aufgabe.

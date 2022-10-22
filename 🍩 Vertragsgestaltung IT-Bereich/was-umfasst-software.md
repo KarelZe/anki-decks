@@ -1,13 +1,18 @@
-## Note
-nid: 1634836188789
-model: Basic-d7a3e-4ce08
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: N.A{*96!rC
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Was umfasst <b>Software</b>?
 
-### Back
+## Back
 Programm (ablauffähig) + Dokumentation.
 
 Überlassung der Doku ist also Hauptpflicht ⚠️

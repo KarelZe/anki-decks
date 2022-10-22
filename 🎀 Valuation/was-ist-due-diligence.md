@@ -1,13 +1,18 @@
-## Note
-nid: 1606772602991
-model: Basic-d7a3e-4ce08
-tags: 08_m_and_a
-markdown: false
+# Note
+```
+guid: L25;na)2W8
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+08_m_and_a
+```
+
+## Front
 <p>Was ist <b>due diligence</b>?
 
-### Back
+## Back
 <p><span>Eingehende Prüfung eines zum Verkauf stehenden
 Unternehmens durch den potenziellen Käufer im Hinblick auf
 rechtliche, finanzielle, steuerliche und andere Aspekte.</span>

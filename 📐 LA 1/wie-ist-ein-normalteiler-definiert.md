@@ -1,13 +1,18 @@
-## Note
-nid: 1582361638975
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: q=c!X`%%h|
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie ist ein Normalteiler definiert?
 
-### Back
+## Back
 Eine Untergruppe $H<G$ heißt ein Normalteiler, geschrieben $H <code>\vartriangleleft </code>G,$ wenn
 $$
 \forall g \in G, h \in H: g h g^{-1} \in H.

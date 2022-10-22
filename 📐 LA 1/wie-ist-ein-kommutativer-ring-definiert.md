@@ -1,13 +1,18 @@
-## Note
-nid: 1582900983051
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: z@die[YOxI
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie ist ein kommutativer Ring definiert?
 
-### Back
+## Back
 <div>% Definition 4.2.1 (ii)</div><div>
 </div>Ein Ring $(R, A, M, 0, 1)$ heißt ein \textit{kommutativer Ring}, falls $(R,M)$ kommutativ ist.\\<div>
 </div><div>% Bemerkung 4.2.2 </div><div>

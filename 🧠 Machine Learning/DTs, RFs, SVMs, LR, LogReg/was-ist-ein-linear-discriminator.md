@@ -1,13 +1,18 @@
-## Note
-nid: 1607431948975
-model: Basic-d7a3e-4ce08
-tags: ml::02_linear_classification
-markdown: false
+# Note
+```
+guid: g7!:v[KDA_
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::02_linear_classification
+```
+
+## Front
 <p>Was ist ein <b>Linear Discriminator</b>?
 
-### Back
+## Back
 <p>Funktion die zwei Klassen trennt. In
 <ul>
   <li>

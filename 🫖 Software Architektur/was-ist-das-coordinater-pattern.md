@@ -1,13 +1,20 @@
-## Note
-nid: 1637154578503
-model: Basic-d7a3e-4ce08
-tags: 04_Architectural_Reuse, architecture, architecture_4
-markdown: false
+# Note
+```
+guid: G#7(EO6#K~
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_Architectural_Reuse
+architecture
+architecture_4
+```
+
+## Front
 Was ist das <b>Coordinater Pattern</b>?
 
-### Back
+## Back
 Muster zum Implementieren von Composite Components / Assemblies.
 <div>
   Ist Mittelding zu Fassade und Mediator für Unter-Komponenten.
@@ -20,5 +27,4 @@ Muster zum Implementieren von Composite Components / Assemblies.
   <b>Fassade:</b> Gibt einheitlichen Zugriff auf die
   zugrundeliegenden Unterkomponenten.
 </div>
-<div><img src=
-"paste-80d3411fb406794922fb938f63ae650baf1836c0.jpg"></div>
+<div><img src="paste-80d3411fb406794922fb938f63ae650baf1836c0.jpg"></div>

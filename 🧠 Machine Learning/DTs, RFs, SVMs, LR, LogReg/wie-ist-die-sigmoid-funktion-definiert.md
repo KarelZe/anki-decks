@@ -1,11 +1,16 @@
-## Note
-nid: 1629460981354
-model: Basic-d7a3e-4ce08
-tags: ml::02_linear_classification
-markdown: false
+# Note
+```
+guid: KQ:Ju6)w$<
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::02_linear_classification
+```
+
+## Front
 Wie ist die <b>Sigmoid Funktion</b> definiert?
 
-### Back
+## Back
 \(\sigma(a)=\frac{1}{1+\exp (-a)}\)

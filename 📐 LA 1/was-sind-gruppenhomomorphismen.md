@@ -1,13 +1,18 @@
-## Note
-nid: 1580143633015
-model: LaTeX-deb4a
-tags: Abstrakte_Gruppen
-markdown: false
+# Note
+```
+guid: KJc/6:m|+3
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Abstrakte_Gruppen
+```
+
+## Front
 Was sind Gruppenhomomorphismen?
 
-### Back
+## Back
 <div>\textbf{Definition}</div><div>
 </div><div>% Seite 105 Skript</div><div>
 </div>Sei $\varphi: G \to H$. $\varphi: G \rightarrow H$ heißt (Gruppen-) Homomorphismus, falls:<div>$\varphi(x y)=\varphi(x) \varphi(y)  \forall x, y \in G.$\\</div><div>

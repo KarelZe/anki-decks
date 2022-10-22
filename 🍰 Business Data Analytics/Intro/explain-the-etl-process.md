@@ -1,13 +1,18 @@
-## Note
-nid: 1649585081785
-model: Basic-02d89-e0e22
-tags: bda::00_orga_intro
-markdown: false
+# Note
+```
+guid: F2`8B1`9dM
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::00_orga_intro
+```
+
+## Front
 Explain the <b>ETL process</b>.
 
-### Back
+## Back
 The data provisioning process consists of <b>three steps</b>:
 <ul>
   <li>extraction (i. e., reading data from a database)

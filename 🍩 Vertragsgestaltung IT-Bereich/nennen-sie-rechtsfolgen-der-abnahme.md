@@ -1,13 +1,19 @@
-## Note
-nid: 1634840013216
-model: Basic-d7a3e-4ce08
-tags: repeat, vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: zw*[M3jfEU
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+repeat
+vertragsgestaltung_it
+```
+
+## Front
 Nennen Sie <b>Rechtsfolgen</b> der <b>Abnahme</b>.
 
-### Back
+## Back
 <ul>
   <li>Werklohn wird fällig
   <li>Verzinsung beginnt

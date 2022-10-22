@@ -1,13 +1,18 @@
-## Note
-nid: 1652598101588
-model: Basic-02d89-e0e22
-tags: dl_cv::04_deep_cnns_background
-markdown: false
+# Note
+```
+guid: FRh]WT@(z[
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::04_deep_cnns_background
+```
+
+## Front
 How can <b>CNNs</b> utilize <b>parallelism</b>?
 
-### Back
+## Back
 <b>Data parallelism</b>
 <ul>
   <li>Worker train the same model

@@ -1,12 +1,17 @@
-## Note
-nid: 1606249164573
-model: Basic-d7a3e-4ce08
-tags: 07_relative_valuation
-markdown: false
+# Note
+```
+guid: uktrpT!own
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+07_relative_valuation
+```
+
+## Front
 <p>Für was steht <b>EBITDA</b>?
 
-### Back
+## Back
 <p><span>Earnings before interest, taxes, depreciation and
 amortization.</span>

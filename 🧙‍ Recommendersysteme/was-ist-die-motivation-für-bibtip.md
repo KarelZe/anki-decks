@@ -1,13 +1,18 @@
-## Note
-nid: 1615988328397
-model: Basic-b122e-20a86
-tags: 08_bib_tip
-markdown: false
+# Note
+```
+guid: xf1B&O;.6U
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+08_bib_tip
+```
+
+## Front
 Was ist die Motivation für <b>BibTip</b>?
 
-### Back
+## Back
 <ul>
 <li>Wissenschaftler und Studenten sind immer unfähiger Literaturinformationen zu finden. Gründe sind:
 <ul>

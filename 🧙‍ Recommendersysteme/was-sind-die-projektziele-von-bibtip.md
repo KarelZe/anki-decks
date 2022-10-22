@@ -1,13 +1,18 @@
-## Note
-nid: 1615988367190
-model: Basic-b122e-20a86
-tags: 08_bib_tip
-markdown: false
+# Note
+```
+guid: hYc9>*]hQ1
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+08_bib_tip
+```
+
+## Front
 Was sind die <b>Projektziele</b> von <b>BibTip</b>?
 
-### Back
+## Back
 <ul>
 <li>Recommendersysteme aggregieren Wissen von verschiedenen Peergruppen ähnlich einem Expertenberatungsystem.</li>
 <li>Recommendersysteme haben des Potential Transaktionskosten (Kosten für beratende Experten) für die Literatursuche signifikant zu reduzieren wegen Ihrer Aggregationsmöglichkeiten.</li>

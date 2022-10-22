@@ -1,13 +1,18 @@
-## Note
-nid: 1619707500264
-model: Basic-d7a3e-4ce08
-tags: 03_vorlesung
-markdown: false
+# Note
+```
+guid: omaI(D?D(I
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_vorlesung
+```
+
+## Front
 Name tests for <b>heteroscedasiticity</b>
 
-### Back
+## Back
 <div>
   <div>
     <ul>

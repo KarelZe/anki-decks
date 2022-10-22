@@ -1,13 +1,18 @@
-## Note
-nid: 1616076119134
-model: Basic-b122e-20a86
-tags: 02_assoziationsregeln
-markdown: false
+# Note
+```
+guid: slSY0y,j*;
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+02_assoziationsregeln
+```
+
+## Front
 Was ist die Aussage des <b>Supports</b>?
 
-### Back
+## Back
 <div>Der Support sagt aus, wie oft ein Item oder eine Menge von Items zusammen gekauft werden.
 </div><div>
 </div><div>Der Support ist damit ein Maß für die Häufigkeit / Wichtigkeit einer Item-Menge.</div>

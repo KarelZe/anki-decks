@@ -1,11 +1,16 @@
-## Note
-nid: 1597999826334
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: iwkxz=@=z;
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von $\cosh x$?
 
-### Back
+## Back
 $\sinh x$

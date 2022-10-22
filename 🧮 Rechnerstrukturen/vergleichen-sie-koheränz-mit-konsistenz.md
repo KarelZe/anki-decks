@@ -1,13 +1,21 @@
-## Note
-nid: 1610819433190
-model: Basic-d7a3e-4ce08
-tags: 04_koheraenz, 11_para_block_prozess, checklater, klausur
-markdown: false
+# Note
+```
+guid: i>qRy*kk9z
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_koheraenz
+11_para_block_prozess
+checklater
+klausur
+```
+
+## Front
 Vergleichen Sie <b>Koheränz</b> mit <b>Konsistenz</b>
 
-### Back
+## Back
 <b>Koheränz:</b> definiert, welcher Wert bei einem Lesezugriff
 geliefert wird.
 <div>

@@ -1,13 +1,19 @@
-## Note
-nid: 1636473552921
-model: Basic-d7a3e-4ce08
-tags: 04_deployment, repeat
-markdown: false
+# Note
+```
+guid: H!]t.4g&;N
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+repeat
+```
+
+## Front
 Explain <b>infrastructure-as-a-service</b>.
 
-### Back
+## Back
 Provision, processing, storage, networks, and other fundamental
 computing resources.
 <div>

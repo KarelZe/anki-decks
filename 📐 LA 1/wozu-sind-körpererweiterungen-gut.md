@@ -1,13 +1,18 @@
-## Note
-nid: 1580128516784
-model: LaTeX-deb4a
-tags: Polynomringe
-markdown: false
+# Note
+```
+guid: M?[LdTo=I*
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Polynomringe
+```
+
+## Front
 Wozu sind Körpererweiterungen gut?
 
-### Back
+## Back
 <div>
   % skript Bemerkung 4.3.25 (Was soll das Ganze?).
 </div>Beispielsweise ist $\mathbb{C}$ eine Körpererweiterung von

@@ -1,13 +1,18 @@
-## Note
-nid: 1652598585120
-model: Basic-02d89-e0e22
-tags: dl_cv::04_deep_cnns_background
-markdown: false
+# Note
+```
+guid: g+r_$B@^7W
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::04_deep_cnns_background
+```
+
+## Front
 Explain what <b>ILSVRC</b> is.
 
-### Back
+## Back
 <ul>
   <li>Large Scale version of ImageNet for recognition purpose
   <li>1000 classes, no class is an ancestor of another class

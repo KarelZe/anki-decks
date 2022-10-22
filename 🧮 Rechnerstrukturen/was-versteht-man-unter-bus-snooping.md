@@ -1,11 +1,18 @@
-## Note
-nid: 1627988658060
-model: Basic-d7a3e-4ce08
-tags: 05_uebung, 05_uebung_rs, checklater
-markdown: false
+# Note
+```
+guid: pxJR$fO<we
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_uebung
+05_uebung_rs
+checklater
+```
+
+## Front
 Was versteht man unter <b>Bus-Snooping</b>?
 
-### Back
+## Back
 Beobachtung des Speicherbusses hinsichtlich Speicherzugriffe anderer Bus-Master

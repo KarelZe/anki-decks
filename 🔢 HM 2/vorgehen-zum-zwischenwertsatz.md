@@ -1,11 +1,17 @@
-## Note
-nid: 1598536658894
-model: Basic-b122e-20a86
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: d1YEmG3*_~
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Vorgehen zum Zwischenwertsatz
 
-### Back
+## Back
 <img src="paste-acfc810643a0919746ecac3a0b6694e890b7cada.jpg">

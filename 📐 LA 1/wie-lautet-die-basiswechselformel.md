@@ -1,13 +1,18 @@
-## Note
-nid: 1580723513900
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: Pd:$c>6GHd
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie lautet die Basiswechselformel?
 
-### Back
+## Back
 % math intutition ähnlich. Diese ist aus Skript.<div>
 </div><div>$$D_{\mathcal{B}_{2}^{\prime}, \mathcal{B}_{1}^{\prime}}(\Phi)=D_{\mathcal{B}_{2}^{\prime}, \mathcal{B}_{2}}\left(\mathrm{Id}_{W}\right) D_{\mathcal{B}_{2}, \mathcal{B}_{1}}(\Phi) D_{\mathcal{B}_{1}, \mathcal{B}_{1}^{\prime}}\left(\mathrm{Id}_{V}\right)$$
 </div><div>

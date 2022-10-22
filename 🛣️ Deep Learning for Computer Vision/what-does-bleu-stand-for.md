@@ -1,11 +1,16 @@
-## Note
-nid: 1656316532941
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: B*}:3:SS-#
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 What does BLEU stand for?
 
-### Back
+## Back
 BiLingual Evaluation Understudy.

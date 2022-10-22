@@ -1,11 +1,17 @@
-## Note
-nid: 1628935492808
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::08_svm
-markdown: false
+# Note
+```
+guid: kw4o<fGnw
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::08_svm
+```
+
+## Front
 Give a definition for the margin \(\rho\).
 
-### Back
+## Back
 Margin is the distance between the <b>support vectors</b> of the <b>decision boundary</b>.

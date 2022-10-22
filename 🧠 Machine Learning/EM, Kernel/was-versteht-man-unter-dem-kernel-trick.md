@@ -1,13 +1,20 @@
-## Note
-nid: 1610194005500
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::07_kernel_methods, ultra
-markdown: false
+# Note
+```
+guid: E_~|S(f1)N
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::07_kernel_methods
+ultra
+```
+
+## Front
 Was versteht man unter dem <b>Kernel Trick</b>?
 
-### Back
+## Back
 <div>
   <div>
     <div>

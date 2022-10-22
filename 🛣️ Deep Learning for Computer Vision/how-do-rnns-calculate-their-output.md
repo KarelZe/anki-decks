@@ -1,13 +1,18 @@
-## Note
-nid: 1655789723220
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: jJd6[Wo,m_
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 How do RNNs calculate their output?
 
-### Back
+## Back
 Get input at each time step \(\boldsymbol{x}_{t}\)
 Learn a hidden state representation \(\boldsymbol{h}_{t}\)
 \[

@@ -1,13 +1,19 @@
-## Note
-nid: 1636534520680
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: H5m&a;4jy~
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 What are the <b>steps</b> in a <b>Grid Search</b>?
 
-### Back
+## Back
 <ul>
   <li>Define the search space with possible range with values and
   range for every parameter. Every possible parameter combination

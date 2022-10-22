@@ -1,13 +1,18 @@
-## Note
-nid: 1642578116955
-model: Basic-02d89-e0e22
-tags: 09_ethics
-markdown: false
+# Note
+```
+guid: JVpC6KhK.;
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+09_ethics
+```
+
+## Front
 How to mitigate <b>algorithmic unfairness</b>?
 
-### Back
+## Back
 <b>Pre-Processing</b>
 <ul style=""><li style="">Transform the (training) data with the goal of removing underlying discrimination</li><li style="">For instance, sampling of representative data (e.g., ImageNet discussion \(^{*}\) )...or changing labels, etc.</li></ul><b>In-Processing</b>
 <ul><li>Modify learning algorithms to remove discrimination during the training process</li><li>Commonly, either the objective function is adapted, or additional constraints are introduced</li></ul><b>Post-Processing</b>

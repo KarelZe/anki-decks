@@ -1,13 +1,18 @@
-## Note
-nid: 1651143678924
-model: Basic-02d89-e0e22
-tags: bda::01_orga_intro
-markdown: false
+# Note
+```
+guid: moP#9!!:mh
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::01_orga_intro
+```
+
+## Front
 What are <b>three major challenges</b> in <b>ML</b>?
 
-### Back
+## Back
 <ul>
   <li><b>data:</b> insufficient quantity of training data,
   non-representative training data, poor data quality, irrelevant

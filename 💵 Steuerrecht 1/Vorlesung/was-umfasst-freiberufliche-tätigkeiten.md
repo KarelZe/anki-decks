@@ -1,13 +1,18 @@
-## Note
-nid: 1634649241832
-model: Basic-d7a3e-4ce08
-tags: SR_1::I-8
-markdown: false
+# Note
+```
+guid: IAuDz2*`W1
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+SR_1::I-8
+```
+
+## Front
 Was umfasst <b>freiberufliche Tätigkeiten</b>?
 
-### Back
+## Back
 <ul>
   <li>wissenschaftliche
   <li>künstlerische

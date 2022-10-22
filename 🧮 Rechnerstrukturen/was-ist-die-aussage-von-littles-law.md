@@ -1,13 +1,20 @@
-## Note
-nid: 1620063816017
-model: Basic-d7a3e-4ce08
-tags: checklater, derivate::03_bewertung, klausur
-markdown: false
+# Note
+```
+guid: JR`^iNh[[T
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+derivate::03_bewertung
+klausur
+```
+
+## Front
 Was ist die Aussage von <b>Little's Law</b>?
 
-### Back
+## Back
 Littles Gesetz besagt, dass die durchschnittliche Anzahl von
 Aufträgen \(L\) in einem Wartesystem, welches sich in einem
 stabilen Zustand befindet, gleich dem Produkt ihrer

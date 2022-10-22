@@ -1,13 +1,18 @@
-## Note
-nid: 1581757348562
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: Mnox<338[0
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Intution eines Mengensystems
 
-### Back
+## Back
 <div>Ein
 Mengensystem ist eine Menge, die wiederum aus anderen Mengen besteht. Ich
 stelle mir das als Container vor, der andere Mengen aufbewahrt.</div>

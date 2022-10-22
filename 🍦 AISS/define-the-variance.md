@@ -1,11 +1,16 @@
-## Note
-nid: 1635929697191
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation
-markdown: false
+# Note
+```
+guid: G<%ED~*~`K
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+```
+
+## Front
 Define the <b>variance</b>.
 
-### Back
+## Back
 \(\sigma^2=E[(X-E[X])]^{2}=[(X-\mu)]^{2}\)

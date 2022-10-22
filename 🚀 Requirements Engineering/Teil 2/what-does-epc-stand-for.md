@@ -1,11 +1,16 @@
-## Note
-nid: 1659544481726
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: wPe|Ww#^&%
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 What does <b>EPC</b> stand for?
 
-### Back
+## Back
 Event-driven process chains. (German EPK; ergebnisgesteuerte Prozesskette)

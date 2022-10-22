@@ -1,13 +1,20 @@
-## Note
-nid: 1636033078976
-model: Basic-d7a3e-4ce08
-tags: leech, repeat, vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: H&{gz%&|Tt
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+leech
+repeat
+vertragsgestaltung_it
+```
+
+## Front
 Was versteht man unter <b>Produkthaftung</b>?
 
-### Back
+## Back
 Haftung für ein Produkt, das nicht die Sicherheit bietet, die unter
 der Berücksichtigung aller Umstände insbesondere:
 <div>

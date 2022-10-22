@@ -1,11 +1,16 @@
-## Note
-nid: 1597220510351
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: ge/x<XwttZ
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Ableitung von $\sqrt x$?
 
-### Back
+## Back
 $\frac{1}{2 \sqrt{x}}$

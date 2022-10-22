@@ -1,13 +1,17 @@
-## Note
-nid: 1589394959329
-model: LaTeX-deb4a
-tags: 
-markdown: false
+# Note
+```
+guid: HA1W.p%2Li
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+```
+
+## Front
 Was sind Logical Partitions (LPARs)?
 
-### Back
+## Back
 <div>
 <ul>
 <li>Eine Methode, um aus logischen Ressourcen (Prozessoren, Speicher, IO Slots) phsysikalischen Maschinen zu schaffen</li>

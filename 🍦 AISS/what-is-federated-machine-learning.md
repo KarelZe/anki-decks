@@ -1,11 +1,16 @@
-## Note
-nid: 1636469674251
-model: Basic-d7a3e-4ce08
-tags: 06_systemwide_learning
-markdown: false
+# Note
+```
+guid: c=%b>-=J0J
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_systemwide_learning
+```
+
+## Front
 What is <b>federated machine learning</b>?
 
-### Back
+## Back
 Distributed learning for decentralized data with focus on privacy preserving.

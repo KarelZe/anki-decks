@@ -1,0 +1,36 @@
+# Note
+```
+guid: I>Y/~NnE4O
+notetype: Basic-d7a3e-4ce08
+```
+
+### Tags
+```
+derivate::02_grundidee
+```
+
+## Front
+Was besagt das <b>No-Arbitrage-Argument</b> vom <b>Typ 1</b>?
+
+## Back
+Es existiert keine selbstfinanzierende (d. h. einmal aufgesetzte
+Strategie braucht keine Zuflüsse / Abflüsse) Handelsstrategie mit
+der Eigenschaft:
+<div>
+  <div>
+    <div>
+      <ul>
+        <li>kein Kapitaleinsatz in \(t=0\)
+        <li>für einen zukünftigen Zeitpunkt \(t>0\) gilt: Wert
+        der Position \(\geq 0\) mit Wahrscheinlichkeit 1 Wert der
+        Position \(>0\) mit positiver Wahrscheinlichkeit
+      </ul>
+    </div>
+  </div>
+</div>
+<div>
+  <b>Intuition:</b>
+</div>
+<div>
+  Es gibt kein geschenktes Lotterielos mit positiver Gewinnchance.
+</div>

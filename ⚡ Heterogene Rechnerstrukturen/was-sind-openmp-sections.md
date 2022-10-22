@@ -1,13 +1,18 @@
-## Note
-nid: 1613912365953
-model: Basic-d7a3e-4ce08
-tags: 06_mpi_openmp
-markdown: false
+# Note
+```
+guid: x>E/:~w-Lq
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_mpi_openmp
+```
+
+## Front
 Was sind <b>OpenMP Section(s)</b>?
 
-### Back
+## Back
 <div>
 <div><ul>
 <li><em>sections</em> markiert parallele Region.</li>

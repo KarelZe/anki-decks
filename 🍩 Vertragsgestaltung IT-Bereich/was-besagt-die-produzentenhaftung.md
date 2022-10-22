@@ -1,13 +1,19 @@
-## Note
-nid: 1637241303508
-model: Basic-02d89-e0e22
-tags: repeat, vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: D&N?5]}e[E
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+repeat
+vertragsgestaltung_it
+```
+
+## Front
 Was besagt die Produzentenhaftung?
 
-### Back
+## Back
 Wer ein gefährliches Produkt in Umlauf bringt, muss haften.
 <div>
   Es geht um Schäden am sonstigen Eigentum, nicht der Sache selbst.

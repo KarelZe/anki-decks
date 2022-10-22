@@ -1,13 +1,18 @@
-## Note
-nid: 1621149630392
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: Msx5t5{CkK
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Was ist ein <b>Schichtenmodell</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

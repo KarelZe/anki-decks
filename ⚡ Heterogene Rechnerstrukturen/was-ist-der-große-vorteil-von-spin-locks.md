@@ -1,11 +1,16 @@
-## Note
-nid: 1613217474950
-model: Basic-d7a3e-4ce08
-tags: 04_koheraenz
-markdown: false
+# Note
+```
+guid: bv1V,$i<wM
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_koheraenz
+```
+
+## Front
 Was ist der große <b>Vorteil</b> von <b>Spin-Locks</b>?
 
-### Back
+## Back
 Verfahren vermeidet teure Kontextwechsel, was zeitaufwändig ist.

@@ -1,13 +1,18 @@
-## Note
-nid: 1652602341247
-model: Basic-02d89-e0e22
-tags: dl_cv::04_deep_cnns_background
-markdown: false
+# Note
+```
+guid: BCm<FvTROr
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::04_deep_cnns_background
+```
+
+## Front
 Give an <b>basic overview</b> over <b>LeNet</b>.
 
-### Back
+## Back
 <ul>
   <li>Used for digit classification
   <li>Consists of Conv -> Pool -> conv -> Pool -> FC

@@ -1,11 +1,16 @@
-## Note
-nid: 1616054458048
-model: Basic-b122e-20a86
-tags: 05_mechanism_design_problems
-markdown: false
+# Note
+```
+guid: pH@HlF2Wm!
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+05_mechanism_design_problems
+```
+
+## Front
 Wie ist der <b>Empfehlungsgeber</b> definiert?
 
-### Back
+## Back
 Gibt entweder eine Bewertung oder gleich eine Empfehlung ab aus bestimmten Motiven.

@@ -1,11 +1,16 @@
-## Note
-nid: 1591270178145
-model: Basic-b122e-20a86
-tags: 3_4_prozesse_threads
-markdown: false
+# Note
+```
+guid: FLtxxpaW?x
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_4_prozesse_threads
+```
+
+## Front
 Wie definiert Giloi einen Prozess?
 
-### Back
+## Back
 <img src="paste-74097fc09f7c226ec05951ba38bc647f78a3da63.jpg">

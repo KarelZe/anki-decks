@@ -1,12 +1,17 @@
-## Note
-nid: 1604950431360
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: Cg!.&XHxE3
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 <p>Was ist <i>Data Parallelism</i>?
 
-### Back
+## Back
 <p>Gleichzeitige Ausführung von Operationen auf getrennten
 Elementen einer Datenmenge (Feld, Matrix)

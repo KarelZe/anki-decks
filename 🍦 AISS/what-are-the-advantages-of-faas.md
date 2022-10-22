@@ -1,13 +1,19 @@
-## Note
-nid: 1636472809339
-model: Basic-d7a3e-4ce08
-tags: 04_deployment, repeat
-markdown: false
+# Note
+```
+guid: D.)#s]oI-c
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+repeat
+```
+
+## Front
 What are the <b>advantages</b> of <b>FAAS</b>?
 
-### Back
+## Back
 <ul>
   <li><strong>Pay:</strong> Only when the function is running. No
   costs by the service provider.

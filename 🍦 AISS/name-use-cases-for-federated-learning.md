@@ -1,13 +1,18 @@
-## Note
-nid: 1636469418113
-model: Basic-d7a3e-4ce08
-tags: 06_systemwide_learning
-markdown: false
+# Note
+```
+guid: CdYpCZqc=Q
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_systemwide_learning
+```
+
+## Front
 Name <b>use cases</b> for <b>federated learning</b>.
 
-### Back
+## Back
 <ul>
   <li>smartphone interaction e. g. prediction which photo will be
   shared / language models

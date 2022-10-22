@@ -1,11 +1,16 @@
-## Note
-nid: 1655652286860
-model: Basic-02d89-e0e22
-tags: bda::07_unsupervised_learning
-markdown: false
+# Note
+```
+guid: s0STi=MF@N
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::07_unsupervised_learning
+```
+
+## Front
 What does <b>AGNES</b> stand for?
 
-### Back
+## Back
 Agglomerative NESTing

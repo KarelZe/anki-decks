@@ -1,13 +1,19 @@
-## Note
-nid: 1593329215363
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality, performance
-markdown: false
+# Note
+```
+guid: Cg>l&VH.qQ
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+performance
+```
+
+## Front
 Was ist die <b>Service Effect Specification</b>?
 
-### Back
+## Back
 <p>Die <b>Service Effect Specification</b> beschreibt das Verhalten
 in einer Komponente bei Aufruf einer Operation dieser Komponente
 auf einer sehr abstrakten Ebene indem sie die Beziehung zwischen

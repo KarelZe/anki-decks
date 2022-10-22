@@ -1,11 +1,16 @@
-## Note
-nid: 1659544400949
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: zKxOcoWe/t
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 What does BPMN stand for?
 
-### Back
+## Back
 Business Process Model and Notation.

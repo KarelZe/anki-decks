@@ -1,11 +1,16 @@
-## Note
-nid: 1616830780428
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: C8sH#d>9QQ
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was versteht man unter <b>Spekulation</b>?
 
-### Back
+## Back
 Aufbau einer Position zur Umsetzung von Erwartungen z. B. Kursänderungen / Volatilitätsänderungen.

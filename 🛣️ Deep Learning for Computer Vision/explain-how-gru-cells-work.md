@@ -1,13 +1,18 @@
-## Note
-nid: 1655791345088
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: zd;l,h-LHB
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 Explain how <b>GRU cells</b> work.
 
-### Back
+## Back
 \(\left(\begin{array}{l}r_{t} \\ z_{t}\end{array}\right)=\left(\begin{array}{c}\text { sigm } \\ \text { sigm }\end{array}\right) W\left(\begin{array}{c}x_{t} \\ h_{t-1}\end{array}\right)\)
 
 \(\tilde{h}_{t}=\tanh \left(W_{x h} x_{t}+W_{h h}\left(r_{t} * h_{t-1}\right)\right)\)

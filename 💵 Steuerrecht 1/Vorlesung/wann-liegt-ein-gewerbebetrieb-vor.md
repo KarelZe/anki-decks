@@ -1,13 +1,18 @@
-## Note
-nid: 1634649106247
-model: Basic-d7a3e-4ce08
-tags: SR_1::I-8
-markdown: false
+# Note
+```
+guid: CI#E0dBJb8
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+SR_1::I-8
+```
+
+## Front
 Wann liegt ein <b>Gewerbebetrieb</b> vor?
 
-### Back
+## Back
 <div>
   Eine selbstständige, nachhaltige Betätigung, die mit der Absicht
   Gewinn zu erzielen, unternommen wird und sich als Beteiligung am

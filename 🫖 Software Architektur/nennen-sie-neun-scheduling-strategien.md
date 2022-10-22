@@ -1,13 +1,18 @@
-## Note
-nid: 1593326616068
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality
-markdown: false
+# Note
+```
+guid: CiUF>smq:z
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+```
+
+## Front
 Nennen Sie neun <b>Scheduling Strategien.</b>
 
-### Back
+## Back
 <ul>
   <li>First-Come-First-Served
   <li>Last Come-First-Served

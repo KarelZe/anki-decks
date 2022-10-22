@@ -1,13 +1,18 @@
-## Note
-nid: 1651132600229
-model: Basic-02d89-e0e22
-tags: bda::02_classification
-markdown: false
+# Note
+```
+guid: P$ZlWU15Ko
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::02_classification
+```
+
+## Front
 Name 4 <b>ensemble</b> learning approaches
 
-### Back
+## Back
 <ul>
   <li>Vote casting
   <li>Generic process

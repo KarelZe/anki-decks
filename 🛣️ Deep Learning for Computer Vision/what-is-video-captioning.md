@@ -1,13 +1,18 @@
-## Note
-nid: 1656319259988
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: HX&;`0OA;*
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 What is <b>video captioning</b>?
 
-### Back
+## Back
 Generate a description for the content of a video.
 
 Parts of the video tagged with intermediate description or

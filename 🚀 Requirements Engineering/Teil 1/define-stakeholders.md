@@ -1,11 +1,16 @@
-## Note
-nid: 1650958609580
-model: Basic-02d89-e0e22
-tags: re::re-I::principles-re
-markdown: false
+# Note
+```
+guid: t`r&5z<c~V
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-I::principles-re
+```
+
+## Front
 Define <b>stakeholders</b>.
 
-### Back
+## Back
 A person or organization that has a (direct e.g., using or indirect e.g., influenced by) influence on a system's requirement.

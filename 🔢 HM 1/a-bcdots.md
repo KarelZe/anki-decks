@@ -1,11 +1,17 @@
-## Note
-nid: 1586602126355
-model: LaTeX-deb4a
-tags: Reele, Zahlen
-markdown: false
+# Note
+```
+guid: vTLw,g`EC/
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Reele
+Zahlen
+```
+
+## Front
 $|a b|=\cdots$?
 
-### Back
+## Back
 $|a b|=|a||b|$

@@ -1,13 +1,18 @@
-## Note
-nid: 1620064889284
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: mF!H@L#Os>
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Wie arbeiten <b>Full-System Simulatoren</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

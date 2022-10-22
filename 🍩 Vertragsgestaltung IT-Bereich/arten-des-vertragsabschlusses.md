@@ -1,13 +1,18 @@
-## Note
-nid: 1634834758741
-model: Basic-d7a3e-4ce08
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: r<I.Df|$#^
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 <b>Arten</b> des <b>Vertragsabschlusses</b>?
 
-### Back
+## Back
 <ul>
   <li>Formlos
   <li>Formgebunden

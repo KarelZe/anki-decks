@@ -1,13 +1,18 @@
-## Note
-nid: 1635436034737
-model: Basic-d7a3e-4ce08
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: Ne<}|lB7G}
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Wer ist untersuchungs- und rügepflichtig?
 
-### Back
+## Back
 <ul>
   <li>Kaufleute (B2B) (§ 377 f. HGB)
   <li>Nichtkaufleute bei korrekter Vertragsgestaltung für

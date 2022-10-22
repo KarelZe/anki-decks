@@ -1,13 +1,19 @@
-## Note
-nid: 1629433923053
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::10_neural_networks
-markdown: false
+# Note
+```
+guid: niw;O*)Y*i
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::10_neural_networks
+```
+
+## Front
 Explain the Backpropagation algorithm.
 
-### Back
+## Back
 Let \(v_1 \cdots v_N\) be a topical ordering of the computation
 graph (i. e. parents come before children.) \(V_N\) denotes the
 variable we're trying to compute derivates e. g. loss.

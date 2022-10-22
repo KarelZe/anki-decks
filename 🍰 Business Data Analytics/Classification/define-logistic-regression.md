@@ -1,13 +1,18 @@
-## Note
-nid: 1653717498008
-model: Basic-02d89-e0e22
-tags: bda::02_classification
-markdown: false
+# Note
+```
+guid: Ow~pSe6?,^
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::02_classification
+```
+
+## Front
 Define <b>logistic regression</b>.
 
-### Back
+## Back
 Estimates the probability that an instance belongs to a particular
 class. <b>Vectorized form estimator:</b>
 \(\hat{p}=h_{\theta}(\mathbf{x})=\sigma\left(\theta^{T}

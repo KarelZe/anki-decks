@@ -1,13 +1,19 @@
-## Note
-nid: 1636469796987
-model: Basic-d7a3e-4ce08
-tags: 06_systemwide_learning, repeat
-markdown: false
+# Note
+```
+guid: v}ZrI`|9*y
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_systemwide_learning
+repeat
+```
+
+## Front
 What is <b>meta learning</b>?
 
-### Back
+## Back
 A meta-learning system must include a learning subsystem, which
 adapts 🔌 with experience 🧠.
 <div>

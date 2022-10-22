@@ -1,13 +1,19 @@
-## Note
-nid: 1634726874501
-model: Basic-d7a3e-4ce08
-tags: 01_introduction, repeat
-markdown: false
+# Note
+```
+guid: e,AN.T$GNX
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+repeat
+```
+
+## Front
 Name different <b>views</b> on <b>AI</b>.
 
-### Back
+## Back
 <b>Research currents ⛵:</b> Different scientific viewpoints on what
 constitutes important aspects of AI research
 <div>

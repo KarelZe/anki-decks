@@ -1,13 +1,18 @@
-## Note
-nid: 1651481199253
-model: Basic-02d89-e0e22
-tags: dl_cv::02_basics_nn
-markdown: false
+# Note
+```
+guid: mWTX`7)%h-
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::02_basics_nn
+```
+
+## Front
 What activation function should one use?
 
-### Back
+## Back
 <ul>
   <li>Try ReLU
   <li>If dying gradients are a problem, try leaky ReLU or Maxout

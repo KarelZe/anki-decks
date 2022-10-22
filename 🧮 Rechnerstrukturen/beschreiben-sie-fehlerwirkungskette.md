@@ -1,13 +1,18 @@
-## Note
-nid: 1621098188907
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: I8mqX>3&GS
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Beschreiben Sie <b>Fehlerwirkungskette</b>
 
-### Back
+## Back
 <div>
   <div>
     <div>

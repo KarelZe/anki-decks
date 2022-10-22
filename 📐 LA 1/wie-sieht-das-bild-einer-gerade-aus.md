@@ -1,11 +1,17 @@
-## Note
-nid: 1580156284411
-model: LaTeX-deb4a
-tags: aussortiert, Basis
-markdown: false
+# Note
+```
+guid: m@@;h)%&8O
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+aussortiert
+Basis
+```
+
+## Front
 Wie sieht das Bild einer Gerade aus?
 
-### Back
+## Back
 

@@ -1,13 +1,18 @@
-## Note
-nid: 1655791200357
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: yuccyTWaef
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 What is novel about <b>GRUs</b>?
 
-### Back
+## Back
 Only contain a reset gate \(r_t\) and \(z_t\).
 
 <b>Visualization:</b>

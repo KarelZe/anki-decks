@@ -1,13 +1,18 @@
-## Note
-nid: 1617721057480
-model: Basic-b122e-20a86
-tags: 08_Ehrenberg
-markdown: false
+# Note
+```
+guid: r+#Z#yXYOt
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+08_Ehrenberg
+```
+
+## Front
 Was sagt \(q\) bei Ehrenberg aus?
 
-### Back
+## Back
 Anteil der Repeat-Buyer an den gesamten Käufen.
 <div>
   <b>Beispiel:</b>

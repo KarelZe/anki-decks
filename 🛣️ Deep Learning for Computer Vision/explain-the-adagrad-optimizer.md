@@ -1,13 +1,18 @@
-## Note
-nid: 1651487328480
-model: Basic-02d89-e0e22
-tags: dl_cv::02_basics_nn
-markdown: false
+# Note
+```
+guid: Ri=Ov$~K-K
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::02_basics_nn
+```
+
+## Front
 Explain the <b>Adagrad optimizer</b>.
 
-### Back
+## Back
 Adapting the learning rates depending on weights.
 
 Each weight \(\theta_{i}\) are modified with different learning rate, depending on the past gradients.

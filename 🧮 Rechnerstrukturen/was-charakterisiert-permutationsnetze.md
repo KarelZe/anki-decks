@@ -1,13 +1,22 @@
-## Note
-nid: 1627554032202
-model: Basic-d7a3e-4ce08
-tags: 04_uebung, checklater, klausur, rs::04_uebung, rs::10_verbindungsstrukturen
-markdown: false
+# Note
+```
+guid: n7m0Xj-Ms4
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_uebung
+checklater
+klausur
+rs::04_uebung
+rs::10_verbindungsstrukturen
+```
+
+## Front
 Was charakterisiert <b>Permutationsnetze</b>?
 
-### Back
+## Back
 \(p\) Eingänge des Netzes können gleichzeitig auf \(p\) Ausgänge
 geschaltet werden.
 <div>

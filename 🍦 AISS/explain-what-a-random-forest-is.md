@@ -1,13 +1,19 @@
-## Note
-nid: 1636530215955
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: u4-^p_FvsX
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Explain what a <b>random forest</b> is.
 
-### Back
+## Back
 A random forest builds several decision trees on <b>bootstrapped
 samples</b>, which is taking multiple samples from the single
 training data set. Decision trees are for every instance in

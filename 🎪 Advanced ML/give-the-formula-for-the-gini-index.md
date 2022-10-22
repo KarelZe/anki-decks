@@ -1,11 +1,16 @@
-## Note
-nid: 1620472677534
-model: Basic-d7a3e-4ce08
-tags: adv_ml::07_lecture_rf_dc
-markdown: false
+# Note
+```
+guid: lBlttXOHDh
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+adv_ml::07_lecture_rf_dc
+```
+
+## Front
 Give the formula for the <b>Gini-Index</b>.
 
-### Back
+## Back
 \[i(t)=\sum_{j} p(j \mid t)(1-p(j \mid t))\]

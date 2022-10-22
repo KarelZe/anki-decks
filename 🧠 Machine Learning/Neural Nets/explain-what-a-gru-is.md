@@ -1,13 +1,19 @@
-## Note
-nid: 1629293018097
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::11_rnns
-markdown: false
+# Note
+```
+guid: f^/h1/mDT=
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::11_rnns
+```
+
+## Front
 Explain what a GRU is.
 
-### Back
+## Back
 <div>
   <div>
     GRUs are a variant of RNNs using gates to control what

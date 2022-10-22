@@ -1,13 +1,18 @@
-## Note
-nid: 1628138278388
-model: Basic-d7a3e-4ce08
-tags: 07_multi_threading
-markdown: false
+# Note
+```
+guid: u.S}x&kHnc
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+07_multi_threading
+```
+
+## Front
 Wofür steht <b>VLIW</b>?
 
-### Back
+## Back
 Very Long Instruction Word.
 <div>
   Intutition:

@@ -1,13 +1,18 @@
-## Note
-nid: 1614692674314
-model: Basic-d7a3e-4ce08
-tags: 09_managerial_flexibility
-markdown: false
+# Note
+```
+guid: c$~77>J]QU
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+09_managerial_flexibility
+```
+
+## Front
 Welche <b>Features</b> zeichnen <b>Optionen</b> aus?
 
-### Back
+## Back
 <div>
 <div><ul>
 <li>Optionsanalyse kann für Assets verwendet werden, deren Wert von anderen Anlagen abhängt. (<em>Derivate</em>)</li>

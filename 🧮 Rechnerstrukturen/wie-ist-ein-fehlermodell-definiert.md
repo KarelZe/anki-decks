@@ -1,11 +1,16 @@
-## Note
-nid: 1621149801234
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: i(g-X>b2Z|
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Wie ist ein Fehlermodell definiert?
 
-### Back
+## Back
 Ein Fehlermodell beschreibt die möglichen Fehlzustände eines Systems, beispielsweise durch Angabe der Komponentenmengen, die zugleich von einer Fehlerursache betroffen sein können und durch Angabe des möglichen fehlerhaften Verhaltens dieser Komponenten.

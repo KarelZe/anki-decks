@@ -1,13 +1,18 @@
-## Note
-nid: 1617522199626
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: bvz,a0YH;3
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Was sagt die <b>elektrische Leistung</b> aus?
 
-### Back
+## Back
 <b>Elektrische Leistung</b> bezeichnet den Energiefluss pro Zeit.
 <div>
   <b>Im Kontext:</b>

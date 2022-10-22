@@ -1,13 +1,18 @@
-## Note
-nid: 1655134766047
-model: Basic-02d89-e0e22
-tags: dl_cv::05_object_detection
-markdown: false
+# Note
+```
+guid: v23]c^h*dY
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_object_detection
+```
+
+## Front
 Explain how does training of R-CNN work?
 
-### Back
+## Back
 Gradients can backpropagate into feature layers through ROI pooling
 layers (just as with normal maxpool layers). They use a
 <b>multi-task loss</b> \(L\) on each labeled RoI to jointly train
@@ -21,5 +26,4 @@ a tuple of true bounding-box regression targets for class \(u, v=\)
 v_{\mathrm{h}}\right)\), and a predicted tuple
 \(t^{u}=\left(t_{\mathrm{x}}^{u}, t_{\mathrm{y}}^{u},
 t_{\mathrm{w}}^{u}, t_{\mathrm{h}}^{u}\right)\), again for class
-\(u\). <b>Visualization</b>: <img src= 
-"paste-eafb9e3e922841c9afb407e211a0a43f0d00a326.jpg">
+\(u\). <b>Visualization</b>: <img src="paste-eafb9e3e922841c9afb407e211a0a43f0d00a326.jpg">

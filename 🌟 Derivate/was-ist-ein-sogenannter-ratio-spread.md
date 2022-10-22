@@ -1,11 +1,16 @@
-## Note
-nid: 1645294342864
-model: Basic-02d89-e0e22
-tags: derivate::04_optionen
-markdown: false
+# Note
+```
+guid: DS,9d|@{_A
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+derivate::04_optionen
+```
+
+## Front
 Was ist ein sogenannter <b>Ratio Spread</b>?
 
-### Back
+## Back
 Anzahl der Calls (bzw. Puts) long entspricht nicht der Anzahl an Calls (Puts) short).

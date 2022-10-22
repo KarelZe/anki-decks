@@ -1,13 +1,18 @@
-## Note
-nid: 1629295630032
-model: Basic-d7a3e-4ce08
-tags: ml::11_rnns
-markdown: false
+# Note
+```
+guid: ft>F_eS6-Z
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::11_rnns
+```
+
+## Front
 What is characteristic about <b>ResNet</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

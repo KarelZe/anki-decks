@@ -1,13 +1,18 @@
-## Note
-nid: 1655647915879
-model: Basic-02d89-e0e22
-tags: bda::07_unsupervised_learning
-markdown: false
+# Note
+```
+guid: Lt!;XqWsrs
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::07_unsupervised_learning
+```
+
+## Front
 What are the <b>pros</b> and <b>cons</b> of <b>DBSCAN</b>?
 
-### Back
+## Back
 <b>Advantages:</b>
 <ul>
   <li>Cans discover abitrarily shaped clusters

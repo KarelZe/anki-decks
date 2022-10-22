@@ -1,11 +1,16 @@
-## Note
-nid: 1602350255731
-model: Basic-b122e-20a86
-tags: Eigene
-markdown: false
+# Note
+```
+guid: E1o,*^}@T7
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie funktioniert Google's Map Reduce?
 
-### Back
+## Back
 <img src="paste-137eabc0bec4a51f9638b4dc15fcb4dbdce7d75a.jpg">

@@ -1,11 +1,17 @@
-## Note
-nid: 1597999379190
-model: LaTeX-deb4a
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: L|mb[?mSIm
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Was ist die Stammfunktion von $\cot x$?
 
-### Back
+## Back
 $\ln |\sin x|$

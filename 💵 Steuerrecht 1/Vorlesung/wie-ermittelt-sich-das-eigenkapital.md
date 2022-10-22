@@ -1,11 +1,16 @@
-## Note
-nid: 1648310682789
-model: Basic-02d89-e0e22
-tags: 01_steuerrecht
-markdown: false
+# Note
+```
+guid: d=@c$.jPr&
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+01_steuerrecht
+```
+
+## Front
 Wie ermittelt sich das <b>Eigenkapital</b>?
 
-### Back
+## Back
 <img src="41177430.png">

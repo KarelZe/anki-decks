@@ -1,13 +1,18 @@
-## Note
-nid: 1580142808572
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: hpgnIwl5~Z
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was sind elementare logische Umformungen?
 
-### Back
+## Back
 <div>\begin{enumerate}</div>\item $A \Longrightarrow A$, alternativ: $A \vee(\neg A)$ ). (Tertium non datur.)
 \item $((A \Rightarrow B) \wedge(B \Rightarrow C)) \Longrightarrow(A \Rightarrow C)$ (Transitivität)
 \item $(A \wedge B) \wedge C \Longleftrightarrow A \wedge(B \wedge C)$ und $(A \vee B) \vee C \Longleftrightarrow A \vee(B \vee C)$ (Assoziativität)

@@ -1,13 +1,18 @@
-## Note
-nid: 1634648298920
-model: Basic-d7a3e-4ce08
-tags: SR_1::I-2
-markdown: false
+# Note
+```
+guid: gOY]3m6g=.
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+SR_1::I-2
+```
+
+## Front
 Wie ist das <b>Inland</b> definiert?
 
-### Back
+## Back
 Das Staatsgebiet der Bundesrepublik Deutschland. Zum Staatsgebiet
 gehören neben dem Festland auch das Küstenmeer ("Zwölfmeilenzone").
 <div>

@@ -1,13 +1,18 @@
-## Note
-nid: 1653498872768
-model: Basic-02d89-e0e22
-tags: bda::10_text_mining
-markdown: false
+# Note
+```
+guid: iwD{w6%Vr>
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::10_text_mining
+```
+
+## Front
 Name two <b>Word2Vec approaches</b>.
 
-### Back
+## Back
 <ul>
   <li>CBOW
   <li>Skip-gram

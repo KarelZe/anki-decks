@@ -1,11 +1,16 @@
-## Note
-nid: 1618055164576
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: CBXC~3=B@i
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Was sagt die <b>Badewannenkurve</b> aus?
 
-### Back
+## Back
 Ausfallrate über die Lebenszeit eines Systems.

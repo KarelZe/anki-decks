@@ -1,13 +1,18 @@
-## Note
-nid: 1635343018905
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation
-markdown: false
+# Note
+```
+guid: vGqI}t#k*7
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+```
+
+## Front
 What is <b>Labeling</b>?
 
-### Back
+## Back
 Some algorithms require labeled observations.
 <div>
   Labeling can help add human judgement to the dataset.

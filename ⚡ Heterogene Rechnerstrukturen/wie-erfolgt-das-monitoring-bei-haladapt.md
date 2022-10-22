@@ -1,13 +1,18 @@
-## Note
-nid: 1613851619816
-model: Basic-d7a3e-4ce08
-tags: het_rs::09_programmierung
-markdown: false
+# Note
+```
+guid: ebx3_]yzJG
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+het_rs::09_programmierung
+```
+
+## Front
 Wie erfolgt das <b>Monitoring</b> bei <b>HALadapt</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

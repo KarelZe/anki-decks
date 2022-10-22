@@ -1,13 +1,18 @@
-## Note
-nid: 1615987838818
-model: Basic-b122e-20a86
-tags: 08_bib_tip
-markdown: false
+# Note
+```
+guid: gEy5B7lV]?
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+08_bib_tip
+```
+
+## Front
 Wer ist Referenzkunde von <b>BibTip</b>?
 
-### Back
+## Back
 <ul>
 <li>Deutsche Nationalbibliothek</li>
 <li>Karlsruher Institut für Technologie</li>

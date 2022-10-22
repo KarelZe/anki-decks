@@ -1,11 +1,17 @@
-## Note
-nid: 1627624034721
-model: Basic-d7a3e-4ce08
-tags: 02_uebung, 02_uebung_rs
-markdown: false
+# Note
+```
+guid: G72[{4d0tV
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_uebung
+02_uebung_rs
+```
+
+## Front
 Wie ist die Maßzahl CPI definiert?
 
-### Back
+## Back
 \(\mathrm{CPI}=\frac{c}{i}\)

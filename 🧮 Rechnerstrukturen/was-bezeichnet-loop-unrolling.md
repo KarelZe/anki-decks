@@ -1,11 +1,16 @@
-## Note
-nid: 1628142015158
-model: Basic-d7a3e-4ce08
-tags: 07_multi_threading
-markdown: false
+# Note
+```
+guid: b;z;h}q2t8
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+07_multi_threading
+```
+
+## Front
 Was bezeichnet <b>loop unrolling</b>?
 
-### Back
+## Back
 Das Abwickeln einer Schleife, indem Anweisungen im Schleifenrumpf mehrmals kopiert werden und die Schleife weniger oft durchlaufen wird.

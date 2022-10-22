@@ -1,13 +1,18 @@
-## Note
-nid: 1655197503175
-model: Basic-02d89-e0e22
-tags: re::re-II::engineering-process
-markdown: false
+# Note
+```
+guid: y3iPRj;&+r
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::engineering-process
+```
+
+## Front
 How should the ideal RE process be like?
 
-### Back
+## Back
 <ul>
   <li>strongly iterative
   <li>close and intense collaboration between stakeholders and re

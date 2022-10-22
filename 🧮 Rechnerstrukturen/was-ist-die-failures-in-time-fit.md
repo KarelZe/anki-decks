@@ -1,13 +1,18 @@
-## Note
-nid: 1616744593247
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: Rhy=+r(i7/
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Was ist die <b>Failures in Time (FIT)</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

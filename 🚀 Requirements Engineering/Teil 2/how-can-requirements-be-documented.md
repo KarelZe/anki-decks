@@ -1,13 +1,18 @@
-## Note
-nid: 1653402786037
-model: Basic-02d89-e0e22
-tags: re::re-II::documentating
-markdown: false
+# Note
+```
+guid: f|y(!A7lz%
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::documentating
+```
+
+## Front
 How can requirements be documented?
 
-### Back
+## Back
 <ul>
   <li>Informally using natural language
   <li>Semi-formally (diagrams + natural) using structural /

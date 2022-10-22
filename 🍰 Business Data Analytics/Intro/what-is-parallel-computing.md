@@ -1,11 +1,16 @@
-## Note
-nid: 1653635887366
-model: Basic-02d89-e0e22
-tags: bda::01_orga_intro
-markdown: false
+# Note
+```
+guid: Kl$_`8K@XW
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::01_orga_intro
+```
+
+## Front
 What is <b>parallel computing</b>?
 
-### Back
+## Back
 Parallel computing is the simultaneous use of multiple compute resources to solve a computational problem.

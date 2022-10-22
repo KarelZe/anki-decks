@@ -1,13 +1,18 @@
-## Note
-nid: 1655734832294
-model: Basic-02d89-e0e22
-tags: dl_cv::07_image_seg
-markdown: false
+# Note
+```
+guid: k>czA3Jmhr
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::07_image_seg
+```
+
+## Front
 What is the <b>problem</b> in <b>ROI Pooling</b>?
 
-### Back
+## Back
 It was not designed for <b>image segmentation</b>. Neural network
 predicts float coordinates (x, y, width, height) ROI Pooling needs
 integers however. Thus coordinates are quantized to integers, which

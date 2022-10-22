@@ -1,13 +1,18 @@
-## Note
-nid: 1629951294197
-model: Basic-d7a3e-4ce08
-tags: 03_agb
-markdown: false
+# Note
+```
+guid: tFwgD+$%X5
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_agb
+```
+
+## Front
 Wo sind AGBs gesetzlich geregelt?
 
-### Back
+## Back
 <ul>
   <li>Geregelt in <a href= 
   "https://www.gesetze-im-internet.de/bgb/__305.html">§§ 305-310

@@ -1,11 +1,16 @@
-## Note
-nid: 1652096467190
-model: Basic-02d89-e0e22
-tags: dl_cv::03_nn_basics
-markdown: false
+# Note
+```
+guid: kTR>ul5We]
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::03_nn_basics
+```
+
+## Front
 What is referred to Regularization?
 
-### Back
+## Back
 A modification we make to a learning algorithm that is intended to reduce its generalization error but not its training error.

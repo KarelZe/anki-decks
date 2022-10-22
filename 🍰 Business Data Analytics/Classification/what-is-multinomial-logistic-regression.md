@@ -1,13 +1,18 @@
-## Note
-nid: 1653717771734
-model: Basic-02d89-e0e22
-tags: bda::02_classification
-markdown: false
+# Note
+```
+guid: o#?^A!rz>u
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::02_classification
+```
+
+## Front
 What is <b>multinomial logistic regression</b>?
 
-### Back
+## Back
 Logistic regression when dependent variable is categorical (=nominal)
 
 Prediction is based on individual logistic regression relative to pivotal class.

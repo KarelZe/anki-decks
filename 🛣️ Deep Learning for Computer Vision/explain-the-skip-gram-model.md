@@ -1,13 +1,18 @@
-## Note
-nid: 1655752717843
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: BDoV?Na7pI
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 Explain the <b>Skip-gram model</b>.
 
-### Back
+## Back
 Fully connected feedforward neural network.
 
 <b>Training objective: </b>learn embeddings that are good at predicting the nearby words. 

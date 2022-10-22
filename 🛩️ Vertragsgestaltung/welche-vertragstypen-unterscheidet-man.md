@@ -1,11 +1,17 @@
-## Note
-nid: 1629550090641
-model: Basic-d7a3e-4ce08
-tags: 01_ueberblick_einfuehrung, checklater
-markdown: false
+# Note
+```
+guid: pIc9K4f7Cl
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_ueberblick_einfuehrung
+checklater
+```
+
+## Front
 Welche Vertragstypen unterscheidet man?
 
-### Back
+## Back
 <img src="vertragstypen.svg">

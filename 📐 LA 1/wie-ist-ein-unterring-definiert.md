@@ -1,13 +1,18 @@
-## Note
-nid: 1582904702489
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: sP4tdS?p[D
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie ist ein Unterring definiert?
 
-### Back
+## Back
 <div>% Definition 4.2.6</div><div>
 </div><div>\textbf{Definition}</div><div>
 </div>Eine Teilmenge $R^{\prime} \subseteq R$ heißt Unterring, falls $R^{\prime}$ gleichzeitig Untergruppe von $(R,+, 0)$ und Untermonoid von $(R, \cdot, 1)$ ist. In diesem Fall heißt $R$ eine Ringerweiterung von $R^{\prime}$.\\<div>

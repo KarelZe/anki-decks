@@ -1,13 +1,18 @@
-## Note
-nid: 1604143940100
-model: Basic-d7a3e-4ce08
-tags: valuation::02_accounting_statements
-markdown: false
+# Note
+```
+guid: ElFta`@S7F
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+valuation::02_accounting_statements
+```
+
+## Front
 <p>Was ist die <b>Bilanz</b>?
 
-### Back
+## Back
 <p>Momentaufnahme eines Buchhalters des buchhalterischen Werts
 einer Firma zu einem bestimmten Datum.
 <p>Lässt eine Schätzung über die kummulativen Investments der

@@ -62,6 +62,7 @@ jobs:
         run: |
           python3 ../ki/compile.py --collection collection.anki2 --deck '⚡ Heterogene Rechnerstrukturen'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🌟 Derivate'
+          python3 ../ki/compile.py --collection collection.anki2 --deck '💤 Datenschutz von A bis Z'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🍦 AISS'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🍩 Vertragsgestaltung IT-Bereich'
           python3 ../ki/compile.py --collection collection.anki2 --deck '🍰 Business Data Analytics'
@@ -92,6 +93,7 @@ jobs:
           files: |
             ⚡ Heterogene Rechnerstrukturen.apkg
             🌟 Derivate.apkg
+            💤 Datenschutz von A bis Z.apkg
             🍦 AISS.apkg
             🍩 Vertragsgestaltung IT-Bereich.apkg
             🍰 Business Data Analytics.apkg

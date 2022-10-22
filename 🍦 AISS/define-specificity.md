@@ -1,11 +1,17 @@
-## Note
-nid: 1636534910122
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: PmdT,y8;&
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Define <b>Specificity</b>.
 
-### Back
+## Back
 \(\text { Specificity }:=\frac{T N}{(T N+F P)}\)

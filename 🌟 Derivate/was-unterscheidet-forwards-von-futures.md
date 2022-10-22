@@ -1,13 +1,18 @@
-## Note
-nid: 1616830244202
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: t2Qr2@UD:|
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was unterscheidet <b>Forwards</b> von <b>Futures</b>?
 
-### Back
+## Back
 Forward ist <b>nicht standardisiert</b>. Future ist
 <b>standardisiert</b>.
 <div>

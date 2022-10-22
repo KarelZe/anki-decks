@@ -1,11 +1,17 @@
-## Note
-nid: 1597999557008
-model: LaTeX-deb4a
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: cpwyHYU`FH
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Was ist die Stammfunktion von $\arctan x$?
 
-### Back
+## Back
 $x \arctan x-\frac{1}{2} \ln \left(1+x^{2}\right)$

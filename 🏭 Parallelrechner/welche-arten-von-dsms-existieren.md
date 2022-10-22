@@ -1,13 +1,18 @@
-## Note
-nid: 1589400009311
-model: Basic-b122e-20a86
-tags: 2_3_parallelrechner
-markdown: false
+# Note
+```
+guid: jD7bgoWT.A
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+2_3_parallelrechner
+```
+
+## Front
 Welche Arten von DSMs existieren?
 
-### Back
+## Back
 <ol>
 <li>Der Zugriff geschieht in einer für das Maschinenprogramm transparenten Weise.</li>
 <li>Der Zugriff geschieht durch explizite Befehle, die nur dem expliziten Speicherzugriff dienen.</li>

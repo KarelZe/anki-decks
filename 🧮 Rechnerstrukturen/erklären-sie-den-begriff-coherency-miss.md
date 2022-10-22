@@ -1,13 +1,20 @@
-## Note
-nid: 1627982862499
-model: Basic-d7a3e-4ce08
-tags: 05_uebung, 05_uebung_rs, checklater
-markdown: false
+# Note
+```
+guid: rLie0gb)0D
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_uebung
+05_uebung_rs
+checklater
+```
+
+## Front
 Erklären Sie den Begriff <b>Coherency Miss</b>.
 
-### Back
+## Back
 Nur bei Multiprozessorsystemen mit Koheränzprotokoll.
 <div>
   Unterscheidung zwischen False- und True-Sharing.

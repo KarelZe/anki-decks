@@ -1,13 +1,19 @@
-## Note
-nid: 1629951682353
-model: Basic-d7a3e-4ce08
-tags: 03_agb, checklater
-markdown: false
+# Note
+```
+guid: z8}vV@n@DM
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_agb
+checklater
+```
+
+## Front
 Wie werden AGB Vertragsbestandteil?
 
-### Back
+## Back
 <ul>
   <li>Geregelt in <a href= 
   "https://www.gesetze-im-internet.de/bgb/__305.html">§ 305 Abs. 2

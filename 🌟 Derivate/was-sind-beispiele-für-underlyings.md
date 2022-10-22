@@ -1,13 +1,18 @@
-## Note
-nid: 1616794923914
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: E*H}a7kR|)
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was sind Beispiele für Underlyings?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

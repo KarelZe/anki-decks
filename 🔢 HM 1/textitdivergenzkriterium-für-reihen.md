@@ -1,13 +1,18 @@
-## Note
-nid: 1586615627451
-model: LaTeX-deb4a
-tags: Reihe
-markdown: false
+# Note
+```
+guid: G;Ojx(7hOf
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Reihe
+```
+
+## Front
 \textit{Divergenzkriterium} für Reihen
 
-### Back
+## Back
 % Satz 3.2<div>
 </div><div>Ist $\left(a_{n}\right)$ eine Folge und gilt $a_{n} \not \rightarrow 0$, so ist $\sum_{n=1}^{\infty} a_{n}$ divergent.
 </div>

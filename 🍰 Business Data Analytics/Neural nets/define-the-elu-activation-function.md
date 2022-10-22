@@ -1,13 +1,18 @@
-## Note
-nid: 1652344509907
-model: Basic-02d89-e0e22
-tags: bda::05_neural_networks
-markdown: false
+# Note
+```
+guid: pO_+(-j]?4
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::05_neural_networks
+```
+
+## Front
 Define the <b>ELU activation function</b>.
 
-### Back
+## Back
 \[E L U_{\alpha}(z)=\left\{\begin{array}{c}\alpha(\exp (z)-1),
 \quad z<0 \\ z, \quad z \geq 0\end{array}\right.\] Speeds up
 gradient as no "bounce" happens at \(z=0\). <b>Visualization:</b>

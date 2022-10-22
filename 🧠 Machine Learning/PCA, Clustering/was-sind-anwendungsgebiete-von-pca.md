@@ -1,13 +1,19 @@
-## Note
-nid: 1607857354585
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::05_dim_reduction
-markdown: false
+# Note
+```
+guid: OpqHZy=>8E
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::05_dim_reduction
+```
+
+## Front
 <p>Was sind <b>Anwendungsgebiete</b> von <b>PCA</b>?
 
-### Back
+## Back
 <ul style= 
 "font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px">
   <li>

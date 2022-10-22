@@ -1,11 +1,16 @@
-## Note
-nid: 1644215651897
-model: Basic-02d89-e0e22
-tags: 05_vortrag
-markdown: false
+# Note
+```
+guid: v)g&4;=KHX
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+05_vortrag
+```
+
+## Front
 Sind Daten ein Zahlungsmittel?
 
-### Back
+## Back
 <ul><li>Daten sind kein Zahlungsmittel im bankenrechtlichen Sinne.</li></ul>

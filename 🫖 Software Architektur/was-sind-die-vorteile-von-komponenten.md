@@ -1,13 +1,20 @@
-## Note
-nid: 1636654965296
-model: Basic-d7a3e-4ce08
-tags: 01_introduction, architecture, architecture_4
-markdown: false
+# Note
+```
+guid: LHGGM&nKa.
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+architecture
+architecture_4
+```
+
+## Front
 Was sind die <b>Vorteile</b> von <b>Komponenten</b>?
 
-### Back
+## Back
 <ul>
   <li>Kapselung (höhere Kohärenz, wenig Redundanz, bessere
   Wartbarkeit)

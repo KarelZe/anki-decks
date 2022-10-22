@@ -1,13 +1,18 @@
-## Note
-nid: 1620064647341
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: EY]k^9jsnx
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Wie arbeiten User-Level Simulatoren?
 
-### Back
+## Back
 <div>
   <div>
     <ul>
@@ -16,5 +21,4 @@ Wie arbeiten User-Level Simulatoren?
     </ul>
   </div>
 </div>
-<div><img src=
-"paste-8c54a9b418a9189e24cfc7b0371e41d1f4e735ef.jpg"></div>
+<div><img src="paste-8c54a9b418a9189e24cfc7b0371e41d1f4e735ef.jpg"></div>

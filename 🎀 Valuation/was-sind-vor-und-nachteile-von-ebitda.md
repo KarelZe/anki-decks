@@ -1,13 +1,18 @@
-## Note
-nid: 1606548226924
-model: Basic-d7a3e-4ce08
-tags: 07_relative_valuation
-markdown: false
+# Note
+```
+guid: don-p^9j^;
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+07_relative_valuation
+```
+
+## Front
 <p>Was sind <b>Vor- und Nachteile</b> von <b>EBITDA</b>?
 
-### Back
+## Back
 <div>
   <div>
     <p><span><strong>Vorteile</strong></span>

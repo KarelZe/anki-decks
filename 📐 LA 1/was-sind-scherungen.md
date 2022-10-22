@@ -1,13 +1,18 @@
-## Note
-nid: 1580156757990
-model: LaTeX-deb4a
-tags: Lineare_Abbildung
-markdown: false
+# Note
+```
+guid: NX76kZ`hft
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Lineare_Abbildung
+```
+
+## Front
 Was sind Scherungen?
 
-### Back
+## Back
 Seit $t \in \mathbb{R}$. Eine Scherung ist in Form der unipotenten Elementarmatrix:<div>
 </div><div>% S. 32 Skript</div><div>$U_{12}(t):=\left(\begin{array}{cc}{1} & {t} \\ {0} & {1}\end{array}\right) \quad$ und $\quad U_{21}(t):=\left(\begin{array}{cc}{1} & {0} \\ {t} & {1}\end{array}\right)$ definiert.\\
 </div><div>

@@ -1,13 +1,19 @@
-## Note
-nid: 1636532183480
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: f&8Es~s?bL
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Give an <b>intuition</b> for the <b>RMSE</b>.
 
-### Back
+## Back
 What is the average squared deviation between prediction and an
 actual observation?
 <div>

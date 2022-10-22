@@ -1,13 +1,18 @@
-## Note
-nid: 1619715068272
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: c2/;.+lhp_
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 Name the steps in CRISPDM.
 
-### Back
+## Back
 <div>
   <div>
     <ol>

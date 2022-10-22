@@ -1,13 +1,18 @@
-## Note
-nid: 1604950441542
-model: Basic-d7a3e-4ce08
-tags: het_rs::09_programmierung
-markdown: false
+# Note
+```
+guid: P**=_B#0XR
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+het_rs::09_programmierung
+```
+
+## Front
 <p>Was versteht man unter <b>OpenCL</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

@@ -1,13 +1,18 @@
-## Note
-nid: 1616829642293
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: O$Hh^H!<rs
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was versteht man unter einem <b>Future</b>?
 
-### Back
+## Back
 Börsengehandeltes, <b>standardisierte</b> Vereinbarung den
 Kontraktgegenstand (Basiswert) in einem zukünftigen Zeitpunkt zu
 einem festgelegten Preis (Futurepreis) zu kaufen (Käufer, long)

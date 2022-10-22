@@ -1,11 +1,16 @@
-## Note
-nid: 1659541372350
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: BvZT%{=9:t
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 Name some <b>formal specification languages</b>.
 
-### Back
+## Back
 Z, OCL, VMD ...

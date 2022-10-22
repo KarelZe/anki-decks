@@ -1,13 +1,18 @@
-## Note
-nid: 1659880035819
-model: Basic-02d89-e0e22
-tags: dl_cv::10_video_self_learning
-markdown: false
+# Note
+```
+guid: OkXxmanWcZ
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::10_video_self_learning
+```
+
+## Front
 Explain what <b>P-CNN</b> is.
 
-### Back
+## Back
 Pose based CNN features for action recognition. Extract appearance
 and motion CNN descriptors for each frame and aggregate over time
 to form a video descriptor Construct P-CNN features

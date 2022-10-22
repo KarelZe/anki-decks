@@ -1,13 +1,18 @@
-## Note
-nid: 1580143084017
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: ME+Ha33/ex
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was sind Partitionen?
 
-### Back
+## Back
 <div>% Definition 1.4.1</div><div>
 </div><div>\textbf{Definition:}</div><div>
 </div>Sei $\mathcal{P} \subseteq 2^{M}$ ein Mengensystem über $M$. <span>$\mathcal{P}$ heißt Partition von $M,$ falls $\varnothing \notin \mathcal{P}$ gilt und $\mathcal{P}$ paarweise disjunkt ist mit $\sqcup \mathcal{P}=M$.</span><div><div><div>

@@ -1,13 +1,18 @@
-## Note
-nid: 1656316486976
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: DLHAB@32FZ
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 Explain what BLEU is. How does it work?
 
-### Back
+## Back
 <ul>
   <li>BLEU is used in machine learning to capcute how well a
   sentence machtes with another. Also used in image captioning.

@@ -1,11 +1,17 @@
-## Note
-nid: 1615302644002
-model: Basic-d7a3e-4ce08
-tags: 04_koheraenz, Eigene
-markdown: false
+# Note
+```
+guid: o](UyYZ/US
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_koheraenz
+Eigene
+```
+
+## Front
 Was gibt man bei Freigabe-Konsistenz auf?
 
-### Back
+## Back
 Sämtliche Ordnungen.

@@ -1,13 +1,18 @@
-## Note
-nid: 1653727807549
-model: Basic-02d89-e0e22
-tags: bda::04_regression
-markdown: false
+# Note
+```
+guid: BB>]N!(4lh
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::04_regression
+```
+
+## Front
 What is <b>ElasticNet</b>?
 
-### Back
+## Back
 Compromise between LASSO and Ridge Regression. Fuses the variable selection property of LASSO with the shrinkage of coefficients of correlated predictors from Ridge regression.
 
 Useful when the number of predictors is much bigger than the number of observations \((p>>n)\)

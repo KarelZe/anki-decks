@@ -1,13 +1,18 @@
-## Note
-nid: 1659543805473
-model: Basic-02d89-e0e22
-tags: re::re-II::re-management
-markdown: false
+# Note
+```
+guid: Di?4?eM|Y!
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::re-management
+```
+
+## Front
 Define <b>tracability</b>.
 
-### Back
+## Back
 The ability to trace a requirement
 <ol>
   <li>back to its origins,

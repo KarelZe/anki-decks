@@ -1,13 +1,18 @@
-## Note
-nid: 1656319329279
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: c;ANl{`[,c
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 Why is video captioning so hard?
 
-### Back
+## Back
 <ul>
   <li>Need to analyze motion and actions.
   <li>Much harder problem as compared to images.

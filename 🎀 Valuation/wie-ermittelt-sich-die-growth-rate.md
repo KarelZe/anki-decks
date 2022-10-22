@@ -1,11 +1,16 @@
-## Note
-nid: 1614855002421
-model: Basic-d7a3e-4ce08
-tags: 04_uebung
-markdown: false
+# Note
+```
+guid: Nj=INFl:@S
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_uebung
+```
+
+## Front
 Wie ermittelt sich die <b>Growth rate</b>?
 
-### Back
+## Back
 \(g = \operatorname{Reinvestment rate} * \operatorname{ROC}\)

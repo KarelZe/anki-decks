@@ -1,11 +1,16 @@
-## Note
-nid: 1645083190743
-model: Basic-02d89-e0e22
-tags: derivate::02_forwards_futures
-markdown: false
+# Note
+```
+guid: HN$i:<Lnqf
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+derivate::02_forwards_futures
+```
+
+## Front
 Was ist <b>Future Style Margining</b>?
 
-### Back
+## Back
 Offene Positionen marked-to-market und Aufsummieren dieser zu Net-Positionen.

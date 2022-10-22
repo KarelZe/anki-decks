@@ -1,13 +1,18 @@
-## Note
-nid: 1602352197436
-model: Basic-b122e-20a86
-tags: 5_2_open_mp
-markdown: false
+# Note
+```
+guid: A*Zp.y{|V
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+5_2_open_mp
+```
+
+## Front
 Was unterscheidet MPI von Open MP?
 
-### Back
+## Back
 <ul>
   <li><strong>OpenMP</strong> dient klassischerweise der
   Programmierung von <strong>shared memory devices</strong>.

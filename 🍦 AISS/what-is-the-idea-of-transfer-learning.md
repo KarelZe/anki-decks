@@ -1,13 +1,19 @@
-## Note
-nid: 1636468982902
-model: Basic-d7a3e-4ce08
-tags: 06_systemwide_learning, repeat
-markdown: false
+# Note
+```
+guid: j=>QXJfMtP
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_systemwide_learning
+repeat
+```
+
+## Front
 What is the idea of <b>transfer learning</b>?
 
-### Back
+## Back
 Transfer learning describes a concept in machine learning where
 knowledge from one domain is transferred to another.
 <div>
@@ -17,5 +23,4 @@ knowledge from one domain is transferred to another.
 <div>
   <b>Visualization</b>:
 </div>
-<div><img src=
-"paste-e8f5bca2cc03e13205dad2422b2e7f078e7b2b11.jpg"></div>
+<div><img src="paste-e8f5bca2cc03e13205dad2422b2e7f078e7b2b11.jpg"></div>

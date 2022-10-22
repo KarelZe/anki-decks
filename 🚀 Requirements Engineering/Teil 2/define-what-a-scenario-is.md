@@ -1,13 +1,18 @@
-## Note
-nid: 1659592904368
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: ozr)Q&c_la
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 Define what a <b>scenario</b> is.
 
-### Back
+## Back
 <ol>
   <li>A description of a potential sequence of events that lead to
   a desired (or unwanted) result.

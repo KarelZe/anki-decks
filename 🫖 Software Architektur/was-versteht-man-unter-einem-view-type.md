@@ -1,13 +1,19 @@
-## Note
-nid: 1589720442947
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: uYRit0Xu7/
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was versteht man unter einem v<i>iew type</i>?
 
-### Back
+## Back
 <div>Ausschnitt des Meta-Models (Teilmenge der Klassen eines Meta-Modells), die sichtbar sind.
 </div><div>
 </div><div><img src="paste-62a879e564c945f5f7787a5a08721b1f48c9b84c.jpg">

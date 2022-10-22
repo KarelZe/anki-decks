@@ -1,11 +1,16 @@
-## Note
-nid: 1588095613830
-model: Basic-b122e-20a86
-tags: 02_assoziationsregeln
-markdown: false
+# Note
+```
+guid: f.8~9rl%Uy
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+02_assoziationsregeln
+```
+
+## Front
 Was sagt die Sortimentsbreite aus?
 
-### Back
+## Back
 Die Sortimentsbreite sagt, wie viele Produktgruppen es gibt.

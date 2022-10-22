@@ -1,13 +1,18 @@
-## Note
-nid: 1656326666007
-model: Basic-02d89-e0e22
-tags: ml::12_var_ae
-markdown: false
+# Note
+```
+guid: oJz`{=@m56
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+ml::12_var_ae
+```
+
+## Front
 What are the limitations of Autoencoders?
 
-### Back
+## Back
 <ul>
   <li>They are not generative models, so they don't define a
   distribution.

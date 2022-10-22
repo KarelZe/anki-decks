@@ -1,13 +1,18 @@
-## Note
-nid: 1619714222432
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: FvBqhZIZg-
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 Explain what <b>structured data</b> is.
 
-### Back
+## Back
 <b>Structured data</b> is <b>data</b> that adheres to a pre-defined
 <b>data</b> model and is therefore straightforward to analyse.
 <div>

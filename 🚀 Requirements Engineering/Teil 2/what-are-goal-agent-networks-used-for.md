@@ -1,14 +1,18 @@
-## Note
-nid: 1659544731431
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: es8%3GD6Xx
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 What are Goal-agent networks used for?
 
-### Back
+## Back
 Explicitly model agents (stakehodlers), their goals, tasks that
 achieve goals, resources, and dependencies between these items.
-<b>Visualization:</b> Common example is i* <img src= 
-"paste-5c03245d5d2abb37455b8e901eb210b8c011488a.jpg">
+<b>Visualization:</b> Common example is i* <img src="paste-5c03245d5d2abb37455b8e901eb210b8c011488a.jpg">

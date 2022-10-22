@@ -1,13 +1,18 @@
-## Note
-nid: 1656414507571
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: wl;[VF2qI$
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 Explain <b>class models</b>.
 
-### Back
+## Back
 Most popular form of structure modeling. Typically done in UML.
 <b>Components: Object:</b> an individual entity which has an
 identity and does not depend on another entity. Examples: Turnstile

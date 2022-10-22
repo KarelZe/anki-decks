@@ -1,12 +1,17 @@
-## Note
-nid: 1580142793612
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: jY1PQH15Lh
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Wie ist eine Äquivalenz definiert?
 
-### Back
+## Back
 Die Aussage $(A \Longleftrightarrow B): \Longleftrightarrow ((A \implies B) \wedge(B \implies A))$ heißt die 
 Äquivalenz von $A$ und $B$.

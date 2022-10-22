@@ -1,11 +1,15 @@
-## Note
-nid: 1586710303270
-model: LaTeX-deb4a
-tags: 
-markdown: false
+# Note
+```
+guid: E[{(Jt<Jnh
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+```
+
+## Front
 $|z+w| \leq \cdots (z, w \in \mathbb{C})$
 
-### Back
+## Back
 $|z+w| \leq|z|+|w|(z, w \in \mathbb{C})$

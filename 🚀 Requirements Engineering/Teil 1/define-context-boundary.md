@@ -1,13 +1,18 @@
-## Note
-nid: 1650960015110
-model: Basic-02d89-e0e22
-tags: re::re-I::principles-re
-markdown: false
+# Note
+```
+guid: rA{AsvfbKX
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-I::principles-re
+```
+
+## Front
 Define <b>context boundary</b>.
 
-### Back
+## Back
 Boundary between the context of a system and those parts of the
 application and domain that are irrelevant for the system and its
 requirements. <b>Intuition:</b> Context boundary limits what

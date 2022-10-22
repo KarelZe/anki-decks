@@ -1,13 +1,18 @@
-## Note
-nid: 1621848113717
-model: Basic-d7a3e-4ce08
-tags: adv_ml::07_lecture_rf_dc
-markdown: false
+# Note
+```
+guid: NM{;cP^ku%
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+adv_ml::07_lecture_rf_dc
+```
+
+## Front
 Explain how <b>Boosting</b> is done.
 
-### Back
+## Back
 Assume we seek to fit a gradient boosting model to the
 \(\left(X_{1}, y_{1}\right),\left(X_{2}, y_{2}\right),
 \ldots,\left(X_{n}, y_{n}\right)\), where \(X_{i}\) are the

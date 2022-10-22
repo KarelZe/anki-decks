@@ -1,13 +1,18 @@
-## Note
-nid: 1591271348649
-model: Basic-b122e-20a86
-tags: 3_4_prozesse_threads
-markdown: false
+# Note
+```
+guid: I[[H_qPjBM
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_4_prozesse_threads
+```
+
+## Front
 Was ist eine <b>race condition</b>?
 
-### Back
+## Back
 <b>Eigene Interpretation:</b> Ausgaben sollen unabhängig von den
 Umständen des Wettrennens von Prozessoren bzgl. der Schnelligkeit
 Zugriffsoperationen durchzuführen, um deterministische Ergebnisse

@@ -1,13 +1,18 @@
-## Note
-nid: 1580157168344
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: k1gp$_x/k[
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie sieht die Smithsche Normalform aus?
 
-### Back
+## Back
 Zu jeder linearen Abbildung $\Phi: V \rightarrow W$ existieren geordnete Basen 
 <div>
 </div><div>\begin{align*}

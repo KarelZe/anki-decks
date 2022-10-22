@@ -1,11 +1,17 @@
-## Note
-nid: 1618047604165
-model: Basic-d7a3e-4ce08
-tags: 06_risikomanagement, derivate::06_risikomanagement
-markdown: false
+# Note
+```
+guid: KI{N=t%Q+>
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_risikomanagement
+derivate::06_risikomanagement
+```
+
+## Front
 Was sagt das <b>Options-Rho</b> aus?
 
-### Back
+## Back
 Sagt aus, wie sich der Optionswert bei Zunahme des risikolosen Zinsniveaus verändert.

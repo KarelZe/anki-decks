@@ -1,13 +1,18 @@
-## Note
-nid: 1601805032561
-model: Basic-b122e-20a86
-tags: Eigene
-markdown: false
+# Note
+```
+guid: eMOsJGJvzy
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist ein Konsistenzmodell?
 
-### Back
+## Back
 <ul>
   <li>Im Prinzip ein Vertrag zwischen einem Datenspeicher und den
   darauf zugreifenden Prozessen

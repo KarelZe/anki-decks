@@ -1,13 +1,17 @@
-## Note
-nid: 1586765326446
-model: LaTeX-deb4a
-tags: 
-markdown: false
+# Note
+```
+guid: gqeJhEKe;D
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+```
+
+## Front
 Was ist die Ableitung vom $\tan x$?
 
-### Back
+## Back
 <div>
   $(\tan x)^{\prime}=\frac{\cos ^{2} x+\sin ^{2} x}{\cos ^{2}
   x}=\frac{1}{\cos ^{2} x}>0$.

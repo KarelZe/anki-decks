@@ -1,13 +1,18 @@
-## Note
-nid: 1613906961759
-model: Basic-d7a3e-4ce08
-tags: 06_mpi_openmp
-markdown: false
+# Note
+```
+guid: Ea>._g:[(a
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_mpi_openmp
+```
+
+## Front
 Was ist MPI_Barrier?
 
-### Back
+## Back
 <div>
 <div><ul>
 <li>Synchronisationsoperation</li>

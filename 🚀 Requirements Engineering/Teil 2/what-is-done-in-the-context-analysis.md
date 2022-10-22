@@ -1,13 +1,18 @@
-## Note
-nid: 1653401386979
-model: Basic-02d89-e0e22
-tags: re::re-II::elication
-markdown: false
+# Note
+```
+guid: F5ay^qiECd
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::elication
+```
+
+## Front
 What is done in the <b>context analysis</b>?
 
-### Back
+## Back
 <ul>
   <li>Determine the system's context and the context boundary e. g.
   physical, environmental.

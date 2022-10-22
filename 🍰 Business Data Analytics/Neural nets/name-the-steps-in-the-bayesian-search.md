@@ -1,13 +1,18 @@
-## Note
-nid: 1651241316074
-model: Basic-02d89-e0e22
-tags: bda::06_trainining_tuning
-markdown: false
+# Note
+```
+guid: h2A`QID2W3
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::06_trainining_tuning
+```
+
+## Front
 Name the steps in the <b>Bayesian search</b>.
 
-### Back
+## Back
 <ol>
   <li>A domain of hyperparameters over which to search
   <li>An objective function which takes in hyperparameters and

@@ -1,13 +1,18 @@
-## Note
-nid: 1602347548045
-model: Basic-b122e-20a86
-tags: 3_6_synchronisation_und_kommunikation
-markdown: false
+# Note
+```
+guid: N*vxqI,P)7
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_6_synchronisation_und_kommunikation
+```
+
+## Front
 Welche 4 <b>Empfangsoptionen</b> existieren?
 
-### Back
+## Back
 <ul>
   <li>konsumierend / konservierend
   <li>Synchrones / asynchrones Empfangen

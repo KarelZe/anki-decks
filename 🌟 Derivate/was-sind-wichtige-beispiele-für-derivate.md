@@ -1,13 +1,18 @@
-## Note
-nid: 1616794726442
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: ub%e]WPR|#
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was sind <b>wichtige Beispiele</b> für <b>Derivate</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

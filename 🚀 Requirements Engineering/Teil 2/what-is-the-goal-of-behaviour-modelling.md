@@ -1,13 +1,18 @@
-## Note
-nid: 1659591217931
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: c{.j=EKqFR
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 What is the <b>goal</b> of <b>behaviour modelling</b>?
 
-### Back
+## Back
 Describe dynamic system behaviour:
 <ul>
   <li>how the system reacts to sequences of external events

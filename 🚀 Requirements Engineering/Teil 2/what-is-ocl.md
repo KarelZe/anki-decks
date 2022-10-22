@@ -1,13 +1,18 @@
-## Note
-nid: 1659593062565
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: BXK%mv:p?5
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 What is <b>OCL</b>?
 
-### Back
+## Back
 <ul>
   <li>A textual formal language used to make UML models more
   precise.

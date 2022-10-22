@@ -1,12 +1,17 @@
-## Note
-nid: 1592417772045
-model: Basic-d7a3e-4ce08
-tags: 04_Architectural_Reuse
-markdown: false
+# Note
+```
+guid: K2Om#Lq4xG
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_Architectural_Reuse
+```
+
+## Front
 Was sind <b>Software Blood Groups</b>?
 
-### Back
+## Back
 <b>Software Blood Groups</b> sind Software Kategorien <i>(software
 categories)</i> im Bezug auf Wiederverwendung.

@@ -1,13 +1,18 @@
-## Note
-nid: 1653398612068
-model: Basic-02d89-e0e22
-tags: re::re-II::documentating
-markdown: false
+# Note
+```
+guid: C;ew#EFVK*
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::documentating
+```
+
+## Front
 Why are requirements documented at all?
 
-### Back
+## Back
 <ul>
   <li>Communicate requirements between stakeholders and system
   builders

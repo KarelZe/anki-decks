@@ -1,13 +1,18 @@
-## Note
-nid: 1593356687555
-model: Basic-b122e-20a86
-tags: 09_decision_trees
-markdown: false
+# Note
+```
+guid: NE0cM,EM1
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+09_decision_trees
+```
+
+## Front
 Was ist die <b>Entropie</b> nach <b>Schanon</b>?
 
-### Back
+## Back
 Shannon entwarf eine Methode, die es erlaubt, die optimale
 durchschnittliche Codierungsdichte (d.h. kürzmöglichste Codierung)
 einer Sprache zu beurteilen.

@@ -1,13 +1,19 @@
-## Note
-nid: 1634885098342
-model: Basic-d7a3e-4ce08
-tags: repeat, vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: vfsf#<IE:?
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+repeat
+vertragsgestaltung_it
+```
+
+## Front
 Was ist der <b>Sinn</b> und <b>Zweck</b> von <b>Verträgen</b>?
 
-### Back
+## Back
 <ul>
   <li>Verträge definieren die Leitlinien des Verhaltens der
   Vertragspartner

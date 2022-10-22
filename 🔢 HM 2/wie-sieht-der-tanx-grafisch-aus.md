@@ -1,11 +1,16 @@
-## Note
-nid: 1598542182800
-model: Basic-b122e-20a86
-tags: Eigene
-markdown: false
+# Note
+```
+guid: Ql3q&vpa@8
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie sieht der tan(x) grafisch aus?
 
-### Back
+## Back
 <img src="1280px-Tangent-plot.svg.png">

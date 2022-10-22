@@ -1,13 +1,18 @@
-## Note
-nid: 1602351804700
-model: Basic-b122e-20a86
-tags: 6_Verteiltes_Rechnen
-markdown: false
+# Note
+```
+guid: D&p5)&)^MM
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+6_Verteiltes_Rechnen
+```
+
+## Front
 Was ist ein Meta-Computer?
 
-### Back
+## Back
 <ul>
   <li>Als Metacomputer bezeichnet man die logische Integration
   eigenständiger und über eine Hochgeschwindigkeit WAN Verbindung

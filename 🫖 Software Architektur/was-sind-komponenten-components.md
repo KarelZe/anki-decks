@@ -1,13 +1,19 @@
-## Note
-nid: 1589723527427
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: F&|R038>;f
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was sind <b>Komponenten</b> (<i>Components)</i>?
 
-### Back
+## Back
 Eine Software-Komponenten ist ein vertraglich-spezifizierter Baustein für Software, der zusammengefügt, deployed und adaptiert werden kann, ohne dass man seine Interna verstehen muss.<div>
 </div><div>Charakterisiert durch die Rolle (provided / required Schnittstelle) und dem <i>component type</i>.
 <div>

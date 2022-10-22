@@ -1,13 +1,19 @@
-## Note
-nid: 1629437832012
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::01_linear_regression
-markdown: false
+# Note
+```
+guid: qv]s*8B0yU
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::01_linear_regression
+```
+
+## Front
 What is the main idea of <b>regularization</b>?
 
-### Back
+## Back
 Limit the model such that it can not fit the training data
 perfectly anymore.
 <div>

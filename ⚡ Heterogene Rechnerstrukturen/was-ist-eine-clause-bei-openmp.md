@@ -1,13 +1,18 @@
-## Note
-nid: 1613931569989
-model: Basic-d7a3e-4ce08
-tags: 06_mpi_openmp
-markdown: false
+# Note
+```
+guid: J)d|CSh/O>
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_mpi_openmp
+```
+
+## Front
 Was ist eine <b>clause</b> bei <b>OpenMP</b>?
 
-### Back
+## Back
 <ul>
 <li><em>#pragma omp directive [clause[clause]…]</em></li>
 <li>Enthält zusätzliche Angaben zum Verhalten der Direktiven.</li>

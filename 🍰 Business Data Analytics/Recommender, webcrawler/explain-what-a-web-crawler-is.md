@@ -1,13 +1,18 @@
-## Note
-nid: 1651135973064
-model: Basic-02d89-e0e22
-tags: bda::08_webcrawling_recommender
-markdown: false
+# Note
+```
+guid: O9ixz+IN}T
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::08_webcrawling_recommender
+```
+
+## Front
 Explain what a <b>web crawler</b> is.
 
-### Back
+## Back
 A web <b>crawler</b> or <b>spider</b> is a standalone bot that
 systematically scans the Internet for indexing and searching for
 content, following internal links on web pages. At its core, it is

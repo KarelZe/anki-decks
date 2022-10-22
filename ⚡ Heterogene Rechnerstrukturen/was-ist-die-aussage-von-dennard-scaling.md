@@ -1,13 +1,20 @@
-## Note
-nid: 1615043287431
-model: Basic-d7a3e-4ce08
-tags: 01_vorlesung, checklater, klausur
-markdown: false
+# Note
+```
+guid: t{XK+8,zhX
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_vorlesung
+checklater
+klausur
+```
+
+## Front
 Was ist die Aussage von <b>Dennard Scaling</b>?
 
-### Back
+## Back
 Beobachtung, dass die Leistungsdichte (Leistung pro Volumeneinheit) konstant bleibt, wenn Transistoren kleiner wurden. Gleichzeitig sinkt die Leistungsaufnahme mit kleineren Strukturen.<div>
 </div><div>\[P_{switching} = C_{eff} * V_{dd}^2 * f,\]</div><div>
 </div><div>wobei \(C\) Kapazität ist, \(f\) die Frequenz und \(V\) die Spannung. Die Kapazität ist abhängig der Fläche. 

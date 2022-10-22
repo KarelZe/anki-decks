@@ -1,13 +1,19 @@
-## Note
-nid: 1593328306570
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality, performance
-markdown: false
+# Note
+```
+guid: Ct)nsJ1aZT
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+performance
+```
+
+## Front
 Was ist das <b>Service Demand Law</b>?
 
-### Back
+## Back
 <div>
   \[D_{i, c} = \frac{U_{i, c}}{X_c},\]
 </div>

@@ -1,13 +1,19 @@
-## Note
-nid: 1593328471410
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality, performance
-markdown: false
+# Note
+```
+guid: Jl?bnGEKxe
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+performance
+```
+
+## Front
 Was ist das <b>Forced Flow Law</b>?
 
-### Back
+## Back
 <div>
   \[X_i = V_i \times X_0,\]
 </div>

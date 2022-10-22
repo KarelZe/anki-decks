@@ -1,13 +1,19 @@
-## Note
-nid: 1629010720979
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::08_svm
-markdown: false
+# Note
+```
+guid: ij!+`@Q:UN
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::08_svm
+```
+
+## Front
 Give the <b>dual formulation</b> of a SVM.
 
-### Back
+## Back
 \[
 \begin{aligned}
 &\max _{\boldsymbol{\lambda}} \sum_{i} \lambda_{i}-\frac{1}{2} \sum_{i} \sum_{j} \lambda_{i} \lambda_{j} y_{i} y_{j} \boldsymbol{k}\left(\boldsymbol{x}_{i}, \boldsymbol{x}_{j}\right) \\

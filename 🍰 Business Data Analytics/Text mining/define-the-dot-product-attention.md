@@ -1,13 +1,18 @@
-## Note
-nid: 1651237672671
-model: Basic-02d89-e0e22
-tags: bda::10_text_mining
-markdown: false
+# Note
+```
+guid: Q*}a=GYHXL
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::10_text_mining
+```
+
+## Front
 Define the dot-product attention.
 
-### Back
+## Back
 \(\operatorname{Attention}(Q, K, V)=\operatorname{softmax}\left(\frac{Q K^{T}}{\sqrt{d_{k}}}\right) V\)
 
 \(Q\) is the query, e.g., the query to search a YouTube video

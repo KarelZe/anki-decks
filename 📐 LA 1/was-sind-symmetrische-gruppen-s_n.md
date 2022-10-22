@@ -1,13 +1,18 @@
-## Note
-nid: 1580134075153
-model: LaTeX-deb4a
-tags: Gruppen
-markdown: false
+# Note
+```
+guid: i1AMLyF>d/
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Gruppen
+```
+
+## Front
 Was sind symmetrische Gruppen $S_n$?
 
-### Back
+## Back
 <div><span>% Gallian Example S 1 Symmetric Group</span>
 </div><div><div>
 </div><div>\textbf{Alternative Definition}</div><div>Die Menge aller Permutationen von A heißt \textit{symmetrische Gruppe} des Grades $n$ und wird als $S_n$ bezeichnet. Elemente von $S_n$ haben die Gestalt:</div><div>

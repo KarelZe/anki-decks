@@ -1,13 +1,20 @@
-## Note
-nid: 1648392793166
-model: Basic-02d89-e0e22
-tags: 01_steuerrecht, SR_2, SR_2::SR_2-III
-markdown: false
+# Note
+```
+guid: z^!f8--S0J
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+01_steuerrecht
+SR_2
+SR_2::SR_2-III
+```
+
+## Front
 Erkläre das <b>Wesen</b> der <b>Gewerbesteuer</b>.
 
-### Back
+## Back
 Gewerbesteuer berücksichtigt nicht die Leistungsfähigkeit einer
 Person, sondern besteuern den Gewerbebetrieb nach dem
 "objektivierten Gewerbeertrag". Der <b>objektivierte

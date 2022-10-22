@@ -1,13 +1,18 @@
-## Note
-nid: 1629279035700
-model: Basic-d7a3e-4ce08
-tags: ml::11_rnns
-markdown: false
+# Note
+```
+guid: q4RI]ml2:Y
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::11_rnns
+```
+
+## Front
 What are the 3 main components of a CNN?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

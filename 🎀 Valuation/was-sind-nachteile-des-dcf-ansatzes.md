@@ -1,13 +1,18 @@
-## Note
-nid: 1606151579763
-model: Basic-d7a3e-4ce08
-tags: valuation::06_enterprise_valuation
-markdown: false
+# Note
+```
+guid: Jn6KtU:(Na
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+valuation::06_enterprise_valuation
+```
+
+## Front
 <p>Was sind <b>Nachteile</b> des <b>DCF-Ansatzes</b>?
 
-### Back
+## Back
 <p>- Benötigt viele Eingaben um den intrinsischen Wert einer Anlage
 zu bestimmen als andere Ansätze
 <p>- Die Inputs und Informationen sind häufig nicht nur voller

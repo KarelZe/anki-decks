@@ -1,11 +1,17 @@
-## Note
-nid: 1636534923015
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: cpRZAyA4T@
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Define <b>precision</b>.
 
-### Back
+## Back
 \(\text { Precision := } \frac{T P}{(T P+F P)}\)

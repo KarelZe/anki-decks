@@ -1,11 +1,16 @@
-## Note
-nid: 1616830742506
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: O*zq<7Z5j]
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was versteht man unter <b>Arbitrage</b>?
 
-### Back
+## Back
 Ausnutzung von Preisunterschieden auf verschiedenen Märkten z. B. verschiedenen Börsenplätzen.

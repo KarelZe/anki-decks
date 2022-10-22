@@ -1,11 +1,16 @@
-## Note
-nid: 1655136605654
-model: Basic-02d89-e0e22
-tags: dl_cv::05_object_detection
-markdown: false
+# Note
+```
+guid: Bn~Xc3Z5rE
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_object_detection
+```
+
+## Front
 What is novel about <b>Fast R-CNN</b>?
 
-### Back
+## Back
 Use of <b>ROI-Pooling</b>.

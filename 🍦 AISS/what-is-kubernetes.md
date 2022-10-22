@@ -1,11 +1,17 @@
-## Note
-nid: 1637322339795
-model: Basic-d7a3e-4ce08
-tags: 04_deployment, repeat
-markdown: false
+# Note
+```
+guid: Dk-(?+<ogt
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+repeat
+```
+
+## Front
 What is <b>Kubernetes</b>?
 
-### Back
+## Back
 A system for managing containers. It enables deploying, maintenance and scaling of containerized applications often across multiple host servers.

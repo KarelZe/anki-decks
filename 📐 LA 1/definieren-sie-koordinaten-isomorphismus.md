@@ -1,13 +1,18 @@
-## Note
-nid: 1580154216431
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: qmcaOeST@]
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Definieren Sie Koordinaten-Isomorphismus
 
-### Back
+## Back
 % Korrollar 2.4.13<div>
 </div><div>Ist $\mathcal{B} \in \mathbb{K}^{n}$ eine endliche geordnete Basis von $V$, so ist
 $$

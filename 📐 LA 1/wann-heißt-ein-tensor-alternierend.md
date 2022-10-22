@@ -1,13 +1,18 @@
-## Note
-nid: 1582282280094
-model: LaTeX-deb4a
-tags: Determinante
-markdown: false
+# Note
+```
+guid: oBGlu5AnQ{
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Determinante
+```
+
+## Front
 Wann heißt ein Tensor alternierend?
 
-### Back
+## Back
 Sei $D: V^{k} \rightarrow \mathbb{K}$ eine Abbildung.<div>
 </div><div>$D$ heißt alternierend, falls für $1 \leq i<j \leq n$ und $v_{1}, \ldots, v_{k} \in V$ gilt
 $$

@@ -1,11 +1,16 @@
-## Note
-nid: 1637483403962
-model: Basic-d7a3e-4ce08
-tags: 05_concept_drift
-markdown: false
+# Note
+```
+guid: dr7/z%JCJ!
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_concept_drift
+```
+
+## Front
 What does ADWIN stand for?
 
-### Back
+## Back
 ADaptive WINdowing.

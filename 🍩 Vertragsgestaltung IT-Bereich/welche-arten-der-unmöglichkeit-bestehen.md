@@ -1,13 +1,19 @@
-## Note
-nid: 1635439292595
-model: Basic-d7a3e-4ce08
-tags: repeat, vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: f[7N@$<b^;
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+repeat
+vertragsgestaltung_it
+```
+
+## Front
 Welche <b>Arten</b> der <b>Unmöglichkeit</b> bestehen?
 
-### Back
+## Back
 <div>
   <strong>Tatsächliche Unmöglichkeit</strong> (§ 275 Abs. 1)
 </div>

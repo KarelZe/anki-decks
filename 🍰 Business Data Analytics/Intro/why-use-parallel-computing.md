@@ -1,13 +1,18 @@
-## Note
-nid: 1653635689933
-model: Basic-02d89-e0e22
-tags: bda::01_orga_intro
-markdown: false
+# Note
+```
+guid: xqNMipp+b7
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::01_orga_intro
+```
+
+## Front
 Why use <b>parallel computing</b>?
 
-### Back
+## Back
 <ul>
   <li>Save time / and / or money as it can built from commodity
   hardware

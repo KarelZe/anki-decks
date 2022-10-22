@@ -1,11 +1,17 @@
-## Note
-nid: 1597486199523
-model: LaTeX-deb4a
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: xZOh&5k&s^
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Abschätzung $\sin (x) \cos (x)$
 
-### Back
+## Back
 $\sin (x) \cos (x) \leq 1$

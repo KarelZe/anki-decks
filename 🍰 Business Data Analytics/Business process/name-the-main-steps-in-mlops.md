@@ -1,11 +1,16 @@
-## Note
-nid: 1653566552689
-model: Basic-02d89-e0e22
-tags: bda::11_business_processes
-markdown: false
+# Note
+```
+guid: q?900-9t;$
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::11_business_processes
+```
+
+## Front
 Name the <b>main steps</b> in <b>MLOps</b>.
 
-### Back
+## Back
 <img src="paste-49d3db71ef2b2044b822af8436d8e5e94fc73914.jpg">

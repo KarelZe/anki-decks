@@ -1,13 +1,19 @@
-## Note
-nid: 1580143324702
-model: LaTeX-deb4a
-tags: Körper, Ringe
-markdown: false
+# Note
+```
+guid: w#&Y0=E,iN
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Körper
+Ringe
+```
+
+## Front
 Wie sind Körper definiert?
 
-### Back
+## Back
 <div>% Oberhalb 4.2.2 </div><div>
 </div><div>\textbf{Definition:}</div><div>
 </div>Ein kommutativer Ring $(R, A, M, 0, 1)$ heißt ein \textit{Körper}, falls $(R\backslash \{0\},M,1)$ eine Gruppe ist.<div>

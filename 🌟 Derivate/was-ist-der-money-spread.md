@@ -1,14 +1,18 @@
-## Note
-nid: 1617977423646
-model: Basic-d7a3e-4ce08
-tags: derivate::04_optionen
-markdown: false
+# Note
+```
+guid: PM/I|m=J+&
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::04_optionen
+```
+
+## Front
 Was ist der <b>Money Spread</b>?
 
-### Back
+## Back
 Verschiedene Basispreise, gleiche Optionsfristen (vertikaler
 Spread, Preis Spread) <b>Intuition</b>: Orientiert am Wallstreet
-Journal. <img src= 
-"paste-2e51acdb7b8bb41e7e79fd50ab5bcc82d8e2e6ec.jpg">
+Journal. <img src="paste-2e51acdb7b8bb41e7e79fd50ab5bcc82d8e2e6ec.jpg">

@@ -1,13 +1,18 @@
-## Note
-nid: 1606548239335
-model: Basic-d7a3e-4ce08
-tags: ml::04_trees_rf
-markdown: false
+# Note
+```
+guid: nu1<fsb!d7
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::04_trees_rf
+```
+
+## Front
 <p>Was sind sogenannte <b>Decision Boundaries</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

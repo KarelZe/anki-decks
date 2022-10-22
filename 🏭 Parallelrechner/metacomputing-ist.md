@@ -1,11 +1,16 @@
-## Note
-nid: 1602352154289
-model: Basic-b122e-20a86
-tags: 6_Verteiltes_Rechnen
-markdown: false
+# Note
+```
+guid: jbj0H9J[)]
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+6_Verteiltes_Rechnen
+```
+
+## Front
 Metacomputing ist:
 
-### Back
+## Back
 Eine einzelne Anwendung über verschiedene Parallelrechner so zu verteilen, dass eine heterogene Ansammlung von Parallelrechnern aufeinander abgestimmt die Gesamtaufgabe bearbeiten

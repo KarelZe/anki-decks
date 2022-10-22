@@ -1,13 +1,18 @@
-## Note
-nid: 1621779819523
-model: Basic-d7a3e-4ce08
-tags: 11_lecture
-markdown: false
+# Note
+```
+guid: yaBV1:-<A]
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+11_lecture
+```
+
+## Front
 Give the <b>definition</b> for <b>Sigmoid function.</b>
 
-### Back
+## Back
 <div>\(V = 2\) words</div>
 <div>\[p\left(w(i) \mid C\left(w_{n}\right)\right)=\frac{\exp \left(y_{i}\right)}{\exp \left(y_{1}\right)+\exp \left(y_{2}\right)+\cdots+\exp \left(y_{V-1}\right)+1}\]
 </div><div>

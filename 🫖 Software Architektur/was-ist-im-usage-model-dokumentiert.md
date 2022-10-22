@@ -1,13 +1,19 @@
-## Note
-nid: 1636650886962
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality, performance
-markdown: false
+# Note
+```
+guid: oyLSUgTia.
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+performance
+```
+
+## Front
 Was ist im <b>Usage Model</b> dokumentiert?
 
-### Back
+## Back
 Dieses Modell legt die Reihenfolge und Frequenz fest, in der
 Komponentendienste, an den Systemgrenzen von Nutzern oder anderen
 Systemen (<i>system calls</i>) aufgerufen werden.

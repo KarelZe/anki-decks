@@ -1,13 +1,18 @@
-## Note
-nid: 1613914364658
-model: Basic-d7a3e-4ce08
-tags: 06_mpi_openmp
-markdown: false
+# Note
+```
+guid: AA;s3KJ{:p
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_mpi_openmp
+```
+
+## Front
 Wie erfolgt eine <b>Reduktion </b>bei <b>OpenMP</b>?
 
-### Back
+## Back
 <ul>
 <li>Führt eine Reduktion mit dem Operator auf der Liste der genannten Variablen durch.</li>
 <li>Variablen werden in der Region zu <em>firstprivate</em></li>

@@ -1,13 +1,18 @@
-## Note
-nid: 1582281908598
-model: LaTeX-deb4a
-tags: Determinante
-markdown: false
+# Note
+```
+guid: dj)SqAT<dy
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Determinante
+```
+
+## Front
 Was besagt die \textit{Cramersche Regel}?
 
-### Back
+## Back
 <div><span>% </span><span>Satz 5.4 .7</span>
 </div><div>
 </div><div>\textbf{Definition}</div><div>

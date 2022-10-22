@@ -1,13 +1,18 @@
-## Note
-nid: 1656314370802
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: xBOfmA_LZa
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 Name <b>three examples</b> for the use of <b>RNNs.</b>
 
-### Back
+## Back
 <ul>
   <li>generating new texts (one character at a time)
   <li>sequence-to-sequence models (machine translation)

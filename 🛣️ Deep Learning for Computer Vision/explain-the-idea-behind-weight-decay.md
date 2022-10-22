@@ -1,13 +1,18 @@
-## Note
-nid: 1652110771637
-model: Basic-02d89-e0e22
-tags: dl_cv::03_nn_basics
-markdown: false
+# Note
+```
+guid: h,n*F_s$k`
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::03_nn_basics
+```
+
+## Front
 Explain the <b>idea</b> behind <b>weight decay</b>.
 
-### Back
+## Back
 Penalize large weights within the network as these tend to be a sign of an overfit network.
 It helps the optimizer to approach the optimum using a desirable path with smaller weights which tend to generalize better.
 

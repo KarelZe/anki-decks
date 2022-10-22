@@ -1,13 +1,18 @@
-## Note
-nid: 1607857351149
-model: Basic-d7a3e-4ce08
-tags: ml::05_dim_reduction
-markdown: false
+# Note
+```
+guid: rjqA#O!PI@
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::05_dim_reduction
+```
+
+## Front
 <p>Was ist eine <b>Orthonormalbasis</b>?
 
-### Back
+## Back
 <p><span>Das heißt das Skalarprodukt zweier beliebiger
 Basisvektoren ergibt Null und jeder Basisvektor besitzt die Norm
 1.</span>

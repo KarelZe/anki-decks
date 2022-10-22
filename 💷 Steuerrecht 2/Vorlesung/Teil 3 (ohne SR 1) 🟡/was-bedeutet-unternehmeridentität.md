@@ -1,11 +1,17 @@
-## Note
-nid: 1660986914463
-model: Basic-4936d
-tags: SR_2, SR_2-II
-markdown: false
+# Note
+```
+guid: QV8gWc_]2k
+notetype: Basic-4936d
+```
 
-### Front
+### Tags
+```
+SR_2
+SR_2-II
+```
+
+## Front
 Was bedeutet <b>Unternehmeridentität</b>?
 
-### Back
+## Back
 Unternehmensidentität bedeutet, dass der im Anrechnungsjahr bestehende Gewerbebetrieb identisch ist mit dem Betrieb, der im Jahr der Entstehung des Verlustes bestanden hat.

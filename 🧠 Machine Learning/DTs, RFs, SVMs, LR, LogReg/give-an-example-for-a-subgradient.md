@@ -1,13 +1,18 @@
-## Note
-nid: 1628955504721
-model: Basic-d7a3e-4ce08
-tags: ml::08_svm
-markdown: false
+# Note
+```
+guid: P_1E?GpwY,
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::08_svm
+```
+
+## Front
 Give an example for a <b>subgradient</b>.
 
-### Back
+## Back
 Consider \(f(x)=|x|\).<div>
 </div><div><img src="paste-d08f51da828bd4e295b9886a97a9be9599bf9ec5.jpg">
 </div><div>(left function; right its subgradient)</div><div>

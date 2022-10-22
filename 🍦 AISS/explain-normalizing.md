@@ -1,11 +1,17 @@
-## Note
-nid: 1635320655374
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: r[_jyaol7R
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Explain <b>normalizing.</b>
 
-### Back
+## Back
 Normalizing is a technique to transform the ranges of different attributes into one, as some ML algorithms e. g. \(k\)-means will favour attributes with a larger range than others.

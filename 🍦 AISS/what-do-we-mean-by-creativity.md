@@ -1,13 +1,18 @@
-## Note
-nid: 1646724214742
-model: Basic-02d89-e0e22
-tags: 08_creative_ai
-markdown: false
+# Note
+```
+guid: dH??d2P{nS
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+08_creative_ai
+```
+
+## Front
 What do we mean by <b>creativity</b>?
 
-### Back
+## Back
 The creative work is a novel work that is accepted as tenable or
 useful or <b>satisfying by a group</b> in <b>some point in
 time.</b> By "novel" I mean the creative product did not exist

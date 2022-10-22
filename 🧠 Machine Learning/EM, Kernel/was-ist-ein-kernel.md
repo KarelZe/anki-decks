@@ -1,13 +1,20 @@
-## Note
-nid: 1610190586529
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::07_kernel_methods, ultra
-markdown: false
+# Note
+```
+guid: MY-$%J<&n#
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::07_kernel_methods
+ultra
+```
+
+## Front
 Was ist ein <b>Kernel</b>?
 
-### Back
+## Back
 <div>
   <b>Definition:</b>
 </div>

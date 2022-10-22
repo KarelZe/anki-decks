@@ -1,13 +1,18 @@
-## Note
-nid: 1600886787061
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: ffMaWJxjAG
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie ist \textit{Eigenwert} definiert?
 
-### Back
+## Back
 %Definition 6.1.6.
 <div>
   Für $\lambda \in \mathbb{K}$ heißt der Unterraum

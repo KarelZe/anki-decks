@@ -1,12 +1,17 @@
-## Note
-nid: 1653728512876
-model: Basic-02d89-e0e22
-tags: bda::04_regression
-markdown: false
+# Note
+```
+guid: oi0eI&}pCS
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::04_regression
+```
+
+## Front
 What is minimized in <b>OLS</b>?
 
-### Back
+## Back
 Minimize residual sum of squares (RSS)
 \[R S S=\sum_{i=1}^{n} e_{i}^{2}.\]

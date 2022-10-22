@@ -1,13 +1,18 @@
-## Note
-nid: 1620499910971
-model: Basic-d7a3e-4ce08
-tags: adv_ml::08_clustering
-markdown: false
+# Note
+```
+guid: F}R>(>eZUB
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+adv_ml::08_clustering
+```
+
+## Front
 When is a clustering optimal?
 
-### Back
+## Back
 The idea behind \(k\)-means clustering is a good clustering, when
 the within-cluster variation (WCV) is minimal.
 \(\operatorname{WCV}(C_k)\) is the degree by which observations

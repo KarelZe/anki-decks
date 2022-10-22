@@ -1,13 +1,18 @@
-## Note
-nid: 1628953556878
-model: Basic-d7a3e-4ce08
-tags: ml::08_svm
-markdown: false
+# Note
+```
+guid: MD*9;1{59F
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::08_svm
+```
+
+## Front
 Give (former) applications of SVMs
 
-### Back
+## Back
 <div>
 <div><ul>
 <li>text  (and hypertext-) categorization</li>

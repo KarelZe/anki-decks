@@ -1,13 +1,19 @@
-## Note
-nid: 1589722863625
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: iWd~EdvE^f
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was sind Interfaces?
 
-### Back
+## Back
 <div><b>Definition:</b></div><div></div><div>Interfaces sind eine abstrakte Beschreibung von Software-Einheiten. Sie können als Interaktionspunkt zwischen Komponenten verwendet werden.</div><div></div><div>
 </div><div>Interfaces sind <i style="">first-class entities</i>, was bedeutet, dass sie existieren und unabhängig von ihrer späteren Verwendung spezifiziert werden. </div><div>
 </div><div><b>Skizze:</b></div><div>

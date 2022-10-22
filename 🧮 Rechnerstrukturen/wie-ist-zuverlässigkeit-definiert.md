@@ -1,11 +1,16 @@
-## Note
-nid: 1617522537282
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: BIG_^)rbt4
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Wie ist <b>Zuverlässigkeit</b> definiert?
 
-### Back
+## Back
 Bezeichnet die Fähigkeit eines Systems, während einer vorgegebenen Zeitdauer bei zulässigen Betriebsbedingungen die spezifizierte Funktion zu erbringen.

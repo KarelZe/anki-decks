@@ -1,13 +1,20 @@
-## Note
-nid: 1627885801132
-model: Basic-d7a3e-4ce08
-tags: 06_para_maschinenbefehl, checklater, klausur
-markdown: false
+# Note
+```
+guid: I|%5RscM.$
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_para_maschinenbefehl
+checklater
+klausur
+```
+
+## Front
 Wann spricht man von <b>Superpipelining</b>?
 
-### Back
+## Back
 Sofern \(\geq 5\) Pipelinestufen vorhanden sind.
 <div>
   Bezeichnet das weitere Unterteilen der bestehenden Pipelinestufen

@@ -1,11 +1,16 @@
-## Note
-nid: 1650348368541
-model: Basic-02d89-e0e22
-tags: re::re-I::introduction
-markdown: false
+# Note
+```
+guid: sz*m,Q#xl{
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-I::introduction
+```
+
+## Front
 Define <b>requirement specification</b>.
 
-### Back
+## Back
 A systematically represented collection of requirements, typically for a system or component, that satisfies given criteria.

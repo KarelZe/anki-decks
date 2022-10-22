@@ -1,13 +1,18 @@
-## Note
-nid: 1655790296281
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: D+B._84U`/
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 Sketch a <b>vanilla RNN cell</b>.
 
-### Back
+## Back
 \(h_{t}=\tanh \left(W_{h h} h_{t-1}+W_{x h} x_{t}\right)=A\left(h_{t-1}, x_{t}\right)\)
 
 <img src="paste-9ae38e7cb7692dd66278f3a62350e6694e7616dc.jpg">

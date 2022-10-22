@@ -1,13 +1,18 @@
-## Note
-nid: 1592767920693
-model: Basic-b122e-20a86
-tags: 08_Ehrenberg
-markdown: false
+# Note
+```
+guid: yuomGpgr%%
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+08_Ehrenberg
+```
+
+## Front
 Was sind <b>Annahmen</b> des <b>LSD-Modells</b>?
 
-### Back
+## Back
 <ul>
   <li>Anteil der Nichtkäufer in Population ist unbekannt
   <li>Käufe in aufeinanderfolgenden Perioden folgen einer
@@ -23,5 +28,4 @@ Was sind <b>Annahmen</b> des <b>LSD-Modells</b>?
 <div>
   \(\Gamma\)-Verteilung:
 </div>
-<div><img src=
-"paste-a1f502df05002e901a840ceda199f9d417082cb6.jpg"></div>
+<div><img src="paste-a1f502df05002e901a840ceda199f9d417082cb6.jpg"></div>

@@ -1,13 +1,18 @@
-## Note
-nid: 1653401109755
-model: Basic-02d89-e0e22
-tags: re::re-II::elication
-markdown: false
+# Note
+```
+guid: K|rY`%UT_;
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::elication
+```
+
+## Front
 What is done in the <b>stakeholder analysis</b>?
 
-### Back
+## Back
 <ul>
   <li>indentify stakeholder roles e.g., end user, customer,
   operator?

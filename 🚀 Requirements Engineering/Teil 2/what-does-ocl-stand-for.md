@@ -1,11 +1,16 @@
-## Note
-nid: 1659544770368
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: n)^K?T*,`^
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 What does OCL stand for?
 
-### Back
+## Back
 Object Constraint Language

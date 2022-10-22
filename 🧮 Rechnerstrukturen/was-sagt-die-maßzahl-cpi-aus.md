@@ -1,13 +1,21 @@
-## Note
-nid: 1620045225833
-model: Basic-d7a3e-4ce08
-tags: 02_uebung, 02_uebung_rs, derivate::03_bewertung, klausur
-markdown: false
+# Note
+```
+guid: HAX~.p$+!]
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_uebung
+02_uebung_rs
+derivate::03_bewertung
+klausur
+```
+
+## Front
 Was sagt die <b>Maßzahl CPI</b> aus?
 
-### Back
+## Back
 Mittlere Anzahl der Taktzyklen pro Befehl.
 <div>
   Damit Maß für die Effizienz einer Architektur.

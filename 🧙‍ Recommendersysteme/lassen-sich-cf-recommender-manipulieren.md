@@ -1,13 +1,19 @@
-## Note
-nid: 1616660672051
-model: Basic-b122e-20a86
-tags: 03_collaborative_filtering, Eigene
-markdown: false
+# Note
+```
+guid: B`om7{/(_T
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+03_collaborative_filtering
+Eigene
+```
+
+## Front
 Lassen sich <b>CF Recommender</b> manipulieren?
 
-### Back
+## Back
 <ul>
   <li>Ein einzelner Nutzer hat wenig Macht
   <li>Schlechtes Bewerten außer beim eigenen Produkt führt dazu,

@@ -1,13 +1,19 @@
-## Note
-nid: 1607185369708
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::04_trees_rf
-markdown: false
+# Note
+```
+guid: Ds^XcHRNZ9
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::04_trees_rf
+```
+
+## Front
 Wie erfolgt der <b>Aufbau</b> eines <b>KD-Baums</b>?
 
-### Back
+## Back
 <p>For each non-leaf node
 <div>
   <div>

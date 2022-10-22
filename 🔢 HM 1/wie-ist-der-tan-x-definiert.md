@@ -1,11 +1,16 @@
-## Note
-nid: 1586765256763
-model: LaTeX-deb4a
-tags: wichtig
-markdown: false
+# Note
+```
+guid: ug@~jZd~7
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+wichtig
+```
+
+## Front
 Wie ist der $\tan x$ definiert?
 
-### Back
+## Back
 $\tan x:=\frac{\sin x}{\cos x}$.

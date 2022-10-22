@@ -1,13 +1,18 @@
-## Note
-nid: 1591269766589
-model: Basic-b122e-20a86
-tags: 3_3_quantitative_masszahlen
-markdown: false
+# Note
+```
+guid: HALXq*e{w(
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_3_quantitative_masszahlen
+```
+
+## Front
 Was ist super-linearer Speedup?
 
-### Back
+## Back
 <img src="paste-b7310d3b85eddb2901c7541b5a39ed73159865f6.jpg">
 <div>
   <div>

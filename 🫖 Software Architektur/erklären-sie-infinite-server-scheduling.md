@@ -1,13 +1,18 @@
-## Note
-nid: 1593327073163
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality
-markdown: false
+# Note
+```
+guid: Aa/A-4HUv`
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+```
+
+## Front
 Erklären Sie <b>Infinite Server Scheduling</b>.
 
-### Back
+## Back
 <div>
   Es gibt eine ungegrenzte Anzahl an Server, sodass sich gar keine
   Schlange bilden kann.

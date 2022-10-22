@@ -1,13 +1,19 @@
-## Note
-nid: 1589904148701
-model: Basic-d7a3e-4ce08
-tags: 03_Palladio, architecture
-markdown: false
+# Note
+```
+guid: F3wy>wMvxV
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_Palladio
+architecture
+```
+
+## Front
 Was ist ein <i>System Model</i> in Palladio?
 
-### Back
+## Back
 <ul>
   <li>Modelliert die Komponenten-basierte Architektur, die
   analysiert werden soll.

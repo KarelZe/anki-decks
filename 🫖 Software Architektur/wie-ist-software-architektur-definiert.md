@@ -1,11 +1,17 @@
-## Note
-nid: 1637478231232
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: uEsQe=n5(z
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Wie ist <b>Software Architektur</b> definiert?
 
-### Back
+## Back
 Software Architektur ist das Ergebnis von Design-Entscheidungen im Bezug auf die Struktur des Systems mit Komponenten, deren Beziehungen und einem Mapping zur Ausführungsumgebung.

@@ -1,13 +1,18 @@
-## Note
-nid: 1602352225140
-model: Basic-b122e-20a86
-tags: 5_2_open_mp
-markdown: false
+# Note
+```
+guid: sB+OYP{f)W
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+5_2_open_mp
+```
+
+## Front
 Ws sind wichtige Merkmale von OpenMP?
 
-### Back
+## Back
 <ul>
   <li>Daten werden im Shred Memory vorgehalten
   <li>Es existiert ein Prozess beim Start der Anwendung

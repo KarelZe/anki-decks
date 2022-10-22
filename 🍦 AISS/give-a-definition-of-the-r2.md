@@ -1,13 +1,18 @@
-## Note
-nid: 1635930187158
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation
-markdown: false
+# Note
+```
+guid: G<F%9NsvDL
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+```
+
+## Front
 Give a <b>definition</b> of the \(R^2\).
 
-### Back
+## Back
 \[R^{2}:=\frac{\text { Explained Variance }}{\text { Total Variance
 }}=\frac{\sum_{j=1}^{n}\left(\hat{y}_{j}-\bar{y}_{j}\right)^{2}}{\sum_{j=1}^{n}\left(y_{j}-\bar{y}_{j}\right)^{2}}\]
 <div>

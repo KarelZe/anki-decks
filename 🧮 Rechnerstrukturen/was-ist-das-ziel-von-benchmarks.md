@@ -1,13 +1,19 @@
-## Note
-nid: 1627624364838
-model: Basic-d7a3e-4ce08
-tags: 02_uebung, 02_uebung_rs
-markdown: false
+# Note
+```
+guid: p/7{HQhEdd
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_uebung
+02_uebung_rs
+```
+
+## Front
 Was ist das Ziel von Benchmarks?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

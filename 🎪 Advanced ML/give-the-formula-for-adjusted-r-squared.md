@@ -1,11 +1,16 @@
-## Note
-nid: 1619942191799
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: JEUlh[T/i+
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 Give the formula for <b>adjusted R-squared</b>.
 
-### Back
+## Back
 \[\text { Adjusted } R^{2}=1-\left(1-R^{2}\right)\left(\frac{n-1}{n-k-1}\right)\]

@@ -1,11 +1,16 @@
-## Note
-nid: 1581618164374
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: r-c&>RPMR?
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie lautet das Kontrapositionsprinzip?
 
-### Back
+## Back
 Für zwei beliebige Aussagen $A$ und $B$ gilt: <span>$(A \Rightarrow B) \Leftrightarrow((\neg B) \Rightarrow(\neg A))$</span>

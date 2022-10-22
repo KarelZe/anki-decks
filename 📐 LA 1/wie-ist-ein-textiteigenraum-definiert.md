@@ -1,12 +1,17 @@
-## Note
-nid: 1600886908588
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: xjAWw+6[Ex
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie ist ein \textit{Eigenraum} definiert?
 
-### Back
+## Back
 Für $\lambda \in \mathbb{R}$ heißt der Unterraum $V_{\lambda}(\Phi):=\operatorname{ker}(\lambda \cdot \mathrm{Id}-\Phi)=\{v \in V \mid \Phi(v)=\lambda v\}$
 der $\lambda$ -Eigenraum von $\Phi$.

@@ -1,13 +1,18 @@
-## Note
-nid: 1607431948627
-model: Basic-d7a3e-4ce08
-tags: ml::02_linear_classification
-markdown: false
+# Note
+```
+guid: @SLeDPk%9
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::02_linear_classification
+```
+
+## Front
 <p>Wie ist ein <b>Linear Classifier</b> definiert?
 
-### Back
+## Back
 <p>A linear classifier is given in the form:
 <p>\[f(\mathbf{x})=\mathbf{w}^{T} \mathbf{x}+b,\]
 <p>where \(\boldsymbol{w}\) is the normal to the line and \(b\) is

@@ -1,13 +1,19 @@
-## Note
-nid: 1636473053905
-model: Basic-d7a3e-4ce08
-tags: 04_deployment, repeat
-markdown: false
+# Note
+```
+guid: qrW#b>crC1
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+repeat
+```
+
+## Front
 What are <b>microservices</b>?
 
-### Back
+## Back
 Microservices only serve one specific business function and are
 completely independent of each other.
 <div>

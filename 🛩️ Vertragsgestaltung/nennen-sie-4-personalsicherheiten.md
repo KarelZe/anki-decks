@@ -1,13 +1,18 @@
-## Note
-nid: 1629713191122
-model: Basic-d7a3e-4ce08
-tags: 10_sicherungsmittel
-markdown: false
+# Note
+```
+guid: wKcW8`?s4,
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+10_sicherungsmittel
+```
+
+## Front
 Nennen Sie 4 <b>Personalsicherheiten</b>.
 
-### Back
+## Back
 <ol>
   <li>Bürgschaft
   <li>Schuldbeitritt

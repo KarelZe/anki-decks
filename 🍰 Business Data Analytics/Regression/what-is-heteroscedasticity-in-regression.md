@@ -1,13 +1,18 @@
-## Note
-nid: 1653736311942
-model: Basic-02d89-e0e22
-tags: bda::04_regression
-markdown: false
+# Note
+```
+guid: Gn7i-K*vfi
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::04_regression
+```
+
+## Front
 What is <b>heteroscedasticity</b> in <b>regression</b>?
 
-### Back
+## Back
 <b>Heteroscedasticity</b> means unequal scatter. In regression
 analysis, we talk about heteroscedasticity in the context of the
 residuals or error term. Specifically, heteroscedasticity is <b>a

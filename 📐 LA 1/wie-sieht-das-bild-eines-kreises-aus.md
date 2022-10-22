@@ -1,11 +1,17 @@
-## Note
-nid: 1580156314097
-model: LaTeX-deb4a
-tags: aussortiert, Basis
-markdown: false
+# Note
+```
+guid: wc(`^`zE}&
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+aussortiert
+Basis
+```
+
+## Front
 Wie sieht das Bild eines Kreises aus?
 
-### Back
+## Back
 

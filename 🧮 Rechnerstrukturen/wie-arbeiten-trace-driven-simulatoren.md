@@ -1,13 +1,18 @@
-## Note
-nid: 1620106209948
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: BVy%I:Di[_
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Wie arbeiten <b>Trace-driven Simulatoren</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

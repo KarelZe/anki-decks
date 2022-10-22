@@ -1,13 +1,18 @@
-## Note
-nid: 1634884785419
-model: Basic-d7a3e-4ce08
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: J[X,4*_7_g
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Was ist das <b>invitatio ad offerandum?</b>
 
-### Back
+## Back
 Eine rechtliche <b>nicht verpflichtende Handlung</b> zum Abschluss
 eines Vertrages.
 <div>

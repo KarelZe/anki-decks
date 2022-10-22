@@ -1,11 +1,16 @@
-## Note
-nid: 1621098611608
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: z8[EQI1]Jy
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Was versteht man unter <b>Verfügbarkeit</b>?
 
-### Back
+## Back
 Die Verfügbarkeit bezeichent die Wahrscheinlichkeit, ein System zu einem beliebigen Zeitpunkt fehlerfrei anzutreffen.

@@ -1,13 +1,19 @@
-## Note
-nid: 1636473637611
-model: Basic-d7a3e-4ce08
-tags: 04_deployment, repeat
-markdown: false
+# Note
+```
+guid: tra.77]Di>
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+repeat
+```
+
+## Front
 Explain <b>Plattform-as-a-Service</b>.
 
-### Back
+## Back
 Capability provided to the consumer to deploy onto the cloud
 infrastructure consumer created or acquired applications created
 using programming languages, libraries, services, and tools

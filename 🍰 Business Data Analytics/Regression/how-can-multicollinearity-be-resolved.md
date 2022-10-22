@@ -1,13 +1,18 @@
-## Note
-nid: 1651127936686
-model: Basic-02d89-e0e22
-tags: bda::04_regression
-markdown: false
+# Note
+```
+guid: hZT$>(jQx*
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::04_regression
+```
+
+## Front
 How can <b>multicollinearity</b> be resolved?
 
-### Back
+## Back
 <ul>
   <li>leaving out correlated predictors
   <li>perform dimensionality reduction (e. g., PCA)

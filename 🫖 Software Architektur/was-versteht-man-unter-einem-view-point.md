@@ -1,13 +1,19 @@
-## Note
-nid: 1589720296383
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: hPS%(C$j_Z
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was versteht man unter einem <i>View point</i>?
 
-### Back
+## Back
 <div>
 </div><div><b>Intuition:</b></div><ul>
 <li>Menge von <i>View types</i> mit gewisser Ähnlichkeit / Überlapp.</li>

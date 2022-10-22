@@ -1,11 +1,16 @@
-## Note
-nid: 1587483828998
-model: Basic-b122e-20a86
-tags: 01_einfuehrung
-markdown: false
+# Note
+```
+guid: qaote<|+<8
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+01_einfuehrung
+```
+
+## Front
 Was ist ein Prosument?
 
-### Back
+## Back
 Der Prosument entsteht aus der Verschmelzung des <b>Produzenten</b> mit dem <b>Konsumenten</b>.

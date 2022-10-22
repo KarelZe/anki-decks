@@ -1,13 +1,18 @@
-## Note
-nid: 1602347580605
-model: Basic-b122e-20a86
-tags: 3_6_synchronisation_und_kommunikation
-markdown: false
+# Note
+```
+guid: ki8%QS`4h|
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_6_synchronisation_und_kommunikation
+```
+
+## Front
 Welche 6 Sendeoptionen existieren?
 
-### Back
+## Back
 <ul>
   <li>Asynchron / Synchron
   <li>Gepuffert / Ungepuffert

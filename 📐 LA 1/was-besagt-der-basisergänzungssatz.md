@@ -1,11 +1,16 @@
-## Note
-nid: 1580154695510
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: vj!EGvTq!h
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Was besagt der Basisergänzungssatz?
 
-### Back
+## Back
 Ist $U<V$ und $B^{\prime}$ eine Basis von $U$, so lässt sich $B^{\prime}$ zu einer Basis $B$ von $V$ ergänzen.

@@ -1,11 +1,16 @@
-## Note
-nid: 1628191947384
-model: Basic-d7a3e-4ce08
-tags: 06_para_maschinenbefehl
-markdown: false
+# Note
+```
+guid: k&_J|Ahb^M
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_para_maschinenbefehl
+```
+
+## Front
 Was ist Aufgabe des <b>Befehlsholpuffers</b>?
 
-### Back
+## Back
 Er entkoppelt die IF Phase von der ID Phase.

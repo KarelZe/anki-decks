@@ -1,13 +1,18 @@
-## Note
-nid: 1602352298971
-model: Basic-b122e-20a86
-tags: 5_2_open_mp
-markdown: false
+# Note
+```
+guid: tUf=_X]b[i
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+5_2_open_mp
+```
+
+## Front
 Was sind Vor- und Nachteile von OpenMP?
 
-### Back
+## Back
 <ul>
   <li>(+) Portierbarer Code
   <li>(+) Einfach zu verstehen. Man muss sich nicht um den

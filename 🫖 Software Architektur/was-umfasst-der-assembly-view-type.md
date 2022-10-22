@@ -1,13 +1,19 @@
-## Note
-nid: 1589533534126
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: E]}GCHH.mB
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was umfasst der <i>Assembly view type</i>?
 
-### Back
+## Back
 <ul>
 <li>Assembly contexts</li>
 <li>Assembly connectors (Abbildung Required Schnittstelle auf Provided Schnittstelle)</li></ul><div><b>Visualisierung</b>:</div><div>

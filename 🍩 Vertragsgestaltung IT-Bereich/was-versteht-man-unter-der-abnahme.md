@@ -1,11 +1,17 @@
-## Note
-nid: 1634839924360
-model: Basic-d7a3e-4ce08
-tags: repeat, vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: kK43c*KTwL
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+repeat
+vertragsgestaltung_it
+```
+
+## Front
 Was versteht man unter der Abnahme?
 
-### Back
+## Back
 Billigung der Werkleistung als im Wesentlichen vertragsgerecht. (zweigliedriger Abnahmebegriff)

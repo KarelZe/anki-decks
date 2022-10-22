@@ -1,11 +1,16 @@
-## Note
-nid: 1580469671857
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: Ns1h&n_LVf
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist $\operatorname{spec}(\Phi)$?
 
-### Back
+## Back
 $\operatorname{spec}(\Phi)$ ist die Menge aller Eigenwerte von $\Phi$.

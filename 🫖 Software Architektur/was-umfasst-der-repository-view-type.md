@@ -1,13 +1,19 @@
-## Note
-nid: 1589533413420
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: An9rMR2VZn
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was umfasst der <i>Repository view type</i>?
 
-### Back
+## Back
 <ul>
 <li>Interfaces und ihre Signaturen</li>
 <li>Komponenten</li>

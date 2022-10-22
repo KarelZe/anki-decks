@@ -1,13 +1,19 @@
-## Note
-nid: 1635328004187
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: Fs50|K]>6#
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Name and explain 4 <b>sampling strategies</b>.
 
-### Back
+## Back
 <ul>
   <li><b>Simple random sampling</b>: every data point has the same
   probability to get selected in the subset.

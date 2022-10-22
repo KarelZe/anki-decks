@@ -1,13 +1,20 @@
-## Note
-nid: 1592126361905
-model: Basic-d7a3e-4ce08
-tags: 04_Architectural_Reuse, architecture, architecture_4
-markdown: false
+# Note
+```
+guid: wE[:n([ZE4
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_Architectural_Reuse
+architecture
+architecture_4
+```
+
+## Front
 Was sind <b>Microservices</b>?
 
-### Back
+## Back
 <ul>
   <li>Microservices sind ein <b>Architekturstil</b>
   <li>Microservices sind ein Ansatz, um eine Anwendung aus einer

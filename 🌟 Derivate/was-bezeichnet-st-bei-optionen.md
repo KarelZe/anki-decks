@@ -1,11 +1,16 @@
-## Note
-nid: 1638018062021
-model: Basic-02d89-e0e22
-tags: derivate::04_optionen
-markdown: false
+# Note
+```
+guid: gVo3,/LEC_
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+derivate::04_optionen
+```
+
+## Front
 Was bezeichnet \(S(t)\) bei <b>Optionen</b>?
 
-### Back
+## Back
 Den <b>Kassapreis</b> des Basiswertes zum Zeitpunkt \(t\).

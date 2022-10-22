@@ -1,13 +1,18 @@
-## Note
-nid: 1651131499761
-model: Basic-02d89-e0e22
-tags: bda::02_classification
-markdown: false
+# Note
+```
+guid: QTgV}Gabr|
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::02_classification
+```
+
+## Front
 Name <b>disadvantages</b> of <b>decision trees</b>.
 
-### Back
+## Back
 <ul>
   <li>Not robust to changes in training data
   <li>Optimal tree learning is NP-hard

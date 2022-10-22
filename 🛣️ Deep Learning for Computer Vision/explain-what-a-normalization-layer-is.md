@@ -1,13 +1,18 @@
-## Note
-nid: 1652601790748
-model: Basic-02d89-e0e22
-tags: dl_cv::04_deep_cnns_background
-markdown: false
+# Note
+```
+guid: vl.s,uZWg
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::04_deep_cnns_background
+```
+
+## Front
 Explain what a <b>normalization layer</b> is.
 
-### Back
+## Back
 <ul>
   <li>Normalizes contrast
   <li>Improves invariance, optimization, sparsity

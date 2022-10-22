@@ -1,11 +1,16 @@
-## Note
-nid: 1617523027283
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: zyG)PDYL!@
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Wie ist ein <b>Ausfall</b> definiert?
 
-### Back
+## Back
 Übergang von einem fehlerhaften in einem fehlerhaften Zustand.

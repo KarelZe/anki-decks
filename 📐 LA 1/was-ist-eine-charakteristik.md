@@ -1,13 +1,19 @@
-## Note
-nid: 1580143438470
-model: LaTeX-deb4a
-tags: Körper, Ringe
-markdown: false
+# Note
+```
+guid: r7j*X5RVRO
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Körper
+Ringe
+```
+
+## Front
 Was ist eine Charakteristik?
 
-### Back
+## Back
 <div>% Characteristic of a Ring, Gallian</div><div>
 </div>\textbf{Alternative Definition}<div>
 </div><div>Die Charakteristik eines Rings $R$ ist die kleinste, positive Zahl $n$, sodass $nx=0$ für alle $x$ in $R$. Existiert keine solche Ganzzahl, wird die Charakteristik gleich $0$ gesetzt.\\</div><div>

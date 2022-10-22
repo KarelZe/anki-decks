@@ -1,13 +1,18 @@
-## Note
-nid: 1643730608133
-model: Basic-02d89-e0e22
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: MOQ!~]v4!%
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Hat die <b>DSGVO unmittelbare Geltung</b>?
 
-### Back
+## Back
 Es handelt sich um eine europäische Verordnung mit unmittelbarer Geltung (Vollharmonisierung)
 
 Es bestehen aber nationale Gestaltungsspielräume über Öffnungsklauseln z. B. beim Beschäftigtendatenschutz.

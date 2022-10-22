@@ -1,13 +1,18 @@
-## Note
-nid: 1621762754461
-model: Basic-d7a3e-4ce08
-tags: 12_lecture
-markdown: false
+# Note
+```
+guid: lrhW2^X*y9
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+12_lecture
+```
+
+## Front
 Explain the <b>Vanishing Gradient Problem</b>.
 
-### Back
+## Back
 <div>
 <div><div>The
  vanishing gradient problem is the increasing difficulty of back 

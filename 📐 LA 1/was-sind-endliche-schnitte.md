@@ -1,11 +1,16 @@
-## Note
-nid: 1580142840619
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: bvhKAeZ1Qh
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was sind endliche Schnitte?
 
-### Back
+## Back
 $M \cap N:=\{x |(x \in M) \wedge(x \in N)\}$ heißt der Schnitt von $M$ und $N$.

@@ -1,13 +1,18 @@
-## Note
-nid: 1651485355106
-model: Basic-02d89-e0e22
-tags: dl_cv::02_basics_nn
-markdown: false
+# Note
+```
+guid: ompzf_0eN<
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::02_basics_nn
+```
+
+## Front
 Give a <b>rough explanation</b> of <b>Adam</b>.
 
-### Back
+## Back
 <ul>
   <li>Makes use of the average of the second moments of the
   gradients

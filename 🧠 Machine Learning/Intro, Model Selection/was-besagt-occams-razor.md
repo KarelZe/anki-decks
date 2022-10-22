@@ -1,11 +1,16 @@
-## Note
-nid: 1606548233953
-model: Basic-d7a3e-4ce08
-tags: ml::03_model_selection
-markdown: false
+# Note
+```
+guid: Dc+{cy%cv{
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::03_model_selection
+```
+
+## Front
 <p>Was besagt <b>Occam's Razor</b>?
 
-### Back
+## Back
 Ziehe einfache Erklärungen Komplexeren vor.

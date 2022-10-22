@@ -1,13 +1,18 @@
-## Note
-nid: 1588095884773
-model: Basic-b122e-20a86
-tags: 02_assoziationsregeln
-markdown: false
+# Note
+```
+guid: piyV>:%DOK
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+02_assoziationsregeln
+```
+
+## Front
 Was ist die Motivation der <b>ABC-Analyse</b>?
 
-### Back
+## Back
 Die ABC-Analyse beruht auf der Erfahrung, dass meist nur ein kleiner Teil von Produkten einen hohen Anteil zum Umsatz / Deckungsbeitrag / Gewinn eines Unternehmens beisteuert.<div>
 </div><div>Typischerweise verwendet man die 80 %, 15 %, 5 % Regel.
 <div>

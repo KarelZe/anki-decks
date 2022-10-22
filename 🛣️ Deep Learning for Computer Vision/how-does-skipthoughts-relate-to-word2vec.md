@@ -1,13 +1,18 @@
-## Note
-nid: 1655752536001
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: prf;(3v-rK
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 How does <b>SkipThoughts</b> relate to <b>Word2Vec</b>?
 
-### Back
+## Back
 Like Word2Vec, but for sentences.
 
 Tries to predict the neighborhood "sentences".

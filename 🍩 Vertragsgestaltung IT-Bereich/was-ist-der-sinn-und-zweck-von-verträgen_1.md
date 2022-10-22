@@ -1,13 +1,19 @@
-## Note
-nid: 1647497864491
-model: Basic-02d89-e0e22
-tags: vertragsgestaltung_it, word_skript
-markdown: false
+# Note
+```
+guid: r22h@Br;;A
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+word_skript
+```
+
+## Front
 Was ist der Sinn und Zweck von Verträgen?
 
-### Back
+## Back
 <ul>
   <li>Regelungen bei Meinungsverschiedenheiten
   <li>Beschreiben wesentliche Vertragsinhalte

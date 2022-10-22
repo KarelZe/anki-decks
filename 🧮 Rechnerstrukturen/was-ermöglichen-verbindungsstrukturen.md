@@ -1,13 +1,19 @@
-## Note
-nid: 1627550770964
-model: Basic-d7a3e-4ce08
-tags: 04_uebung, rs::04_uebung
-markdown: false
+# Note
+```
+guid: l(S$T<kds5
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_uebung
+rs::04_uebung
+```
+
+## Front
 Was ermöglichen <b>Verbindungsstrukturen</b>?
 
-### Back
+## Back
 Verbindungsstrukturen ermöglichen die <b>Kommunikation</b> und
 <b>Kooperation</b> zwischen zwei <b>Verarbeitungselementen /
 Knoten</b>.

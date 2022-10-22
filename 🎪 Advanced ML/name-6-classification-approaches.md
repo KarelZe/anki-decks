@@ -1,13 +1,18 @@
-## Note
-nid: 1620227293236
-model: Basic-d7a3e-4ce08
-tags: 04_vorlesung
-markdown: false
+# Note
+```
+guid: f5Avj{#4}&
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_vorlesung
+```
+
+## Front
 Name 6 classification approaches.
 
-### Back
+## Back
 <div>
   <div>
     <ul>

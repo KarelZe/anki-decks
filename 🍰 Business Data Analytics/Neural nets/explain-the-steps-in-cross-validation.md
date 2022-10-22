@@ -1,13 +1,18 @@
-## Note
-nid: 1653200432727
-model: Basic-02d89-e0e22
-tags: bda::06_trainining_tuning
-markdown: false
+# Note
+```
+guid: lMUZ|Lv&Wm
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::06_trainining_tuning
+```
+
+## Front
 Explain the <b>steps</b> in <b>cross-validation</b>.
 
-### Back
+## Back
 <ol>
   <li>Splits the data into \(k\) equal subsets
   <li>Conduct \(k\) learning rounds. In each round, \(1/k\) is used

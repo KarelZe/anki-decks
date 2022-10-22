@@ -1,11 +1,16 @@
-## Note
-nid: 1602351751388
-model: Basic-b122e-20a86
-tags: 6_Verteiltes_Rechnen
-markdown: false
+# Note
+```
+guid: vUCP9z{W=
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+6_Verteiltes_Rechnen
+```
+
+## Front
 Was ist Grid-Computing?
 
-### Back
+## Back
 Erlaubt das Abschöpfen von verteilten Ressourcen.

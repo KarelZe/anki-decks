@@ -1,13 +1,18 @@
-## Note
-nid: 1653737410324
-model: Basic-02d89-e0e22
-tags: bda::04_regression
-markdown: false
+# Note
+```
+guid: tLFiT3#TKr
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::04_regression
+```
+
+## Front
 What is problematic about the \(R^2\)?
 
-### Back
+## Back
 The \(R^2\) increases if more variables are added, but it does not mean better fit/prediction, as each predictor allows for a better fit to data.
 
 Given more predictors residual standard error (RSE) can increase, if decrease in \(R S S\) is small relatively to increase in number of \(p\)

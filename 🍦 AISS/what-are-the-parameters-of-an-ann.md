@@ -1,13 +1,19 @@
-## Note
-nid: 1636536232364
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: d}3/B0]~m}
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 What are the <b>parameters</b> of an <b>ANN</b>?
 
-### Back
+## Back
 Number of <b>hidden layers</b> and <b>number of neurons</b> in
 every hidden layer increasing these parameters lead to a higher
 system flexibility but also the risk of over specifying.

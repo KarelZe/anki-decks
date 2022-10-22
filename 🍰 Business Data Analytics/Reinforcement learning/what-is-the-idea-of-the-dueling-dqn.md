@@ -1,13 +1,18 @@
-## Note
-nid: 1656172334131
-model: Basic-02d89-e0e22
-tags: bda::09_rl
-markdown: false
+# Note
+```
+guid: l&FhrTP3[5
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::09_rl
+```
+
+## Front
 What is the <b>idea </b>of the <b>Dueling DQN</b>?
 
-### Back
+## Back
 The Q-values \(Q(s,a)\) that the network is traing to approximate is divided into quantities.
 The value of the state, \(V(s)\) and th eadvantage of actions in this state, \(A(s,a)\) such that \(Q(s,a)=V(s)+A(s,a)\).
 To achieve stable training, the mean value of the Advantage is constrained to 0.

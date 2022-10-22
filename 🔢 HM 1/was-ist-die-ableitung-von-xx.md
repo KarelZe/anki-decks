@@ -1,11 +1,17 @@
-## Note
-nid: 1597224361184
-model: LaTeX-deb4a
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: FcN3ZlnEp<
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Was ist die Ableitung von $x^x$?
 
-### Back
+## Back
 $\frac{d}{d x}\left(x^{x}\right)=x^{x}(\log (x)+1)$

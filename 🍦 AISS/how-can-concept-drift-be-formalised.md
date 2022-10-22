@@ -1,13 +1,19 @@
-## Note
-nid: 1636459038847
-model: Basic-d7a3e-4ce08
-tags: 05_concept_drift, repeat
-markdown: false
+# Note
+```
+guid: n_ecBTw@fj
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_concept_drift
+repeat
+```
+
+## Front
 How can concept drift be formalised?
 
-### Back
+## Back
 \(\text { Concept }=P(X, y)\)
 <div>
   Then <b>concept drift</b> between two points is defined as:

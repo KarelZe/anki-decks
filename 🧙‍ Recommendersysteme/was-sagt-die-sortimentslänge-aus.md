@@ -1,11 +1,16 @@
-## Note
-nid: 1588095642244
-model: Basic-b122e-20a86
-tags: 02_assoziationsregeln
-markdown: false
+# Note
+```
+guid: vkC79rS?BC
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+02_assoziationsregeln
+```
+
+## Front
 Was sagt die Sortimentslänge aus?
 
-### Back
+## Back
 Die Sortiments<span>länge sagt aus, was die durchschnittliche Länge einer Produktgruppe ist.</span>

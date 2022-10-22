@@ -1,13 +1,18 @@
-## Note
-nid: 1580147379327
-model: LaTeX-deb4a
-tags: Vektorraum
-markdown: false
+# Note
+```
+guid: r/w@Pjiuoh
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Vektorraum
+```
+
+## Front
 Was ist ein Unterraum eines Vektorraums?
 
-### Back
+## Back
 <div>Eine Teilmenge $W \subseteq V$ heißt $\mathbb{K}$-Untervektorraum  falls gilt:
 </div><div>
 </div>\begin{enumerate}<div>\item<span> $o \in W$</span></div>\item $\forall x, y \in W: x+y \in W$

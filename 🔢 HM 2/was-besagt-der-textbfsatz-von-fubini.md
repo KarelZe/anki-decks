@@ -1,13 +1,19 @@
-## Note
-nid: 1591513441177
-model: LaTeX-deb4a
-tags: Integration_im_R_n, wichtig
-markdown: false
+# Note
+```
+guid: wg+mx^I}4r
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Integration_im_R_n
+wichtig
+```
+
+## Front
 Was besagt der \textbf{Satz von Fubini}?
 
-### Back
+## Back
 % Satz 20.3 (Satz von Fubini):
 <div>
   Es seien $p, q \in \mathbb{N}, n=p+q\left(\text {also }

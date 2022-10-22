@@ -1,13 +1,19 @@
-## Note
-nid: 1635348759382
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: C34H*tipbI
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Explain the <b>bag of words transformation.</b>
 
-### Back
+## Back
 <b>Pre-processing</b>: username removal, downcasing, tokenizing,
 stemming, stop word removal
 <div>

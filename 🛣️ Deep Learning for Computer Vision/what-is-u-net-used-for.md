@@ -1,11 +1,16 @@
-## Note
-nid: 1655730455483
-model: Basic-02d89-e0e22
-tags: dl_cv::07_image_seg
-markdown: false
+# Note
+```
+guid: B%zD?=>z%,
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::07_image_seg
+```
+
+## Front
 What is U-Net used for?
 
-### Back
+## Back
 Image segmentation.

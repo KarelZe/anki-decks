@@ -1,13 +1,18 @@
-## Note
-nid: 1580156170408
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: oQMVx`-<;,
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Was ist ein Monomorphismus?
 
-### Back
+## Back
 <div>% Korrolar 3.2.3</div><div>
 </div><div>\textbf{Definition:}</div><div>
 </div>Eine lineare Abbildung heißt ein \textit{Monomorphismus}, falls sie injektiv ist.<div>

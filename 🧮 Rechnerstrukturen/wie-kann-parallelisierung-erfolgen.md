@@ -1,13 +1,18 @@
-## Note
-nid: 1606854999756
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: sdx)qgw8:u
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 <p>Wie kann Parallelisierung erfolgen?
 
-### Back
+## Back
 <ul style= 
 "font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px">
   <li>

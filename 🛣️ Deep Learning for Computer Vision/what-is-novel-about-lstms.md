@@ -1,13 +1,18 @@
-## Note
-nid: 1655790588461
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: er^QPdK#<#
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 What is novel about <b>LSTMs</b>?
 
-### Back
+## Back
 Prevents the gradient problems, by replacing the multiplication with the weight matrix.
 Logic-gate like structure.
 

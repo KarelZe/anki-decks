@@ -1,11 +1,16 @@
-## Note
-nid: 1617620873773
-model: Basic-b122e-20a86
-tags: 09_decision_trees
-markdown: false
+# Note
+```
+guid: Pl^MLFs%zP
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+09_decision_trees
+```
+
+## Front
 Wie ist der Informationsgewinn definiert?
 
-### Back
+## Back
 \(\Delta H = H(y)-H(y \mid x)\)

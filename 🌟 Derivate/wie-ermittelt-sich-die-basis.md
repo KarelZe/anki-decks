@@ -1,11 +1,16 @@
-## Note
-nid: 1618252522641
-model: Basic-d7a3e-4ce08
-tags: derivate::02_forwards_futures
-markdown: false
+# Note
+```
+guid: B0FiMcm<V*
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::02_forwards_futures
+```
+
+## Front
 Wie ermittelt sich die <b>Basis</b>?
 
-### Back
+## Back
 \(Basis = Forwardpreis - Kassapreis\)

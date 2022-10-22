@@ -1,11 +1,17 @@
-## Note
-nid: 1628935423314
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::08_svm
-markdown: false
+# Note
+```
+guid: L@/!IVyN0+
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::08_svm
+```
+
+## Front
 Give a definition for the support vector.
 
-### Back
+## Back
 Data points close to the decision boundary.

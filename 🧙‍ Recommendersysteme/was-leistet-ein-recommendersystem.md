@@ -1,13 +1,18 @@
-## Note
-nid: 1587482901290
-model: Basic-b122e-20a86
-tags: 01_einfuehrung
-markdown: false
+# Note
+```
+guid: h{TZ;_r8@i
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+01_einfuehrung
+```
+
+## Front
 Was leistet ein Recommendersystem?
 
-### Back
+## Back
 <div><div><div><div></div><div></div></div></div>
 </div>
 <div>

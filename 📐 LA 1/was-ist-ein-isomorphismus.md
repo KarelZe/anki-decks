@@ -1,13 +1,18 @@
-## Note
-nid: 1580156262609
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: h:_Om[(~cL
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Was ist ein Isomorphismus?
 
-### Back
+## Back
 <div>% Notation 2.2.13.</div><div>
 </div><div>\textbf{Definition:}</div><div>
 </div>Eine lineare Abbildung heißt ein \textit{Isomorphismus}, falls sie bijektiv ist.<div>

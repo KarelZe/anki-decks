@@ -1,13 +1,18 @@
-## Note
-nid: 1581530411455
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: NM||nvF2:-
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Definieren Sie den Begriff der Faser
 
-### Back
+## Back
 \textbf{Definition:}<div>
 </div><div>Sei $f: M \to N$ eine beliebige Abbildung. Für $n \in N$ heißt das Urbild $f^{-1}(\{n\})$ die Faser über $n$.\\</div><div>
 </div><div>% <a href="https://de.wikiversity.org/wiki/Abbildung/Faser/Definition">https://de.wikiversity.org/wiki/Abbildung/Faser/Definition</a></div><div>\textbf{Alternative Definition:}</div><div>

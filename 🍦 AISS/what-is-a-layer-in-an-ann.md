@@ -1,11 +1,17 @@
-## Note
-nid: 1636536620719
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: C.?~>z/|EY
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 What is a layer in an <b>ANN</b>?
 
-### Back
+## Back
 Are groups of artificial neurons for special purposes.

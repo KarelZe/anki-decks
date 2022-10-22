@@ -1,11 +1,16 @@
-## Note
-nid: 1653499459730
-model: Basic-02d89-e0e22
-tags: bda::10_text_mining
-markdown: false
+# Note
+```
+guid: y2Rba;M%Ln
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::10_text_mining
+```
+
+## Front
 What is a <b>word embedding</b>?
 
-### Back
+## Back
 Numerical representation of words. A good analogy would be how we use the RGB representation for colors.

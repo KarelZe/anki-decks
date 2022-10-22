@@ -1,13 +1,18 @@
-## Note
-nid: 1582296240574
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: o0*?~/}Uxi
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie weißt man eine Untergruppe nach?
 
-### Back
+## Back
 % Theorem 3.1 Gallian<div>
 </div><div>\textbf{Alternative Herangehensweise}</div><div>
 </div><div>Sei $G$ eine Gruppe und $H$ eine nicht-leere Teilmenge von $G$. Wenn $ab^{-1}$ ist in $H$, wann immer $a$ und $b$ in $H$ sind, dann ist $H$ eine Untergruppe von $G$. </div><div>

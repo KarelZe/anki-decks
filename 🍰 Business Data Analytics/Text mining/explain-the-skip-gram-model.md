@@ -1,13 +1,18 @@
-## Note
-nid: 1653498847197
-model: Basic-02d89-e0e22
-tags: bda::10_text_mining
-markdown: false
+# Note
+```
+guid: NKgz<v6Gd/
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::10_text_mining
+```
+
+## Front
 Explain the <b>Skip-Gram model</b>.
 
-### Back
+## Back
 Fully connected feedforward neural network. <b>Training
 objective:</b> learn embeddings that are good at predicting the
 nearby words. Learning happens from a large corpus e. g.,

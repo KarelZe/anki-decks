@@ -1,13 +1,18 @@
-## Note
-nid: 1580142756583
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: Nn</iixtpx
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was versteht man unter Quantoren?
 
-### Back
+## Back
 Z. B. Existenzquantor $(\exists)$, Allquantor $(\forall)$ etc.<div>
 </div><div>\textbf{Intution}</div><div>
 </div><div>Spezifiziert die Reichweite einer Aussage.</div>

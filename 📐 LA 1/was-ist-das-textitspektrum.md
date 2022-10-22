@@ -1,11 +1,16 @@
-## Note
-nid: 1600886730438
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: oeMI3~[e>c
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist das \textit{Spektrum}?
 
-### Back
+## Back
 Die Menge aller Eigenwerte von $\Phi$ heißt das Spektrum von $\Phi$, geschrieben spec $(\Phi)$.

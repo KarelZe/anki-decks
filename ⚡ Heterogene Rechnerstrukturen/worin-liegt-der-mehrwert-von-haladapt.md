@@ -1,13 +1,18 @@
-## Note
-nid: 1613853658953
-model: Basic-d7a3e-4ce08
-tags: het_rs::09_programmierung
-markdown: false
+# Note
+```
+guid: L.@kX^F-SL
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+het_rs::09_programmierung
+```
+
+## Front
 Worin liegt der <b>Mehrwert</b> von <b>HALadapt</b>?
 
-### Back
+## Back
 HALadapt wählt die geeignete Implementierung einer Funktion bei
 Bedarf.
 <div>

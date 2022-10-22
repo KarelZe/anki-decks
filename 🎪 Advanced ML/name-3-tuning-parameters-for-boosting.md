@@ -1,13 +1,18 @@
-## Note
-nid: 1620474629990
-model: Basic-d7a3e-4ce08
-tags: adv_ml::07_lecture_rf_dc
-markdown: false
+# Note
+```
+guid: B|I&VM#!Op
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+adv_ml::07_lecture_rf_dc
+```
+
+## Front
 Name 3 <b>tuning parameters</b> for <b>boosting</b>.
 
-### Back
+## Back
 <div>
   <div>
     <ul>

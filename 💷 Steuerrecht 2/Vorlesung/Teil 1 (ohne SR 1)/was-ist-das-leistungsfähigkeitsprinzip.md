@@ -1,13 +1,19 @@
-## Note
-nid: 1655567443161
-model: Basic-02d89-e0e22
-tags: SR_2, SR_2::SR_2_I::SR_2-I-2
-markdown: false
+# Note
+```
+guid: jgt*k:/TkK
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+SR_2
+SR_2::SR_2_I::SR_2-I-2
+```
+
+## Front
 Was ist das <b>Leistungsfähigkeitsprinzip</b>?
 
-### Back
+## Back
 Das <b>Leistungsfähigkeitsprinzip</b> wird weltweit und in allen
 steuerwissenschaftlichen Disziplinen als Fundamentalprinzip
 gerechter Besteuerung anerkannt. Leistungsfähigkeit kann

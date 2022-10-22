@@ -1,11 +1,17 @@
-## Note
-nid: 1598538201642
-model: Basic-b122e-20a86
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: zkZCjvO/>}
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Wie zeigt man Lipschitz-Stetigkeit?
 
-### Back
+## Back
 <img src="paste-b09b44f21fee8ad655696eea0fc8f681045d79b8.jpg">

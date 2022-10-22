@@ -1,13 +1,18 @@
-## Note
-nid: 1656317252987
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: M~5XRpB){x
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 What is attention in image captioning?
 
-### Back
+## Back
 Humans look at salient regions of the image. Attention helps to
 guide human vision and stabilze input image. Modelling attention
 into machines can improve the understanding. <b>Example:</b>

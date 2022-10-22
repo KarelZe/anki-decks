@@ -1,13 +1,18 @@
-## Note
-nid: 1653399946564
-model: Basic-02d89-e0e22
-tags: re::re-II::documentating
-markdown: false
+# Note
+```
+guid: vxY85^*,&Q
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::documentating
+```
+
+## Front
 Name common documentation standards.
 
-### Back
+## Back
 <ul>
   <li>IEEE Std 830-1998
   <li>VOLERE

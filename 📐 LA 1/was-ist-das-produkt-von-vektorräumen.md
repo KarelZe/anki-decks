@@ -1,13 +1,18 @@
-## Note
-nid: 1580147372096
-model: LaTeX-deb4a
-tags: Vektorraum
-markdown: false
+# Note
+```
+guid: mG}$SS(#m1
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Vektorraum
+```
+
+## Front
 Was ist das Produkt von Vektorräumen?
 
-### Back
+## Back
 % Grundsätzliche Interpretation anhand von Wikipedia, dass das Produkt von Vektorräumen dem direkten Produkt entspricht vgl. <a href="https://de.wikipedia.org/wiki/Direktes_Produkt">https://de.wikipedia.org/wiki/Direktes_Produkt</a><div>
 </div><div>% Interpretation 3.78, Linear Algebra done right</div><div>
 </div><div>\textbf{Definition}</div><div>

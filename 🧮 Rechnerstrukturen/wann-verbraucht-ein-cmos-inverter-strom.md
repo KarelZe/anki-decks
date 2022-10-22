@@ -1,11 +1,16 @@
-## Note
-nid: 1620060545880
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: y)JIoaQ:Pe
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Wann verbraucht ein <b>CMOS</b> <b>Inverter</b> Strom?
 
-### Back
+## Back
 Stromverbrauch nur beim Übergang.

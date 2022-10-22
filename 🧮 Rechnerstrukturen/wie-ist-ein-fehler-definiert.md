@@ -1,11 +1,16 @@
-## Note
-nid: 1617522799753
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: J=%~0[Ka;1
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Wie ist ein <b>Fehler</b> definiert?
 
-### Back
+## Back
 Unzulässige bzw. aussetzende Funktion einer Komponente.

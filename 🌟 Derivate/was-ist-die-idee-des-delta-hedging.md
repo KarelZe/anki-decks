@@ -1,11 +1,17 @@
-## Note
-nid: 1618046733155
-model: Basic-d7a3e-4ce08
-tags: 06_risikomanagement, derivate::06_risikomanagement
-markdown: false
+# Note
+```
+guid: B5`xw}%>A)
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_risikomanagement
+derivate::06_risikomanagement
+```
+
+## Front
 Was ist die Idee des <b>Delta-Hedging</b>?
 
-### Back
+## Back
 Zusammenstellung einer Position, die kurzfristig keinem Aktienkursänderungrisiko unterliegt.

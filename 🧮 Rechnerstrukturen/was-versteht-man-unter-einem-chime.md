@@ -1,13 +1,19 @@
-## Note
-nid: 1627896076243
-model: Basic-d7a3e-4ce08
-tags: 05_uebung, 05_uebung_rs
-markdown: false
+# Note
+```
+guid: jZg/id47H:
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_uebung
+05_uebung_rs
+```
+
+## Front
 Was versteht man unter einem <b>chime</b>?
 
-### Back
+## Back
 Die Zeiteinheit, die benötigt wird, um einen <b>convoy</b>
 auszuführen.
 <div>

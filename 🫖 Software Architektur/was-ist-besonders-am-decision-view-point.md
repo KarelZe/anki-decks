@@ -1,13 +1,19 @@
-## Note
-nid: 1637482318762
-model: Basic-d7a3e-4ce08
-tags: 02_Architectural_Viewpoints, architecture
-markdown: false
+# Note
+```
+guid: q8h>Z(:cv.
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_Architectural_Viewpoints
+architecture
+```
+
+## Front
 Was ist besonders am <b>Decision View Point</b>?
 
-### Back
+## Back
 Der <i>Decision View Point</i> ist querliegend. Entscheidungen
 können auf anderen Elementen des Architektur-Modells getroffen
 werden.

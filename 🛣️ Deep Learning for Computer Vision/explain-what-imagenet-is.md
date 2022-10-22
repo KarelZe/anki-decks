@@ -1,13 +1,18 @@
-## Note
-nid: 1652602472258
-model: Basic-02d89-e0e22
-tags: dl_cv::04_deep_cnns_background
-markdown: false
+# Note
+```
+guid: zM4d*,WXwB
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::04_deep_cnns_background
+```
+
+## Front
 Explain what <b>ImageNet</b> is.
 
-### Back
+## Back
 <ul>
   <li>ImageNet is a data set of 14,197,122 annotated images
   <li>Organized by WordNet hierarchy e. g. , cat -> feline ->

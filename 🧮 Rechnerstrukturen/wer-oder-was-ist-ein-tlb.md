@@ -1,13 +1,20 @@
-## Note
-nid: 1627967157300
-model: Basic-d7a3e-4ce08
-tags: 05_uebung, 05_uebung_rs, klausur
-markdown: false
+# Note
+```
+guid: D5l!vd[14k
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_uebung
+05_uebung_rs
+klausur
+```
+
+## Front
 Wer oder was ist ein <b>TLB</b>?
 
-### Back
+## Back
 TLB = <i>Translation Lookaside Buffers</i>. Der TLB ist ein
 Cache-Speicher auf dem Prozessor-Chip und speichert die jüngsten
 Seitentabelleneinträge. Somit kann die Adressumsetzung mithilfe des

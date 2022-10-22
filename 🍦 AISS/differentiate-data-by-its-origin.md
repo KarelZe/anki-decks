@@ -1,13 +1,19 @@
-## Note
-nid: 1635342791938
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: oy.bFcL*uU
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Differentiate data by it's origin.
 
-### Back
+## Back
 <ul>
   <li><strong>Batch data 🧱</strong>: Is static data. Batch data has
   been collected over a period of time and is then used as a whole.

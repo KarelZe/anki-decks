@@ -1,13 +1,18 @@
-## Note
-nid: 1592744260538
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality
-markdown: false
+# Note
+```
+guid: sxJK:;]m2e
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+```
+
+## Front
 Was ist die <b>Flow Equilibrium Assumption</b>?
 
-### Back
+## Back
 <ul>
   <li>Man geht davon aus, dass Warteschlangen / Systeme über eine
   lange Zeitperiode beobachtet werden.

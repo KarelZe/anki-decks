@@ -1,11 +1,16 @@
-## Note
-nid: 1629721449650
-model: Basic-d7a3e-4ce08
-tags: 02_zivilrechtliche_grundlagen
-markdown: false
+# Note
+```
+guid: OI@<haRK`$
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_zivilrechtliche_grundlagen
+```
+
+## Front
 Was versteht man unter <b>Vertragsfreiheit</b>?
 
-### Back
+## Back
 Freiheit eines Einzelnen, ob, mit wem und mit welchem Inhalt er einen Vertrag abschließt.

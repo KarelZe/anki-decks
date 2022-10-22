@@ -1,13 +1,18 @@
-## Note
-nid: 1580134115376
-model: LaTeX-deb4a
-tags: Gruppen
-markdown: false
+# Note
+```
+guid: v|{lYr]`(*
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Gruppen
+```
+
+## Front
 Was ist eine zyklische Gruppe?
 
-### Back
+## Back
 Sei $G$ eine beliebige Gruppe und $g \in G$. \\<div>
 </div><div>
 </div><div>Die von$\langle\{g\}\rangle$ erzeugte Gruppe ist gegeben durch: $\langle g\rangle:=\langle\{g\}\rangle=\left\{g^{n} | n \in \mathbb{Z}\right\}$ und heißt zyklische Untergruppe von $G$.\\</div><div>

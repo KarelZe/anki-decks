@@ -1,13 +1,19 @@
-## Note
-nid: 1642522275229
-model: Basic-02d89-e0e22
-tags: 05_bewertung, derivate::05_bewertung
-markdown: false
+# Note
+```
+guid: hI0&7.so;F
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+05_bewertung
+derivate::05_bewertung
+```
+
+## Front
 Was sind Erklärungen für einen Smile?
 
-### Back
+## Back
 Extreme Änderungen häufiger als durch Log-Normalverteilung
 unterstellt, aufgrund
 <ul>

@@ -1,11 +1,16 @@
-## Note
-nid: 1634626660355
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: r6CJRQ(Or:
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was ist die <b>Optionsfrist</b>?
 
-### Back
+## Back
 Zeitspanne bis zum Verfallstag \(T\).

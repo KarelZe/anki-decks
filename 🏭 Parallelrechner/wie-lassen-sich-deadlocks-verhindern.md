@@ -1,13 +1,18 @@
-## Note
-nid: 1602347202186
-model: Basic-b122e-20a86
-tags: Eigene
-markdown: false
+# Note
+```
+guid: B3--o!~!z|
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie lassen sich Deadlocks verhindern?
 
-### Back
+## Back
 <ul>
   <li><strong>Preemption durchführen</strong> Einem Prozess werden
   die Betriebsmittel entzogen, um sie einem anderen Prozess

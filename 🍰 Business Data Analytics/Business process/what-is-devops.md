@@ -1,11 +1,16 @@
-## Note
-nid: 1653565528078
-model: Basic-02d89-e0e22
-tags: bda::11_business_processes
-markdown: false
+# Note
+```
+guid: B`kmj,5C}d
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::11_business_processes
+```
+
+## Front
 What is <b>DevOps</b>?
 
-### Back
+## Back
 DevOps is a flexible framework of software development practices organizations use to create and deliver software by aligning and coordinating software development efforts.

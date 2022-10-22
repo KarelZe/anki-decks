@@ -1,13 +1,19 @@
-## Note
-nid: 1606854989729
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung, 05_grundlagen_parallelverarbeitung
-markdown: false
+# Note
+```
+guid: pwV1m[L0%<
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+05_grundlagen_parallelverarbeitung
+```
+
+## Front
 <p>Welche Formen des <b>Parallelismus</b> bestehen?
 
-### Back
+## Back
 <ul>
   <li>Nebenläufigkeit
   <li>Pipelining

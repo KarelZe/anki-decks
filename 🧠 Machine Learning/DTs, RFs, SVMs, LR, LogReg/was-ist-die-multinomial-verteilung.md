@@ -1,13 +1,18 @@
-## Note
-nid: 1605359127849
-model: Basic-d7a3e-4ce08
-tags: ml::02_linear_classification
-markdown: false
+# Note
+```
+guid: boS/]^eZKW
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::02_linear_classification
+```
+
+## Front
 <p>Was ist die <b>Multinomial-Verteilung</b>?
 
-### Back
+## Back
 <p>\(K\) different events: \(\quad C \in\{1, \ldots, K\}\).
 <p>Directly specifies probabilities: \(p(C=k)=\mu_{k}, \quad
 \mu_{k} \geq 0, \quad \sum_{k=1}^{K} \mu_{k}=1\).

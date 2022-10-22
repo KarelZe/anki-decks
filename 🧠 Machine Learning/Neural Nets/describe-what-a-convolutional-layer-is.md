@@ -1,13 +1,19 @@
-## Note
-nid: 1629275233431
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::11_rnns
-markdown: false
+# Note
+```
+guid: u<C{9DRC/W
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::11_rnns
+```
+
+## Front
 Describe what a <b>convolutional layer</b> is.
 
-### Back
+## Back
 <div>
   Convolutional layers <b>convolve</b> the input and pass its
   result to the next layer.
@@ -30,7 +36,5 @@ Describe what a <b>convolutional layer</b> is.
 <div>
   <b>Visualization:</b>
 </div>
-<div><img src=
-"paste-45943dd0e0e24e5cd3ceac41704eb7d264cb730b.jpg"></div>
-<div><img src=
-"paste-1f08bdc45f900c733ad728cff19fb90a391f1e5f.jpg"></div>
+<div><img src="paste-45943dd0e0e24e5cd3ceac41704eb7d264cb730b.jpg"></div>
+<div><img src="paste-1f08bdc45f900c733ad728cff19fb90a391f1e5f.jpg"></div>

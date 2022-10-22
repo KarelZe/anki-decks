@@ -1,13 +1,18 @@
-## Note
-nid: 1629891229809
-model: Basic-d7a3e-4ce08
-tags: 12_gesellschaftsrecht
-markdown: false
+# Note
+```
+guid: O(,n,(:fck
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+12_gesellschaftsrecht
+```
+
+## Front
 Wie haften Gesellschafter einer GmbH?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

@@ -1,13 +1,18 @@
-## Note
-nid: 1606548236051
-model: Basic-d7a3e-4ce08
-tags: ml::03_model_selection
-markdown: false
+# Note
+```
+guid: B*t%t1OR]s
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::03_model_selection
+```
+
+## Front
 <p>Was ist die Idee des <b>early stopping</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

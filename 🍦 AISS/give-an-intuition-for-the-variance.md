@@ -1,13 +1,18 @@
-## Note
-nid: 1636531551984
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation
-markdown: false
+# Note
+```
+guid: uFc]1Q2OD(
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+```
+
+## Front
 Give an <b>intuition</b> for the <b>variance</b>.
 
-### Back
+## Back
 What is the expected value of the squared deviation mean of \(X\)?
 <div>
   How scattered are the results?

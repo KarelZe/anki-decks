@@ -1,13 +1,18 @@
-## Note
-nid: 1625238744765
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: bu3f9<ggmU
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 Name different types of variables
 
-### Back
+## Back
 <div>
   <div>
     <ul>

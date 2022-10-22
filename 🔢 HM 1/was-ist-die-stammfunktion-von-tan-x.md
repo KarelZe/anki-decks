@@ -1,11 +1,17 @@
-## Note
-nid: 1597999336810
-model: LaTeX-deb4a
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: lRnD9aWRz{
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Was ist die Stammfunktion von $\tan x$?
 
-### Back
+## Back
 $-\ln |\cos x|$

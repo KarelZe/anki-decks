@@ -1,13 +1,18 @@
-## Note
-nid: 1605994946692
-model: Basic-d7a3e-4ce08
-tags: 04_wacc
-markdown: false
+# Note
+```
+guid: o$m1n1WgEq
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_wacc
+```
+
+## Front
 Was sind Nachteile des CAPM-Modells?
 
-### Back
+## Back
 <p>- Wissenschaftlich kein Zusammenhang zwischen den
 Beta-Schätzungen und den zukünftigen Renditen nachweisbar
 <p>- Marktkapitalisierung (Size-Faktor) und Kurs-/

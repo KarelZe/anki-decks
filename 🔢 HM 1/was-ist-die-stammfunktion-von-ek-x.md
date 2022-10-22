@@ -1,11 +1,16 @@
-## Note
-nid: 1597998836280
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: f:7;kF(neO
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von ${e}^{k x}$?
 
-### Back
+## Back
 $\frac{1}{k} e^{k x}$

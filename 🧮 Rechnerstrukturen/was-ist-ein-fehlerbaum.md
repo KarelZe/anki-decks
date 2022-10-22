@@ -1,13 +1,18 @@
-## Note
-nid: 1620910904258
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: PdqcKtzcpw
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Was ist ein <b>Fehlerbaum</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

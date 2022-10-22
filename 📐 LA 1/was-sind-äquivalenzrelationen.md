@@ -1,13 +1,18 @@
-## Note
-nid: 1580143099066
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: J~i)AE<D`(
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was sind Äquivalenzrelationen?
 
-### Back
+## Back
 \textbf{Definition}<div>
 </div><div>
 <div>Ist $\mathcal{P}$ eine Partition von $M$, so definiert:  </div><div>$$</div><div>R_{\mathcal{P}}:=\left\{(x, y) \in M \times M |[x]_{\mathcal{P}}=[y]_{\mathcal{P}}\right\} \subseteq M \times M.</div><div>$$

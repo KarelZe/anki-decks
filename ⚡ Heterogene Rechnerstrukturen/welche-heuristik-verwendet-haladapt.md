@@ -1,11 +1,16 @@
-## Note
-nid: 1613850609740
-model: Basic-d7a3e-4ce08
-tags: het_rs::09_programmierung
-markdown: false
+# Note
+```
+guid: y{!{1+Yd[/
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+het_rs::09_programmierung
+```
+
+## Front
 Welche <b>Heuristik</b> verwendet <b>HALadapt</b>?
 
-### Back
+## Back
 Heterogenous Earliest Finish Time (HEFT).

@@ -1,13 +1,18 @@
-## Note
-nid: 1653324130029
-model: Basic-02d89-e0e22
-tags: dl_cv::04_dl_architectures_1
-markdown: false
+# Note
+```
+guid: dG//3pEqQA
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::04_dl_architectures_1
+```
+
+## Front
 How is <b>ZF Net</b> different from <b>AlexNet</b>?
 
-### Back
+## Back
 <img src="paste-ed697e3c5f9b3d539bc451e07043afc70b7721f4.jpg">
 <b>Changes:</b>
 <ul>

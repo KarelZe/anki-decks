@@ -1,12 +1,17 @@
-## Note
-nid: 1603539862143
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: QzdywjtAU9
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 <p>Weswegen werden Prozessoren "überbucht"?
 
-### Back
+## Back
 <p>- Maskierung von Mehrzyklusoperationen
 <p>- Maskierung von Zugriffslatenzen

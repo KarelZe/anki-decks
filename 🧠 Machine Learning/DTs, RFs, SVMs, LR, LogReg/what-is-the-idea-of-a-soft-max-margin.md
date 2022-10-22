@@ -1,13 +1,19 @@
-## Note
-nid: 1629026906858
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::08_svm
-markdown: false
+# Note
+```
+guid: L7qmj+,hdV
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::08_svm
+```
+
+## Front
 What is the idea of a <b>soft max-margin</b>?
 
-### Back
+## Back
 One introduces <b>slack variables </b>\(\xi_{i}\), so that some margin violations are tolerated. <div>
 </div><div>However, a punishment term is applied for a large number of slack variables.</div><div>
 </div><div>\(\begin{aligned}

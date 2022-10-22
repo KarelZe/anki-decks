@@ -1,11 +1,16 @@
-## Note
-nid: 1618054862502
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: fz`s$l&XTW
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Was sagt die <b>mittlere Lebensdauer</b> aus?
 
-### Back
+## Back
 Bezeichnet für einen zu Beginn fehlerfreies System den Erwartungswert der Zeitdauer bis zum ersten Fehler.

@@ -1,13 +1,18 @@
-## Note
-nid: 1634836042106
-model: Basic-d7a3e-4ce08
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: bieK_T%3+]
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Was charakterisiert <b>Standardsoftware</b>?
 
-### Back
+## Back
 <ul>
   <li>Software, die nicht speziell für die Bedürfnisse des Kunden
   hergestellt wurde.

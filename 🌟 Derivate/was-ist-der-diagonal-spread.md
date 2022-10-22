@@ -1,11 +1,16 @@
-## Note
-nid: 1617977539150
-model: Basic-d7a3e-4ce08
-tags: derivate::04_optionen
-markdown: false
+# Note
+```
+guid: g!(Z=PiHe%
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::04_optionen
+```
+
+## Front
 Was ist der <b>Diagonal Spread</b>?
 
-### Back
+## Back
 Verschiedene Basispreise, verschiedene Optionsfristen.

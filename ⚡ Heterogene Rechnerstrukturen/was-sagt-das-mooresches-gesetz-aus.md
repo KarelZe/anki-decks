@@ -1,13 +1,21 @@
-## Note
-nid: 1605038552903
-model: Basic-d7a3e-4ce08
-tags: 01_einfuehrung, 01_vorlesung, rs::01_einfuehrung, rs::01_uebung
-markdown: false
+# Note
+```
+guid: lK%O|@%ys)
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_einfuehrung
+01_vorlesung
+rs::01_einfuehrung
+rs::01_uebung
+```
+
+## Front
 <p>Was sagt das <b>Moore‘sches Gesetz</b> aus?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

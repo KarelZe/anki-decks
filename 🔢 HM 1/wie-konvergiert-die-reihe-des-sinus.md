@@ -1,11 +1,15 @@
-## Note
-nid: 1586619422475
-model: LaTeX-deb4a
-tags: 
-markdown: false
+# Note
+```
+guid: o7eKO.Ow@!
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+```
+
+## Front
 Wie konvergiert die Reihe des Sinus?
 
-### Back
+## Back
 Die Potenzreihe des Sinus konvergiert absolut für jedes $x \in \mathbb{R}$.

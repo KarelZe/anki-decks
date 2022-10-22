@@ -1,13 +1,18 @@
-## Note
-nid: 1580154683471
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: 3-a8HWoh#
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Was besagt der Basisauswahlsatz?
 
-### Back
+## Back
 <div>% Korollar 2.4.22 Basisauswahlsatz</div><div>
 </div><div>\textbf{Definition:}</div><div>
 </div><div>Jedes Erzeugendensystem $B_+$ von $V$ enthält eine Basis.\\</div>

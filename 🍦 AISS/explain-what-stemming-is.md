@@ -1,13 +1,19 @@
-## Note
-nid: 1635320926832
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: zg-#$xrNNC
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Explain what <b>stemming</b> is.
 
-### Back
+## Back
 Stemming is the algorithmic process of reducing words into their
 stem, base or root form.
 <div>

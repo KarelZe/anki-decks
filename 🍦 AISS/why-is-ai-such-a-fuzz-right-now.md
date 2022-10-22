@@ -1,11 +1,17 @@
-## Note
-nid: 1634719726796
-model: Basic-d7a3e-4ce08
-tags: 01_introduction, repeat
-markdown: false
+# Note
+```
+guid: b_^0R5B]}[
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+repeat
+```
+
+## Front
 Why is AI such a fuzz right now?
 
-### Back
+## Back
 <img src="paste-9ec01d5e4eedd7949d21897c843b6aa29b07f71c.jpg">

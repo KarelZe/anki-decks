@@ -1,13 +1,23 @@
-## Note
-nid: 1627551492603
-model: Basic-d7a3e-4ce08
-tags: 04_uebung, 10_verbindungsstrukturen_klausur, checklater, klausur, rs::04_uebung, rs::10_verbindungsstrukturen
-markdown: false
+# Note
+```
+guid: y!<3yAP&[E
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_uebung
+10_verbindungsstrukturen_klausur
+checklater
+klausur
+rs::04_uebung
+rs::10_verbindungsstrukturen
+```
+
+## Front
 Was ist die <b>minimale</b> <b>Bisektionsbreite</b>?
 
-### Back
+## Back
 Schneidet man einen Graphen in zwei gleich großen in sich
 zusammenhängende Teile und betrachtet man die Menge der Kanten, die
 diesen Schnitt kreuzen, so bezeichnet man die Kardinalität über die

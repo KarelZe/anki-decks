@@ -1,13 +1,20 @@
-## Note
-nid: 1629719606385
-model: Basic-d7a3e-4ce08
-tags: 04_basisinhalte_vertrag, checklater, ultra
-markdown: false
+# Note
+```
+guid: ugc&-S@OSQ
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_basisinhalte_vertrag
+checklater
+ultra
+```
+
+## Front
 Nennen Sie Basisinhalte eines Vertrags
 
-### Back
+## Back
 <div>
   <div>
     <div>

@@ -1,13 +1,18 @@
-## Note
-nid: 1616829398079
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: y*e#9>>zR!
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was versteht man unter einem <b>Forward</b>?
 
-### Back
+## Back
 Vereinbarung zweier Vertragspartner, den Kontraktgegenstand
 (Basiswert) in einem zukünftigen Zeitpunkt zu einem festgelegten
 Preis (Forwardpreis) zu kaufen (Käufer, long) bzw. zu verkaufen

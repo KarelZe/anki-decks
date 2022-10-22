@@ -1,13 +1,18 @@
-## Note
-nid: 1617003850700
-model: Basic-b122e-20a86
-tags: 10_Cluster_Modularity
-markdown: false
+# Note
+```
+guid: n/pbs48<)4
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+10_Cluster_Modularity
+```
+
+## Front
 Was versteht man unter dem <b>Null-Modell</b>?
 
-### Back
+## Back
 Randomisiertes / unabhängiges Rewiring der Knoten mit
 <div>
   \(\operatorname{degree}(v)=\operatorname{degree}\left(v^{\prime}\right):

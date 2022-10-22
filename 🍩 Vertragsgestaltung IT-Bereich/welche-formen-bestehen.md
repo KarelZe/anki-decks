@@ -1,13 +1,18 @@
-## Note
-nid: 1634834855385
-model: Basic-d7a3e-4ce08
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: erC/21IvmZ
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Welche Formen bestehen?
 
-### Back
+## Back
 <ul>
   <li>Schriftliche Form
   <li>Notarielle Beurkundung

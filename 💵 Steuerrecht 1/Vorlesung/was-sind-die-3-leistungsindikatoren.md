@@ -1,13 +1,18 @@
-## Note
-nid: 1648365019077
-model: Basic-02d89-e0e22
-tags: 01_steuerrecht
-markdown: false
+# Note
+```
+guid: xn4s),gE|v
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+01_steuerrecht
+```
+
+## Front
 Was sind die 3 Leistungsindikatoren?
 
-### Back
+## Back
 <ul>
   <li>Einkommen (Vermögenszugang)
   <li>Vermögen (Konsum- und Investitionsfonds)

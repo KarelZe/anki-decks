@@ -1,13 +1,18 @@
-## Note
-nid: 1581957871181
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: K/>-$YbSm`
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Satz von Cayley
 
-### Back
+## Back
 % Satz 4.1.14<div>
 </div><div>\textbf{Definition} </div><div>
 </div><div>Jede Gruppe $G$ ist isomorph zu einer Untergruppe $Sym(G)$.\\</div><div>

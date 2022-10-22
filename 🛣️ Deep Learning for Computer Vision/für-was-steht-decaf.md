@@ -1,11 +1,16 @@
-## Note
-nid: 1655104714254
-model: Basic-02d89-e0e22
-tags: dl_cv::05_dl_architectures_2
-markdown: false
+# Note
+```
+guid: Q;?w<$HdJ*
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_dl_architectures_2
+```
+
+## Front
 Für was steht DeCAF?
 
-### Back
+## Back
 Deep Convolutional Activation Feature for Generic Visual Recognition

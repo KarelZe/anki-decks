@@ -1,13 +1,18 @@
-## Note
-nid: 1655652560080
-model: Basic-02d89-e0e22
-tags: bda::07_unsupervised_learning
-markdown: false
+# Note
+```
+guid: p<o0!2aAgf
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::07_unsupervised_learning
+```
+
+## Front
 How is the <b>Dunn Index</b> defined?
 
-### Back
+## Back
 \(\operatorname{Dunn}(C)=\frac{\operatorname{Sep}(C)}{\operatorname{Comp}(C)}\)
 
 Separation and Compactness are defined as:

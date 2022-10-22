@@ -1,13 +1,18 @@
-## Note
-nid: 1580156255922
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: Nq9oI:U-7F
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Was ist ein Epimorphismus?
 
-### Back
+## Back
 <div>% Korrolar 3.2.3</div><div>
 </div><div>\textbf{Definition:}</div><div>
 </div>Eine lineare Abbildung heißt ein \textit{Epimorphismus}, falls sie surjektiv ist.<div>

@@ -1,13 +1,18 @@
-## Note
-nid: 1613857252774
-model: Basic-d7a3e-4ce08
-tags: het_rs::09_programmierung
-markdown: false
+# Note
+```
+guid: I)!WJ1*!Zw
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+het_rs::09_programmierung
+```
+
+## Front
 Welches Ziel verfolgt <b>HALadapt</b>?
 
-### Back
+## Back
 <ul>
   <li>Ein einheitlicher Ansatz zur Laufzeitoptimierung und
   Anwendungsentwicklung.

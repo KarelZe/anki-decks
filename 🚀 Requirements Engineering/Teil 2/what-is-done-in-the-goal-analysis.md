@@ -1,13 +1,18 @@
-## Note
-nid: 1653402087401
-model: Basic-02d89-e0e22
-tags: re::re-II::elication
-markdown: false
+# Note
+```
+guid: E#6ZDBJkPY
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::elication
+```
+
+## Front
 What is done in the <b>goal analysis</b>?
 
-### Back
+## Back
 <ul>
   <li>Identify the main goals
   <li>Identify how they relate to each other

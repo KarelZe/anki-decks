@@ -1,11 +1,16 @@
-## Note
-nid: 1655790665667
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: zf,,7Dr}#V
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 Name a <b>usecase </b>for <b>Bi-directional LSTMs</b>.
 
-### Back
+## Back
 Speech recognition.

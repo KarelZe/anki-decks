@@ -1,13 +1,18 @@
-## Note
-nid: 1592230287646
-model: Basic-d7a3e-4ce08
-tags: 04_Architectural_Reuse
-markdown: false
+# Note
+```
+guid: Gi!/|YPY5a
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_Architectural_Reuse
+```
+
+## Front
 Vergleichen Sie <b>Fat-</b> mit <b>Thin Clients</b>
 
-### Back
+## Back
 <div>
   <strong>Thin Client</strong>
 </div>

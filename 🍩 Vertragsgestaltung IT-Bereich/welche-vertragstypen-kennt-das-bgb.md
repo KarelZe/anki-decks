@@ -1,13 +1,19 @@
-## Note
-nid: 1647498337103
-model: Basic-02d89-e0e22
-tags: vertragsgestaltung_it, word_skript
-markdown: false
+# Note
+```
+guid: Ph3@~^rKcO
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+word_skript
+```
+
+## Front
 Welche Vertragstypen kennt das BGB?
 
-### Back
+## Back
 <ul>
   <li>Kaufvertrag
   <li>Werkvertrag

@@ -1,13 +1,18 @@
-## Note
-nid: 1627561787645
-model: Basic-d7a3e-4ce08
-tags: rs::10_verbindungsstrukturen
-markdown: false
+# Note
+```
+guid: QoaEVpC@X:
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::10_verbindungsstrukturen
+```
+
+## Front
 Was charakterisiert ein <b>1-dim. Gitter</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

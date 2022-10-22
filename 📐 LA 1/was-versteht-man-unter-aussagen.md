@@ -1,12 +1,17 @@
-## Note
-nid: 1580142726039
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: uFC5}>LDNN
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was versteht man unter Aussagen?
 
-### Back
+## Back
 Unter einer logischen Aussage verstehen wir einen Ausdruck, von dem
 eindeutig bestimmt ist, ob er wahr oder falsch ist.

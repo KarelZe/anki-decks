@@ -1,13 +1,18 @@
-## Note
-nid: 1580154182604
-model: LaTeX-deb4a
-tags: Basis
-markdown: false
+# Note
+```
+guid: fvreh6,>r}
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Basis
+```
+
+## Front
 Definieren Sie den Begriff Basis.
 
-### Back
+## Back
 <div>% Definition 2.4.3 i. V. m. Satz 2.4.2. Gekürzt weil, Aussagen äquivalent sind. Habe mich für intuitivste entschieden.</div><div>
 </div>\textbf{Verkürzte Definition}<div>
 <div>Eine Teilmenge $B \subseteq V$, für die gilt, dass $B$ ein \textit{minimales} Erzeugendensystem ist, heißt eine \textit{Basis}.</div><div>

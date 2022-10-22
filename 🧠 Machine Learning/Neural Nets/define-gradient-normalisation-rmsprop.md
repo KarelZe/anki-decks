@@ -1,13 +1,19 @@
-## Note
-nid: 1629370781063
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::10_neural_networks
-markdown: false
+# Note
+```
+guid: kA86UaxqOK
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::10_neural_networks
+```
+
+## Front
 Define <b>gradient normalisation</b> / <b>RMSProp</b>.
 
-### Back
+## Back
 \(\begin{aligned} \boldsymbol{g}_{k}
 &=\nabla_{\boldsymbol{\theta}}
 \mathcal{L}\left(\boldsymbol{\theta}_{k}\right) \\

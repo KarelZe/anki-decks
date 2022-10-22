@@ -1,13 +1,19 @@
-## Note
-nid: 1637483709789
-model: Basic-d7a3e-4ce08
-tags: 05_concept_drift, repeat
-markdown: false
+# Note
+```
+guid: n.ekg=_f{M
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_concept_drift
+repeat
+```
+
+## Front
 Explain how the ADWIN algorithm works.
 
-### Back
+## Back
 ADWIN is an adaptive sliding window algorithm for detecting change,
 and keeping updated statistics about a data stream. ADWIN allows
 algorithms not adapted for drifting data, to be resistant to this

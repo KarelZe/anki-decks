@@ -1,13 +1,18 @@
-## Note
-nid: 1652096084987
-model: Basic-02d89-e0e22
-tags: dl_cv::03_nn_basics
-markdown: false
+# Note
+```
+guid: Pp:ftv:j!;
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::03_nn_basics
+```
+
+## Front
 Name <b>possible causes</b> for <b>overfitting</b>.
 
-### Back
+## Back
 <ul>
   <li>unclean training data containing very high degree of noise or
   outliers

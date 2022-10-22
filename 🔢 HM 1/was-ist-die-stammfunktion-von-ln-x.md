@@ -1,11 +1,17 @@
-## Note
-nid: 1597999023087
-model: LaTeX-deb4a
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: fMt>c;0MM.
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Was ist die Stammfunktion von $\ln x$?
 
-### Back
+## Back
 $x \ln (x)-x$

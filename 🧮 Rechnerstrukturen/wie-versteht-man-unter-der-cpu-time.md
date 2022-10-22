@@ -1,11 +1,16 @@
-## Note
-nid: 1620044689914
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: hqk^td9;HQ
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Wie versteht man unter der cpu <b>time</b>?
 
-### Back
+## Back
 Zeit, in der die CPU ein Programm abarbeitet.

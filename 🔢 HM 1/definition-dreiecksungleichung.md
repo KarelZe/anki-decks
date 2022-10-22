@@ -1,11 +1,18 @@
-## Note
-nid: 1586601958008
-model: LaTeX-deb4a
-tags: Reele, wichtig, Zahlen
-markdown: false
+# Note
+```
+guid: kGzzD[<K0e
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Reele
+wichtig
+Zahlen
+```
+
+## Front
 Definition Dreiecksungleichung
 
-### Back
+## Back
 $|a+b| \leq|a|+|b|$, wobei $a, b \in \mathbb{R}$.

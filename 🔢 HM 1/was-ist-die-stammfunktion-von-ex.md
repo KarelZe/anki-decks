@@ -1,11 +1,16 @@
-## Note
-nid: 1597998793110
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: CG#IbW@LBx
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von $e^{x}$?
 
-### Back
+## Back
 $e^{x}$

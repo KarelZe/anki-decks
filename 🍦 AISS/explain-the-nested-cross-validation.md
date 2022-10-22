@@ -1,13 +1,19 @@
-## Note
-nid: 1635929384464
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: I+{51L+,LE
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Explain the <b>nested cross-validation</b>.
 
-### Back
+## Back
 Nested cross validation <b>inner cross validation</b> or <b>outer
 cross validation:</b>
 <div>

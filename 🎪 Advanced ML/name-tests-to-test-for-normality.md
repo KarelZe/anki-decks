@@ -1,13 +1,18 @@
-## Note
-nid: 1619717566295
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: tiGXl)wki;
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 Name tests to test for normality.
 
-### Back
+## Back
 <div>
   <div>
     <ol>

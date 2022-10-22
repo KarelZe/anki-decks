@@ -1,13 +1,18 @@
-## Note
-nid: 1635434734781
-model: Basic-d7a3e-4ce08
-tags: vertragsgestaltung_it
-markdown: false
+# Note
+```
+guid: Lq[[}z{z<Y
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+vertragsgestaltung_it
+```
+
+## Front
 Wann liegt <b>Individualsoftware</b> vor?
 
-### Back
+## Back
 Individualsoftware ist die Lieferung einer speziell auf die
 Bedürfnisse des Kunden zugeschnittene Individuallösung und
 Überlassung dieser auf Dauer.

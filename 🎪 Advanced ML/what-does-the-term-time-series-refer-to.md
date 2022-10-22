@@ -1,12 +1,17 @@
-## Note
-nid: 1621757629539
-model: Basic-d7a3e-4ce08
-tags: 11_lecture
-markdown: false
+# Note
+```
+guid: t&#`mV3@1l
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+11_lecture
+```
+
+## Front
 What does the term time series refer to?
 
-### Back
+## Back
 A time series in a <b>sequence of numbers</b> that are <b>ordered
 by time</b>.

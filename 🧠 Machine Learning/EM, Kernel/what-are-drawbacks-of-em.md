@@ -1,13 +1,17 @@
-## Note
-nid: 1631076475862
-model: Basic-d7a3e-4ce08
-tags: ml::06_em_for_dim_reduction
-markdown: false
+# Note
+```
+guid: EFYR<J)XzD
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::06_em_for_dim_reduction
+```
+
+## Front
 What are drawbacks of EM?
 
-### Back
+## Back
 EM is very sensitive to initialization.
-<div><img src=
-"paste-b25c84dba80be779a94954f124f451382d05c4fd.jpg"></div>
+<div><img src="paste-b25c84dba80be779a94954f124f451382d05c4fd.jpg"></div>

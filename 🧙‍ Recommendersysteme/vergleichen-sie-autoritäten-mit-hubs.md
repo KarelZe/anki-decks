@@ -1,13 +1,18 @@
-## Note
-nid: 1616242033939
-model: Basic-b122e-20a86
-tags: 12_relevante_objekte_empfehlen
-markdown: false
+# Note
+```
+guid: eNR%YV[DRF
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+12_relevante_objekte_empfehlen
+```
+
+## Front
 Vergleichen Sie <b>Autoritäten</b> mit <b>Hubs</b>
 
-### Back
+## Back
 <div>
   <strong>Authoritäten</strong>
 </div>

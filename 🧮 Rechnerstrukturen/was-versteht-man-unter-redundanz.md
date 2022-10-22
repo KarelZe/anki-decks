@@ -1,11 +1,16 @@
-## Note
-nid: 1620911805465
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: (fj([9ld,
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Was versteht man unter <b>Redundanz</b>?
 
-### Back
+## Back
 Zusätzlich zu den für den Normalbetrieb notwendigen Ressourcen sind weitere vorhanden als Reserve.

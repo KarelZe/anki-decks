@@ -1,13 +1,19 @@
-## Note
-nid: 1592744110595
-model: Basic-d7a3e-4ce08
-tags: 05_modelling_quality, performance
-markdown: false
+# Note
+```
+guid: O[(l7g:2@G
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_modelling_quality
+performance
+```
+
+## Front
 Was ist ein <b>Resource Demand</b>?
 
-### Back
+## Back
 <b>Resource Demands</b> beschreibt die Menge der Ressourcen, die
 gebraucht wird, um eine interne Aktion in einer Software-Komponente
 auszuführen.

@@ -1,13 +1,19 @@
-## Note
-nid: 1640865595184
-model: Basic-02d89-e0e22
-tags: 06_systemwide_learning, repeat
-markdown: false
+# Note
+```
+guid: ugS0&BB{]>
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+06_systemwide_learning
+repeat
+```
+
+## Front
 What is <b>meta machine learning</b>?
 
-### Back
+## Back
 A learning subsystem that adapts with <b>experience</b>. 
 
 Experience is gained by <b>exploiting metaknowledge</b> from previous learning scenarios on a single dataset and / or from different domains or problems.

@@ -1,13 +1,18 @@
-## Note
-nid: 1613852827023
-model: Basic-d7a3e-4ce08
-tags: het_rs::09_programmierung
-markdown: false
+# Note
+```
+guid: HYvJ8R`?rW
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+het_rs::09_programmierung
+```
+
+## Front
 Was ist <b>HALadapt</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

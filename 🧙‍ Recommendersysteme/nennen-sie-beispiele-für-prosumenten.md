@@ -1,13 +1,18 @@
-## Note
-nid: 1587487225409
-model: Basic-b122e-20a86
-tags: 01_einfuehrung
-markdown: false
+# Note
+```
+guid: k{.kkVbu/t
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+01_einfuehrung
+```
+
+## Front
 Nennen Sie <b>Beispiele</b> für <b>Prosumenten</b>.
 
-### Back
+## Back
 <div>
 <div><ul>
 <li>Selbstbedienungstankstelle</li>

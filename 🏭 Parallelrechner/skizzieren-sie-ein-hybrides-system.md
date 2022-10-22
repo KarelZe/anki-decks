@@ -1,11 +1,16 @@
-## Note
-nid: 1602348842429
-model: Basic-b122e-20a86
-tags: 3_4_prozesse_threads
-markdown: false
+# Note
+```
+guid: d.HY,cGf>U
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_4_prozesse_threads
+```
+
+## Front
 Skizzieren Sie ein hybrides System
 
-### Back
+## Back
 <img src="paste-e15edf3c858634473c0f104b7fdbc6b6c38c1ff7.jpg">

@@ -1,13 +1,19 @@
-## Note
-nid: 1636472262116
-model: Basic-d7a3e-4ce08
-tags: 04_deployment, repeat
-markdown: false
+# Note
+```
+guid: FyWLp>i]E7
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+repeat
+```
+
+## Front
 What are the <b>advantages</b> of <b>containers</b>?
 
-### Back
+## Back
 <ul>
   <li><strong>Portability 🛥️:</strong> of containers are given
   because container contains every dependency and configuration.

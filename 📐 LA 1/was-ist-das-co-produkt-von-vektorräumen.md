@@ -1,13 +1,18 @@
-## Note
-nid: 1580147361844
-model: LaTeX-deb4a
-tags: Vektorraum
-markdown: false
+# Note
+```
+guid: s8FX*4CACz
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Vektorraum
+```
+
+## Front
 Was ist das Co-Produkt von Vektorräumen?
 
-### Back
+## Back
 <div>% Beispiel 2.3.12</div><div>
 </div><div>\textbf{Definition}</div><div>
 </div>Sei I eine nicht-leere Menge und $V_i$ ein Vektorraum für jedes $i \in I$, so definieren wir: <div>

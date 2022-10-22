@@ -1,11 +1,16 @@
-## Note
-nid: 1651480232849
-model: Basic-02d89-e0e22
-tags: dl_cv::02_basics_nn
-markdown: false
+# Note
+```
+guid: rmXxBXyfXC
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::02_basics_nn
+```
+
+## Front
 Define the <b>Sigmoid function</b>.
 
-### Back
+## Back
 \(\sigma(x)=1 /\left(1+e^{-x}\right)\)

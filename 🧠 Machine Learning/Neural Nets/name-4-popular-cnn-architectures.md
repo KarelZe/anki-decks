@@ -1,13 +1,18 @@
-## Note
-nid: 1629265592381
-model: Basic-d7a3e-4ce08
-tags: ml::11_rnns
-markdown: false
+# Note
+```
+guid: :$jlqY3E2
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::11_rnns
+```
+
+## Front
 Name 4 popular <b>CNN architectures</b>.
 
-### Back
+## Back
 <div>
   <div>
     <ul>

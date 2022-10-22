@@ -1,11 +1,16 @@
-## Note
-nid: 1580163059201
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: oCP7}@zXhw
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wann heißt eine Halbgruppe abelsch?
 
-### Back
+## Back
 Eine Halbgruppe heißt abelsch oder kommutativ, falls $\forall x,y \in G: xy = yx$.

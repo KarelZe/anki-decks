@@ -1,11 +1,15 @@
-## Note
-nid: 1586765039622
-model: LaTeX-deb4a
-tags: 
-markdown: false
+# Note
+```
+guid: b^3~cP:WHJ
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+```
+
+## Front
 Was ist die Ableitung des Sinus?
 
-### Back
+## Back
 $(\sin x)^{\prime}=\sum_{n=0}^{\infty}(-1)^{n} \frac{(2 n+1) x^{2 n}}{(2 n+1) !}=\sum_{n=0}^{\infty}(-1)^{n} \frac{x^{2 n}}{(2 n) !}=\cos x$.

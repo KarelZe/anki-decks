@@ -1,13 +1,18 @@
-## Note
-nid: 1620073337766
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: FV3A0A)oIs
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Wie arbeiten Zyklen genaue Simulatoren?
 
-### Back
+## Back
 <div>
   <div>
     <ul>
@@ -18,5 +23,4 @@ Wie arbeiten Zyklen genaue Simulatoren?
     </ul>
   </div>
 </div>
-<div><img src=
-"paste-08fc8850c14331b8a4080ae46a8a2e1dec08b63d.jpg"></div>
+<div><img src="paste-08fc8850c14331b8a4080ae46a8a2e1dec08b63d.jpg"></div>

@@ -1,13 +1,18 @@
-## Note
-nid: 1653298990720
-model: Basic-02d89-e0e22
-tags: dl_cv::05_object_detection
-markdown: false
+# Note
+```
+guid: I0Ew!|T/#_
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_object_detection
+```
+
+## Front
 Explain the <b>training</b> of the <b>R-CNN</b>.
 
-### Back
+## Back
 <ol>
   <li>Train AlexNet on ImageNet (1000 classes)
   <li>Reinitialize last layers to a different dimension (depending

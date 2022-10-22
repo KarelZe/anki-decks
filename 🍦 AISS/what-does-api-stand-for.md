@@ -1,11 +1,16 @@
-## Note
-nid: 1636444033001
-model: Basic-d7a3e-4ce08
-tags: 04_deployment
-markdown: false
+# Note
+```
+guid: p6Cl8Pa({-
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+```
+
+## Front
 What does <b>API</b> stand for?
 
-### Back
+## Back
 Application Programming Interface.

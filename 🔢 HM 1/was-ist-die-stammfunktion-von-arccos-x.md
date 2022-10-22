@@ -1,11 +1,16 @@
-## Note
-nid: 1597999536291
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: d4gMyg=>8I
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von $\arccos x$?
 
-### Back
+## Back
 $x \arccos x-\sqrt{1-x^{2}}$

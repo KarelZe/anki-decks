@@ -1,13 +1,21 @@
-## Note
-nid: 1605018411390
-model: Basic-d7a3e-4ce08
-tags: 04_uebung, 06_programmiermodelle, 09_para_prozess_block, rs::04_uebung
-markdown: false
+# Note
+```
+guid: e@jOtbZQbe
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_uebung
+06_programmiermodelle
+09_para_prozess_block
+rs::04_uebung
+```
+
+## Front
 <p><span>Was ist ein Programmiermodell?</span>
 
-### Back
+## Back
 <ul>
   <li>Abstraktion einer parallelen Maschine, auf welcher der
   Anwender sein Programm formuliert.

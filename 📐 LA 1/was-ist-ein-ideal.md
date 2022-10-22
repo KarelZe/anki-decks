@@ -1,13 +1,19 @@
-## Note
-nid: 1580143363973
-model: LaTeX-deb4a
-tags: Körper, Ringe
-markdown: false
+# Note
+```
+guid: p[3WozrXa4
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Körper
+Ringe
+```
+
+## Front
 Was ist ein Ideal?
 
-### Back
+## Back
 <div>% Bemerkung 4.27</div><div>% gekürzt analog <a href="https://de.wikipedia.org/wiki/Ideal_(Ringtheorie)">https://de.wikipedia.org/wiki/Ideal_(Ringtheorie)</a>
 </div><div>
 </div><div>\textbf{Definition (gekürzt)}</div><div>

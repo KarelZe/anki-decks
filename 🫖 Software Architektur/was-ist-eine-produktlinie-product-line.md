@@ -1,14 +1,21 @@
-## Note
-nid: 1592413985824
-model: Basic-d7a3e-4ce08
-tags: 04_Architectural_Reuse, architecture, architecture_4
-markdown: false
+# Note
+```
+guid: mt%@e/=1Q^
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_Architectural_Reuse
+architecture
+architecture_4
+```
+
+## Front
 Was ist eine <b>Produktlinie</b> <i style="">(product
 line)</i><b>?</b>
 
-### Back
+## Back
 <div>
   Ein Produktlinien-Ansatz erlaubt die geplante,
   Architektur-zentriere, organisations-übergreifende

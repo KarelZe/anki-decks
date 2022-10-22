@@ -1,13 +1,18 @@
-## Note
-nid: 1580142872315
-model: LaTeX-deb4a
-tags: Logik
-markdown: false
+# Note
+```
+guid: qY@WaQAm0^
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Logik
+```
+
+## Front
 Was sind Produkte von Mengen?
 
-### Back
+## Back
 Sei $I$ eine Menge und für jedes $i \in I$ sei $X_{i}$ eine Menge. Dann heißt
 $$
 \prod_{i \in I} X_{i}:=\left\{f: I \rightarrow \bigcup_{i \in I} X_{i} | \forall i \in I: f(i) \in X_{i}\right\}

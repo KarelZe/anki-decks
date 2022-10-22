@@ -1,13 +1,19 @@
-## Note
-nid: 1637484022921
-model: Basic-d7a3e-4ce08
-tags: 05_concept_drift, repeat
-markdown: false
+# Note
+```
+guid: dKme!dRaih
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_concept_drift
+repeat
+```
+
+## Front
 How does the Page-Hinkley Test works?
 
-### Back
+## Back
 This change detection method works by computing the observed values
 and their mean up to the current moment. It is a variant of the
 cumulative sum. Test for change is based on the Page-Hinkley Test.

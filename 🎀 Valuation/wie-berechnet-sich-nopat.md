@@ -1,11 +1,16 @@
-## Note
-nid: 1614615580102
-model: Basic-d7a3e-4ce08
-tags: 01_uebung
-markdown: false
+# Note
+```
+guid: HCcKvhTrt6
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_uebung
+```
+
+## Front
 Wie berechnet sich <b>NOPAT</b>?
 
-### Back
+## Back
 NOPAT = EBIT (1-T) = EAT + Interestexpenses (1-T)

@@ -1,13 +1,20 @@
-## Note
-nid: 1637143021664
-model: Basic-d7a3e-4ce08
-tags: 04_Architectural_Reuse, architecture, architecture_4
-markdown: false
+# Note
+```
+guid: Jh+{O~M7Up
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_Architectural_Reuse
+architecture
+architecture_4
+```
+
+## Front
 Was ist die Idee des Architekturstils?
 
-### Back
+## Back
 Ein Architekturstil ist eine benannte Sammlung an
 Architektur-Designentscheidungen, die anwendbar auf einen gegebenen
 Entwicklungskontext sind. Ein Architekturstil schränkt den
@@ -36,5 +43,4 @@ Entwurfsraum ein.
 <div>
   <b>Vergleich Architekturmuster und Stil:</b>
 </div>
-<div><img src=
-"paste-104adc15626085620b1e3810cfdbf7fcbcfe4072.jpg"></div>
+<div><img src="paste-104adc15626085620b1e3810cfdbf7fcbcfe4072.jpg"></div>

@@ -1,11 +1,17 @@
-## Note
-nid: 1636534959567
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: e={D0z-wv=
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Define <b>Sensitivity / Recall</b>.
 
-### Back
+## Back
 \(\text { Sensitivity/Recall := } \frac{T P}{(T P+F N)}\)

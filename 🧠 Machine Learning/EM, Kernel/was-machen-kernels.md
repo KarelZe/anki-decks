@@ -1,13 +1,18 @@
-## Note
-nid: 1610196121036
-model: Basic-d7a3e-4ce08
-tags: ml::07_kernel_methods
-markdown: false
+# Note
+```
+guid: kC`>ZWH{L(
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::07_kernel_methods
+```
+
+## Front
 Was machen <b>kernels</b>?
 
-### Back
+## Back
 Kernels messen die Ähnlichkeit zwischen zwei Samples.
 <div>
   <b>Beispiel:</b>

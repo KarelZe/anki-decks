@@ -1,13 +1,18 @@
-## Note
-nid: 1617522756091
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: i0ZL5Wd<d`
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Wie ist <b>Fehlertoleranz</b> definiert?
 
-### Back
+## Back
 Fehlertoleranz bezeichnet die Fähigkeit eines Systems, auch mit
 einer begrenzten Anzahl fehlerhafter Subsysteme die spezifizierte
 Funktion (bzw. den geforderten Dienst) zu erbringen.

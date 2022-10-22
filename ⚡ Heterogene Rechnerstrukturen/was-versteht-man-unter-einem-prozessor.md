@@ -1,13 +1,19 @@
-## Note
-nid: 1603539861805
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung, rs::04_uebung
-markdown: false
+# Note
+```
+guid: cwT#,jK}*8
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+rs::04_uebung
+```
+
+## Front
 <p>Was versteht man unter einem <b>Prozessor</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

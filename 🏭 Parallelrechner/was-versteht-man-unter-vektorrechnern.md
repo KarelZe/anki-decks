@@ -1,13 +1,18 @@
-## Note
-nid: 1588162721796
-model: Basic-b122e-20a86
-tags: Einführung
-markdown: false
+# Note
+```
+guid: e4DO>UK7[?
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Einführung
+```
+
+## Front
 Was versteht man unter <b>Vektorrechnern</b>?
 
-### Back
+## Back
 Rechner, dessen Rechenwerk aus mindestens einer
 pipelineartig aufgebauten Funktionseinheit zur <b>Verarbeitung von
 Arrays (Vektoren)</b> von Gleitpunktzahlen besteht. Eine solche

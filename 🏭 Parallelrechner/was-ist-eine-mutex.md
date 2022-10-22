@@ -1,11 +1,16 @@
-## Note
-nid: 1602347232731
-model: Basic-b122e-20a86
-tags: Eigene
-markdown: false
+# Note
+```
+guid: CO9Z`c&GYh
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist eine <i>mutex</i>?
 
-### Back
+## Back
 Eine binäre Semaphore

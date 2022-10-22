@@ -1,13 +1,18 @@
-## Note
-nid: 1629951257366
-model: Basic-d7a3e-4ce08
-tags: 03_agb
-markdown: false
+# Note
+```
+guid: oVXs.M=inY
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_agb
+```
+
+## Front
 Welches <b>Problem</b> besteht bei <b>AGB</b>?
 
-### Back
+## Back
 <ul>
   <li>Mit Verwendung von AGB entsteht ein Ungleichgewicht zwischen
   dem Vertragspartner, der AGB vorgibt und dem der die AGB

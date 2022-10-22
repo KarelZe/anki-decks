@@ -1,13 +1,18 @@
-## Note
-nid: 1620318782050
-model: Basic-d7a3e-4ce08
-tags: 05_vorlesung
-markdown: false
+# Note
+```
+guid: wq-[~6hHLs
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+05_vorlesung
+```
+
+## Front
 What is the central idea of <b>Bootstrap</b>?
 
-### Back
+## Back
 Bootstrap is a flexible and powerful statistical tool that can be
 used to quantify the uncertainty associated with a given estimator
 or statistical learning method.

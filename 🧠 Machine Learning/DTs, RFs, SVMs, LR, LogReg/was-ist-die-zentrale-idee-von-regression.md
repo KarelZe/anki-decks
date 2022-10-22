@@ -1,13 +1,18 @@
-## Note
-nid: 1605359130565
-model: Basic-d7a3e-4ce08
-tags: ml::01_linear_regression
-markdown: false
+# Note
+```
+guid: yDmElsXZHp
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::01_linear_regression
+```
+
+## Front
 <p>Was ist die <b>zentrale Idee</b> von <b>Regression</b>?
 
-### Back
+## Back
 <p>Eine stetige Funktion erlernen:
 <p>\(y=f(x)+\epsilon\)
 <p>Epsilon ist dabei ein Fehlerterm, von dem ausgegangen wird, dass

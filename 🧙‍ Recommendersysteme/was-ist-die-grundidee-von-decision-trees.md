@@ -1,13 +1,18 @@
-## Note
-nid: 1593350186903
-model: Basic-b122e-20a86
-tags: 09_decision_trees
-markdown: false
+# Note
+```
+guid: h:A8Kv&kgf
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+09_decision_trees
+```
+
+## Front
 Was ist die <b>Grundidee</b> von <b>Decision Trees</b>?
 
-### Back
+## Back
 Es gibt eine Reihe von <b>beobachteten (diskrete)
 Inputvariablen.</b>
 <div>

@@ -1,0 +1,25 @@
+# Note
+```
+guid: QOU5feMh@1
+notetype: Basic-d7a3e-4ce08
+```
+
+### Tags
+```
+ml::09_bayesian_learning
+```
+
+## Front
+Give a <b>definition</b> of the <b>Gaussian Process</b>.
+
+## Back
+\(f(\boldsymbol{x}) \sim \mathcal{G}
+\mathcal{P}(\underbrace{m(\boldsymbol{x})}_{\text {mean function
+}}, \underbrace{k\left(\boldsymbol{x},
+\boldsymbol{x}^{\prime}\right)}_{\text {covariance function }})\)
+<div>
+  is a probability distribution over functions \(f(x)\), such that
+  any finite set of cuntion values \(t_{i}=f\left(x_{i}\right)\)
+  evaluated at inputs \(\boldsymbol{x}_{1}, \ldots,
+  \boldsymbol{x}_{n}\) is jointly Gaussian distributed.
+</div>

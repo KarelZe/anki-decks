@@ -1,13 +1,20 @@
-## Note
-nid: 1629951385011
-model: Basic-d7a3e-4ce08
-tags: 03_agb, checklater, ultra
-markdown: false
+# Note
+```
+guid: i)kr;?kdNg
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_agb
+checklater
+ultra
+```
+
+## Front
 Wie prüft man AGB?
 
-### Back
+## Back
 <ol>
   <li>Eröffnung <strong>Anwendungsbereich der AGB</strong>
     <ul>

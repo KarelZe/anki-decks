@@ -1,13 +1,18 @@
-## Note
-nid: 1652108477980
-model: Basic-02d89-e0e22
-tags: dl_cv::03_nn_basics
-markdown: false
+# Note
+```
+guid: ttJU@l#*5%
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::03_nn_basics
+```
+
+## Front
 Explain <b>drop-out</b>.
 
-### Back
+## Back
 <b>Training:</b> in each iteration, ignore (zero out) a random
 fraction \(p\) of the nodes (and corresponding activations).
 <b>Testing:</b> Deactivate drop-out. Alternatively multiply

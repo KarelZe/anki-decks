@@ -1,13 +1,18 @@
-## Note
-nid: 1620064328654
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: rE2gb?&v9a
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Was sind <b>Simulatoren</b>?
 
-### Back
+## Back
 Ein Simulator modelliert die wesentlichen Eigenschaften oder das
 Verhalten einer Zielmaschine.
 <div>

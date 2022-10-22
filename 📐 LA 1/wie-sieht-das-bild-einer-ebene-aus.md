@@ -1,11 +1,17 @@
-## Note
-nid: 1580156298267
-model: LaTeX-deb4a
-tags: aussortiert, Basis
-markdown: false
+# Note
+```
+guid: d0?5.e7=tQ
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+aussortiert
+Basis
+```
+
+## Front
 Wie sieht das Bild einer Ebene aus?
 
-### Back
+## Back
 

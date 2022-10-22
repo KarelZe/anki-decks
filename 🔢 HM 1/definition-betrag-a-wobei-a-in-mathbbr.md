@@ -1,0 +1,17 @@
+# Note
+```
+guid: H*hOoN_^q9
+notetype: LaTeX-deb4a
+```
+
+### Tags
+```
+Reele
+Zahlen
+```
+
+## Front
+Definition Betrag $|a|$, wobei $a \in \mathbb{R}$
+
+## Back
+Für $a \in \mathbb{R}$ heißt $|a|:=\left\{\begin{aligned} a, & \text { falls } a \geq 0 \\-a, & \text { falls } a<0 \end{aligned} \text { der Betrag von } a\right.$

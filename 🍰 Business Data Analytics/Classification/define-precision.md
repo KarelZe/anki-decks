@@ -1,11 +1,16 @@
-## Note
-nid: 1653714342937
-model: Basic-02d89-e0e22
-tags: bda::02_classification
-markdown: false
+# Note
+```
+guid: t;D+mR}MSW
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::02_classification
+```
+
+## Front
 Define precision.
 
-### Back
+## Back
 \(\text { Precision := } \frac{T P}{(T P+F P)}\)

@@ -1,13 +1,18 @@
-## Note
-nid: 1583766780927
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: eF#uPmY{Iu
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist ein Repräsentantensystem?
 
-### Back
+## Back
 Wir nennen eine Teilmenge $R \subseteq M$ ein Repräsentantensystem für $\mathcal{P}$, falls
 $$
 \forall A \in \mathcal{P}:|A \cap R|=1.

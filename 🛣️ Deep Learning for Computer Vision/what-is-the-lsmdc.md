@@ -1,13 +1,18 @@
-## Note
-nid: 1656319704366
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: N^].yNGhxs
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 What is the <b>LSMDC</b>?
 
-### Back
+## Back
 Stands for Large Scale Movie Description Challenge.
 
 Challenge in Video Captioning.

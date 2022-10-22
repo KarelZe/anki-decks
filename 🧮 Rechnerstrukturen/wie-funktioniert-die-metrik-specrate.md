@@ -1,13 +1,18 @@
-## Note
-nid: 1620107427364
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: D#D%y/ZT7.
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Wie funktioniert die Metrik <b>SPECrate</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

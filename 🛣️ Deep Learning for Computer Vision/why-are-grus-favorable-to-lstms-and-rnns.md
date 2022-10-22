@@ -1,13 +1,18 @@
-## Note
-nid: 1655791017367
-model: Basic-02d89-e0e22
-tags: dl_cv::08_rnn
-markdown: false
+# Note
+```
+guid: olM1tI_Zi?
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::08_rnn
+```
+
+## Front
 Why are <b>GRUs</b> favorable to <b>LSTMs</b> and <b>RNNs</b>?
 
-### Back
+## Back
 GRU has a much lower number of parameters.
 
 <b>Comparison:</b>

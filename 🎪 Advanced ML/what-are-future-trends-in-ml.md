@@ -1,13 +1,18 @@
-## Note
-nid: 1619449313880
-model: Basic-d7a3e-4ce08
-tags: 01_introduction
-markdown: false
+# Note
+```
+guid: uO5xLzh6%B
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+```
+
+## Front
 What are Future Trends in ML?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

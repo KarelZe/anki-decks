@@ -1,13 +1,18 @@
-## Note
-nid: 1656326102232
-model: Basic-02d89-e0e22
-tags: ml::12_var_ae
-markdown: false
+# Note
+```
+guid: dQLwJsN|xN
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+ml::12_var_ae
+```
+
+## Front
 Why autoencoders?
 
-### Back
+## Back
 <ul>
   <li>Map high-dimensional data to two dimensions for
   visualization. Compression (i.e. reducing the file size; Requires

@@ -1,13 +1,18 @@
-## Note
-nid: 1631169681617
-model: Basic-d7a3e-4ce08
-tags: ml::09_bayesian_learning
-markdown: false
+# Note
+```
+guid: ohu,h54%&-
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::09_bayesian_learning
+```
+
+## Front
 What are two common <b>covariance functions</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

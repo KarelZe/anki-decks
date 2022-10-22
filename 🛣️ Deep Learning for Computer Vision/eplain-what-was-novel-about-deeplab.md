@@ -1,13 +1,18 @@
-## Note
-nid: 1655736477404
-model: Basic-02d89-e0e22
-tags: dl_cv::07_image_seg
-markdown: false
+# Note
+```
+guid: GURDxgdNOV
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::07_image_seg
+```
+
+## Front
 Eplain what was novel about <b>Deeplab</b>.
 
-### Back
+## Back
 <ul>
   <li>Atrous spatial pyramid pooling
   <li>atrous (dilated) convolution

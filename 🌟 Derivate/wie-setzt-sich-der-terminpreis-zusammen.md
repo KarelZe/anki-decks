@@ -1,11 +1,16 @@
-## Note
-nid: 1618252774013
-model: Basic-d7a3e-4ce08
-tags: derivate::02_grundidee
-markdown: false
+# Note
+```
+guid: G709@%OF^*
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::02_grundidee
+```
+
+## Front
 Wie setzt sich der <b>Terminpreis</b> zusammen?
 
-### Back
+## Back
 Terminpreis = Kassapreis + Haltekosten (Kreditzinsen, Lagerkosten, etc.) - Halteerträge (Dividende, Zinserträge, etc.)

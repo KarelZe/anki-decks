@@ -1,13 +1,18 @@
-## Note
-nid: 1656317051636
-model: Basic-02d89-e0e22
-tags: dl_cv::misc
-markdown: false
+# Note
+```
+guid: nm;8G;3e.y
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::misc
+```
+
+## Front
 Explain how <b>METEOR</b> works?
 
-### Back
+## Back
 Combine precision and recall. <b>Example:</b> Hyp: on the mat sat
 the cat Ref: the cat sat on the mat Unigram precision = 1, recall =
 1 \(F_{\text{mean}} = (10\times P \times R) / (R + 9P) = 1\)

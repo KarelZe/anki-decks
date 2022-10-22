@@ -1,11 +1,16 @@
-## Note
-nid: 1597999845938
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: vpGYP9t,(e
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von $\tanh x$?
 
-### Back
+## Back
 $\ln \cosh x$

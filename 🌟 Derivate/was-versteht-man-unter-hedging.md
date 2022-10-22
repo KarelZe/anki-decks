@@ -1,13 +1,18 @@
-## Note
-nid: 1616830916811
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: i:X(85bjt>
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Was versteht man unter <b>Hedging</b>?
 
-### Back
+## Back
 Reduktion des Risikos einer bestehenden oder zukünftig aufbauenden
 Kassaposition z. B. Investor befürchtet Kursrückgang für eine
 seiner Aktien.

@@ -1,13 +1,18 @@
-## Note
-nid: 1604143938125
-model: Basic-d7a3e-4ce08
-tags: 01_introduction
-markdown: false
+# Note
+```
+guid: zF_vv{O!8|
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+```
+
+## Front
 <p>Was versteht man unter dem Begriff <b>Value</b>?
 
-### Back
+## Back
 <p>Value: Wannimmer eine Firma einen Output produziert, oder eine
 Menge an Outputs, der von Kunden zu einem höheren Wert bewertet
 wird, als der Gegenwert der Inputs, die konsumiert (wie bewertet

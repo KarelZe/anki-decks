@@ -1,13 +1,18 @@
-## Note
-nid: 1586721101503
-model: LaTeX-deb4a
-tags: wichtig
-markdown: false
+# Note
+```
+guid: r_<]]jRB@?
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+wichtig
+```
+
+## Front
 6 wichtige Eigenschaften des Logarithmus
 
-### Back
+## Back
 \begin{enumerate}
 \item $\log 1=0, \log e=1$
 \item $\log :(0, \infty) \rightarrow \mathbb{R}$ ist stetig und streng monoton wachsend;

@@ -1,13 +1,18 @@
-## Note
-nid: 1613217374608
-model: Basic-d7a3e-4ce08
-tags: 04_koheraenz
-markdown: false
+# Note
+```
+guid: lrjud[-oAz
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_koheraenz
+```
+
+## Front
 Was sind <b>Spin Locks</b>?
 
-### Back
+## Back
 Ein Sperrmechanismus, der ständig versucht Lock durch einen Prozess
 zu aquirieren.
 <div>

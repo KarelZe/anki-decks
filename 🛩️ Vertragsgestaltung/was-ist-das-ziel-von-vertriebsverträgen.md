@@ -1,11 +1,16 @@
-## Note
-nid: 1629551131771
-model: Basic-d7a3e-4ce08
-tags: 01_ueberblick_einfuehrung
-markdown: false
+# Note
+```
+guid: FU0zzI(${j
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_ueberblick_einfuehrung
+```
+
+## Front
 Was ist das Ziel von <b>Vertriebsverträgen</b>?
 
-### Back
+## Back
 Ziel ist der Verkauf.

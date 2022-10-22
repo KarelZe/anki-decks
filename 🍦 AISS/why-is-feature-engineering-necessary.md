@@ -1,13 +1,18 @@
-## Note
-nid: 1635320372863
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation
-markdown: false
+# Note
+```
+guid: 2P%(Jp#}y
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+```
+
+## Front
 Why is <b>Feature Engineering</b> necessary?
 
-### Back
+## Back
 Some features e. g. text are not processible by all ML algorithms.
 <div>
   Possible better performance, as it reveals the underlying

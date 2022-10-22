@@ -1,13 +1,18 @@
-## Note
-nid: 1653670781783
-model: Basic-02d89-e0e22
-tags: bda::05_neural_networks
-markdown: false
+# Note
+```
+guid: bkIk?g`RxP
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::05_neural_networks
+```
+
+## Front
 What are the <b>components</b> of a <b>LSTM cell</b>.
 
-### Back
+## Back
 \(g_t\) as in simple RNN cell looks at previous input and state,
 but partially stored long-term memory. <b>Forget Gate:</b> controls
 which part of long-term memory should be erased. <b>Input (update)
@@ -23,5 +28,4 @@ o}^{\mathrm{T}} \cdot h_{t-1}+b_{o}\right) \\ g_{t} &=\tanh
 \left(W_{x g}^{\mathrm{T}} \cdot x_{t}+W_{h g}^{\mathrm{T}} \cdot
 h_{t-1}+b_{g}\right) \\ c_{t} &=f_{t} \otimes c_{t-1}+u_{t}
 \otimes g_{t} \\ y_{t} &=h_{t}=o_{t} \otimes \tanh
-\left(c_{t}\right) \end{aligned}\] <b>Visualization:</b> <img src= 
-"paste-8988fb076cf22753afa5423fc11dd9c9a244760b.png">
+\left(c_{t}\right) \end{aligned}\] <b>Visualization:</b> <img src="paste-8988fb076cf22753afa5423fc11dd9c9a244760b.png">

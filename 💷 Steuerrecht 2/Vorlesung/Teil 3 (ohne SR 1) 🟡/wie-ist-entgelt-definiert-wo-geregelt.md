@@ -1,13 +1,19 @@
-## Note
-nid: 1659672760491
-model: Basic-02d89-e0e22
-tags: SR_2, SR_2::SR-2-V::SR_2_V-1
-markdown: false
+# Note
+```
+guid: z0Wtrcy_j(
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+SR_2
+SR_2::SR-2-V::SR_2_V-1
+```
+
+## Front
 Wie ist <b>Entgelt</b> definiert? Wo geregelt?
 
-### Back
+## Back
 Entgelt ist:
 <ul>
   <li>alles, was der Leistungsempfänger aufwendet, um die Leistung

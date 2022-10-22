@@ -1,11 +1,16 @@
-## Note
-nid: 1620898396843
-model: Basic-d7a3e-4ce08
-tags: adv_ml::09_lecture
-markdown: false
+# Note
+```
+guid: zu8/xzBGb;
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+adv_ml::09_lecture
+```
+
+## Front
 What is a hyperplane in 2-d space \((p=2)\).
 
-### Back
+## Back
 A line.

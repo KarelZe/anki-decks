@@ -1,13 +1,18 @@
-## Note
-nid: 1653325760549
-model: Basic-02d89-e0e22
-tags: dl_cv::04_dl_architectures_1
-markdown: false
+# Note
+```
+guid: wT_IJ4>fve
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::04_dl_architectures_1
+```
+
+## Front
 Name some <b>characteristics</b> of <b>AlexNet</b>.
 
-### Back
+## Back
 <ul>
   <li>First use of ReLU
   <li>Use of Norm layers

@@ -1,13 +1,19 @@
-## Note
-nid: 1620073216835
-model: Basic-d7a3e-4ce08
-tags: checklater, derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: f>atiZ2zna
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+derivate::03_bewertung
+```
+
+## Front
 Wie arbeiten <b>funktionale Simulatoren</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

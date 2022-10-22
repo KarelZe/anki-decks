@@ -1,13 +1,18 @@
-## Note
-nid: 1627887367905
-model: Basic-d7a3e-4ce08
-tags: 06_para_maschinenbefehl
-markdown: false
+# Note
+```
+guid: p/=af$r5;2
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+06_para_maschinenbefehl
+```
+
+## Front
 Wie arbeitet ein <b>Zwei-Bit Prädikator</b>?
 
-### Back
+## Back
 Ein Zwei-Bit-Prädikator hat zwei Bits pro Eintrag für die Kodierung
 der Vorhersage.
 <div>

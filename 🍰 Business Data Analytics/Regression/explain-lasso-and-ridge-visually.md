@@ -1,13 +1,18 @@
-## Note
-nid: 1653732425088
-model: Basic-02d89-e0e22
-tags: bda::04_regression
-markdown: false
+# Note
+```
+guid: Gbdi<4Go<_
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::04_regression
+```
+
+## Front
 Explain LASSO and Ridge visually.
 
-### Back
+## Back
 <img src="paste-36b75ef2b8714af76a8cc9ba15764638b7b1a25d.jpg">
 <b>Ridge:</b> Due to the round constraint region the intersection
 will not necessarily occur at one of the axes. <b>Lasso:</b>

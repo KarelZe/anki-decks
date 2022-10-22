@@ -1,13 +1,17 @@
-## Note
-nid: 1586777730929
-model: LaTeX-deb4a
-tags: 
-markdown: false
+# Note
+```
+guid: s3H+><fyR<
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+```
+
+## Front
 Wie lässt sich ein Integral zerlegen?
 
-### Back
+## Back
 % Satz 10.7: <div>
 </div><div>Es sei $c \in(a, b) .$ Dann gilt:
 $$

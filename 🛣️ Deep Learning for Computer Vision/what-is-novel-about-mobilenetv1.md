@@ -1,11 +1,16 @@
-## Note
-nid: 1655111322377
-model: Basic-02d89-e0e22
-tags: dl_cv::05_dl_architectures_2
-markdown: false
+# Note
+```
+guid: C)`X^j3lF^
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_dl_architectures_2
+```
+
+## Front
 What is novel about <b>MobileNetv1</b>?
 
-### Back
+## Back
 Depthwise separable convolutions.

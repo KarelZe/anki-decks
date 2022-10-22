@@ -1,13 +1,18 @@
-## Note
-nid: 1621098982580
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: B$dm96!*1*
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Wie ist die <b>Verfügbarkeit</b> definiert?
 
-### Back
+## Back
 \[v:=\frac{E(L)}{E(L)+E(B)},\]
 <div>
   wobei \(v\) dem zeitlichen Anteil der Benutzbarkeit des Systems

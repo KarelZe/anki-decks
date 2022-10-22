@@ -1,13 +1,18 @@
-## Note
-nid: 1656414257406
-model: Basic-02d89-e0e22
-tags: re::re-II::model-based-specification
-markdown: false
+# Note
+```
+guid: ty[`/>]E>_
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::model-based-specification
+```
+
+## Front
 Name <b>cases</b> where <b>object modelling</b> fails?
 
-### Back
+## Back
 <ul>
   <li>Modelling individual objects does not work: too specific or
   unknown at time of specification

@@ -1,13 +1,19 @@
-## Note
-nid: 1604950430379
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung, rs::04_uebung
-markdown: false
+# Note
+```
+guid: Id^TSXm{c~
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+rs::04_uebung
+```
+
+## Front
 <p>Was versteht man unter <b>Multiprogramming</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

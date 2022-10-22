@@ -1,13 +1,18 @@
-## Note
-nid: 1617523991844
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: A@RaN|$<Nq
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Wovon ist die <b>Verlustleistung</b> abhängig?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

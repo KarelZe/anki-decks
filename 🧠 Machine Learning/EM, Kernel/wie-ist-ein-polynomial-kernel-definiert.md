@@ -1,13 +1,19 @@
-## Note
-nid: 1610192610638
-model: Basic-d7a3e-4ce08
-tags: checklater, ml::07_kernel_methods
-markdown: false
+# Note
+```
+guid: Ki(@[L(1*6
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+checklater
+ml::07_kernel_methods
+```
+
+## Front
 Wie ist ein <b>polynomial kernel</b> definiert?
 
-### Back
+## Back
 <div>
   Kernel für Polynome vom Grad \(d\):
 </div>\[\kappa(x, y)=\langle x, y\rangle^{d}\]
@@ -28,5 +34,4 @@ Wie ist ein <b>polynomial kernel</b> definiert?
   &=\left\langle x, x^{\prime}\right\rangle^{2} \end{aligned}
   \]
 </div>
-<div><img src=
-"paste-0794fed3b91b29540d61d65276d9b20b14458a0b.jpg"></div>
+<div><img src="paste-0794fed3b91b29540d61d65276d9b20b14458a0b.jpg"></div>

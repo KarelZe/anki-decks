@@ -1,13 +1,18 @@
-## Note
-nid: 1655127764251
-model: Basic-02d89-e0e22
-tags: dl_cv::07_image_seg
-markdown: false
+# Note
+```
+guid: PJn/ngD&Th
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::07_image_seg
+```
+
+## Front
 What are the <b>assumptions</b> of <b>k-means</b>?
 
-### Back
+## Back
 <ul>
   <li>cluster centers are known and allocate each point to closest
   cluster

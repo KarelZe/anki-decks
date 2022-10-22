@@ -1,11 +1,16 @@
-## Note
-nid: 1586602766013
-model: LaTeX-deb4a
-tags: Zahlen
-markdown: false
+# Note
+```
+guid: MF[*@lHg.%
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Zahlen
+```
+
+## Front
 Wie ist die Fakultät $!n$ definiert?
 
-### Back
+## Back
 $n !:=1 \cdot 2 \cdot 3 \cdot \ldots \cdot n(n \in \mathbb{N}), \quad 0 !:=1$

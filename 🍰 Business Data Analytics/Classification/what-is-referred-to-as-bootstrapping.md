@@ -1,11 +1,16 @@
-## Note
-nid: 1651132527221
-model: Basic-02d89-e0e22
-tags: bda::02_classification
-markdown: false
+# Note
+```
+guid: jb{)sew1n3
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::02_classification
+```
+
+## Front
 What is referred to as <b>bootstrapping</b>?
 
-### Back
+## Back
 Sampling with replacement.

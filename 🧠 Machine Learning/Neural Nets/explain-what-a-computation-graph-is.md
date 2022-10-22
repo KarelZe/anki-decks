@@ -1,13 +1,18 @@
-## Note
-nid: 1629188171632
-model: Basic-d7a3e-4ce08
-tags: ml::10_neural_networks
-markdown: false
+# Note
+```
+guid: p~(owM#N3Q
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::10_neural_networks
+```
+
+## Front
 Explain what a <b>computation graph</b> is.
 
-### Back
+## Back
 A computation graph is a diagramm that shows how variables relate
 and depend previous variables or inputs. This is indicated by
 arrows.

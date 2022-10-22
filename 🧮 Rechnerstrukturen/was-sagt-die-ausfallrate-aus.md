@@ -1,13 +1,18 @@
-## Note
-nid: 1618056386867
-model: Basic-d7a3e-4ce08
-tags: 04_fehlertoleranz
-markdown: false
+# Note
+```
+guid: Gf58A4~6FW
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_fehlertoleranz
+```
+
+## Front
 Was sagt die Ausfallrate aus?
 
-### Back
+## Back
 Bezeichnet den Anteil der in einer Zeiteinheit ausfallenden
 Komponenten bezogen auf den Anteil der noch fehlerfreien
 Komponenten.

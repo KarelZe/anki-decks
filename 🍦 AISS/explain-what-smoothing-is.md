@@ -1,13 +1,19 @@
-## Note
-nid: 1635320541439
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation, repeat
-markdown: false
+# Note
+```
+guid: sCeUCw>(_O
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+repeat
+```
+
+## Front
 Explain what <b>smoothing</b> is.
 
-### Back
+## Back
 Technique for reducing the effect of outliers towards the bulk of
 data points. Outliers will be weighted with a lower weight compared
 to other, more common data points. This technique should remove

@@ -1,13 +1,18 @@
-## Note
-nid: 1629723358107
-model: Basic-d7a3e-4ce08
-tags: 02_zivilrechtliche_grundlagen
-markdown: false
+# Note
+```
+guid: zzZZ;B{o=v
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_zivilrechtliche_grundlagen
+```
+
+## Front
 Was unterscheidet <b>Schrift- und Textfrom</b>?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

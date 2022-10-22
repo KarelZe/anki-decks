@@ -1,13 +1,18 @@
-## Note
-nid: 1655105075010
-model: Basic-02d89-e0e22
-tags: dl_cv::05_dl_architectures_2
-markdown: false
+# Note
+```
+guid: Jl9Er)RPTR
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_dl_architectures_2
+```
+
+## Front
 What is the <b>idea</b> behind <b>DeCAF</b>?
 
-### Back
+## Back
 <ul>
   <li>Train network end-to-end on image classification (e. g.,
   ImageNet)
@@ -18,5 +23,4 @@ What is the <b>idea</b> behind <b>DeCAF</b>?
     <li><b>feature extractor</b> (remove last layer, use hidden
     unit as feature for e. g., SVM)
   </ul>
-</ul><b>Visualization:</b> <img src= 
-"paste-91e847b3d9b05e2c335b3b94b877bad5cc292a64.jpg">
+</ul><b>Visualization:</b> <img src="paste-91e847b3d9b05e2c335b3b94b877bad5cc292a64.jpg">

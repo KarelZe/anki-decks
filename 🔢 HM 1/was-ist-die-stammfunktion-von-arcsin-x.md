@@ -1,11 +1,17 @@
-## Note
-nid: 1597999513823
-model: LaTeX-deb4a
-tags: Eigene, wichtig
-markdown: false
+# Note
+```
+guid: uuvKi+WU3I
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+wichtig
+```
+
+## Front
 Was ist die Stammfunktion von $\arcsin x$?
 
-### Back
+## Back
 $x \arcsin x+\sqrt{1-x^{2}}$

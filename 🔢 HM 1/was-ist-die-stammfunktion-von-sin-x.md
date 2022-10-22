@@ -1,11 +1,16 @@
-## Note
-nid: 1597999085837
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: L21qPxsN}u
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die Stammfunktion von $\sin x$?
 
-### Back
+## Back
 $-\cos x$

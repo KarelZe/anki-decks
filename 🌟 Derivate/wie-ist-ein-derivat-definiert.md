@@ -1,11 +1,16 @@
-## Note
-nid: 1616794464308
-model: Basic-d7a3e-4ce08
-tags: derivate::01_einfuehrung
-markdown: false
+# Note
+```
+guid: b*pj8tTyw
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::01_einfuehrung
+```
+
+## Front
 Wie ist ein Derivat definiert?
 
-### Back
+## Back
 Finanzkontrakte, deren Wert durch andere, grundlegende Größen (Basiswert, Underlying) bestimmt wird.

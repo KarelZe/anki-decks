@@ -1,13 +1,18 @@
-## Note
-nid: 1614687111964
-model: Basic-d7a3e-4ce08
-tags: 07_relative_valuation
-markdown: false
+# Note
+```
+guid: uozl&`)*X_
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+07_relative_valuation
+```
+
+## Front
 Was sind <b style="">Nachteile </b>des <b>P/E ratios</b>?
 
-### Back
+## Back
 <div>
 <div><ul>
 <li>P/E 

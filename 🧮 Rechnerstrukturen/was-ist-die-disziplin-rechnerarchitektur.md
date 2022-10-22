@@ -1,13 +1,18 @@
-## Note
-nid: 1616743546251
-model: Basic-d7a3e-4ce08
-tags: rs::02_rechnerarchitektur
-markdown: false
+# Note
+```
+guid: fd^VDky:^K
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+rs::02_rechnerarchitektur
+```
+
+## Front
 Was ist die Disziplin <b>Rechnerarchitektur</b>?
 
-### Back
+## Back
 Ingenieurwissenschaftliche Disziplin, die bestehende und zukünftige
 Rechenanlagen beschreibt, vergleicht, <b>beurteilt</b>, verbessert
 und <b>entwirft</b>.

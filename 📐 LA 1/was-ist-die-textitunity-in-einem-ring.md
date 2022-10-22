@@ -1,13 +1,18 @@
-## Note
-nid: 1582901641086
-model: LaTeX-deb4a
-tags: Eigene
-markdown: false
+# Note
+```
+guid: EocB4zB7jR
+notetype: LaTeX-deb4a
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Was ist die \textit{unity} in einem Ring?
 
-### Back
+## Back
 Eine \textit{unity} in einem Ring ist ein Nicht-Nullelement, dass eine Identität bzgl. der Multiplikation in einem Ring ist.\\<div>
 </div><div>\textbf{Beispiel}</div><div>
 </div><div>Die Menge $M_{2}(\mathbb{Z})$ of $2 \times 2$ der Matritzen mit Ganzzahlen als Einträge

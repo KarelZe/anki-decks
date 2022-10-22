@@ -1,11 +1,16 @@
-## Note
-nid: 1616914940275
-model: Basic-d7a3e-4ce08
-tags: derivate::03_bewertung
-markdown: false
+# Note
+```
+guid: f1$XLB~[<F
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::03_bewertung
+```
+
+## Front
 Was versteht man unter einem <b>Kernel</b>?
 
-### Back
+## Back
 Rechenintensiver Teil eines realen Programms.

@@ -1,13 +1,19 @@
-## Note
-nid: 1603539860345
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung, rs::04_uebung
-markdown: false
+# Note
+```
+guid: uzgq$vZHSM
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+rs::04_uebung
+```
+
+## Front
 <p>Wie ist ein <b>Task</b> definiert?
 
-### Back
+## Back
 <div>
   <div>
     <ul>

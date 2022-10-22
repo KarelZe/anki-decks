@@ -1,13 +1,18 @@
-## Note
-nid: 1648459844945
-model: Basic-02d89-e0e22
-tags: 01_steuerrecht
-markdown: false
+# Note
+```
+guid: w<T`!sb~PY
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+01_steuerrecht
+```
+
+## Front
 Was besagt das <b>Transparenzprinzip</b>?
 
-### Back
+## Back
 Unter dem <b>Transparenzprinzip</b> versteht man bei der
 Einkommensbesteuerung von Personengesellschaften (z.B. KG,
 <b>OHG</b>) den Umstand, dass diese Personengesellschaften nicht

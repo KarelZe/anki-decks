@@ -1,14 +1,20 @@
-## Note
-nid: 1610226042937
-model: Basic-d7a3e-4ce08
-tags: ml::06_em_for_dim_reduction, ultra
-markdown: false
+# Note
+```
+guid: t`A6=T8cWb
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::06_em_for_dim_reduction
+ultra
+```
+
+## Front
 <p><span>Vergleiche <strong>probabilistic PCA</strong> mit
 <strong>PCA</strong></span>
 
-### Back
+## Back
 <p style= 
 "font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px">
 PCA mit Eigenvektor-Zerlegung wird bevorzugt, weil:

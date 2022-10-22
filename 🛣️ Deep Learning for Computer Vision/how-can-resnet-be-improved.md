@@ -1,13 +1,18 @@
-## Note
-nid: 1655111122095
-model: Basic-02d89-e0e22
-tags: dl_cv::05_dl_architectures_2
-markdown: false
+# Note
+```
+guid: z(@_Y/fapx
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+dl_cv::05_dl_architectures_2
+```
+
+## Front
 How can <b>ResNet</b> be improved?
 
-### Back
+## Back
 <ul>
   <li>Use of identity mappings in deep residual networks. Create
   direct connection.

@@ -1,13 +1,19 @@
-## Note
-nid: 1636534197028
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: L!pUnfH5fF
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Explain what <b>Grid Search</b> is?
 
-### Back
+## Back
 Grid search is a brute force approach to find good parameter
 estimates. That is, all defined combinations are tested during a
 grid search.

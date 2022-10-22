@@ -1,13 +1,18 @@
-## Note
-nid: 1635320078097
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation
-markdown: false
+# Note
+```
+guid: lX1}eV2P|D
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+```
+
+## Front
 Describe what <b>noise</b> is.
 
-### Back
+## Back
 Noise is a random error 🎲 of variance of a measured variable 🌡️. 
 
 When monitoring real-world data, there is usually some type of noise, caused by e. g. failures of equipment, calibrations or problems during transmission 🛰️.

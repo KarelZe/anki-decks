@@ -1,11 +1,16 @@
-## Note
-nid: 1636446701312
-model: Basic-d7a3e-4ce08
-tags: 04_deployment
-markdown: false
+# Note
+```
+guid: e&u0&FR;pW
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+04_deployment
+```
+
+## Front
 Name an example for a <b>container</b>.
 
-### Back
+## Back
 Docker

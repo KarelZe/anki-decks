@@ -1,13 +1,18 @@
-## Note
-nid: 1602347323691
-model: Basic-b122e-20a86
-tags: Eigene
-markdown: false
+# Note
+```
+guid: qufUF|Wl#m
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+Eigene
+```
+
+## Front
 Wie arbeitet ein Monitor?
 
-### Back
+## Back
 <ul>
   <li>Ein Monitor ist ein Modul (eine Klasse), in dem die von
   Prozessen gemeinsam genutzten Daten und ihre Zugriffsprozeduren

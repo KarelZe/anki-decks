@@ -1,11 +1,16 @@
-## Note
-nid: 1635342914913
-model: Basic-d7a3e-4ce08
-tags: 01_instantiation
-markdown: false
+# Note
+```
+guid: bm:CW@wdg!
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_instantiation
+```
+
+## Front
 What is entity based <b>data preparation</b>?
 
-### Back
+## Back
 Makes sure that every instance in our dataset reflects an entity in the real world.

@@ -1,13 +1,18 @@
-## Note
-nid: 1629294395816
-model: Basic-d7a3e-4ce08
-tags: ml::11_rnns
-markdown: false
+# Note
+```
+guid: Ha,ZCwmYWi
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+ml::11_rnns
+```
+
+## Front
 Explain what characterizes the <b>VGG Net</b>.
 
-### Back
+## Back
 <div>
   <div>
     <ul>
@@ -17,5 +22,4 @@ Explain what characterizes the <b>VGG Net</b>.
     </ul>
   </div>
 </div>
-<div><img src=
-"paste-c399ce6fe7b5c7a6a71cc35807bc955872ac6908.jpg"></div>
+<div><img src="paste-c399ce6fe7b5c7a6a71cc35807bc955872ac6908.jpg"></div>

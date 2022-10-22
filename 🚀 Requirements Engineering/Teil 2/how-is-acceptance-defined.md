@@ -1,11 +1,16 @@
-## Note
-nid: 1659597837545
-model: Basic-02d89-e0e22
-tags: re::re-II::validation
-markdown: false
+# Note
+```
+guid: G!zvdO{4b9
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-II::validation
+```
+
+## Front
 How is <b>acceptance</b> defined?
 
-### Back
+## Back
 The process of assessing whether a system satisfies all its requirements.

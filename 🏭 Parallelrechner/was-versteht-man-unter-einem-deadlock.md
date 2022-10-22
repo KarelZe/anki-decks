@@ -1,11 +1,16 @@
-## Note
-nid: 1591271706891
-model: Basic-b122e-20a86
-tags: 3_4_prozesse_threads
-markdown: false
+# Note
+```
+guid: kD,Y*jFtbL
+notetype: Basic-b122e-20a86
+```
 
-### Front
+### Tags
+```
+3_4_prozesse_threads
+```
+
+## Front
 Was versteht man unter einem <b>deadlock</b>?
 
-### Back
+## Back
 Situtation, in der Prozesse auf Ergebnisse warten, die nicht mehr eintreten können.

@@ -1,11 +1,17 @@
-## Note
-nid: 1635929645305
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: n<}US/+O0G
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Give an <b>intuition</b> for <b>accuracy</b>.
 
-### Back
+## Back
 Share of correct predictions.

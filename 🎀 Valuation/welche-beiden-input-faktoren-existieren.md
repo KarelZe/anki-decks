@@ -1,11 +1,16 @@
-## Note
-nid: 1604143938537
-model: Basic-d7a3e-4ce08
-tags: 01_introduction
-markdown: false
+# Note
+```
+guid: I/rp3`#fO.
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+01_introduction
+```
+
+## Front
 <p>Welche beiden <b>Input-Faktoren</b> existieren?
 
-### Back
+## Back
 Sachkapital und Arbeit

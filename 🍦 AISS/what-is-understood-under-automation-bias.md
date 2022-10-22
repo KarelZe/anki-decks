@@ -1,13 +1,19 @@
-## Note
-nid: 1639474135679
-model: Basic-02d89-e0e22
-tags: 07_human_ai_collab, repeat
-markdown: false
+# Note
+```
+guid: yC.WZ5L>2.
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+07_human_ai_collab
+repeat
+```
+
+## Front
 What is understood under <b>automation bias</b>?
 
-### Back
+## Back
 Automation bias is the tendency to use automated cues as a heuristic replacement for information seeking and processing.
 
 <b>Intuition</b>:

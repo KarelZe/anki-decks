@@ -1,13 +1,19 @@
-## Note
-nid: 1636530791170
-model: Basic-d7a3e-4ce08
-tags: 03_evaluation, repeat
-markdown: false
+# Note
+```
+guid: iYD}7G4/9Y
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+03_evaluation
+repeat
+```
+
+## Front
 Explain what <b>Naive Bayes</b> is.
 
-### Back
+## Back
 Naive Bayes is a variant of the Bayes classifier. It assumes
 conditional independence, which means that every feature \(X\) is
 statistically independent, and every feature contributes

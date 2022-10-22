@@ -1,11 +1,16 @@
-## Note
-nid: 1619716597791
-model: Basic-d7a3e-4ce08
-tags: 02_vorlesung
-markdown: false
+# Note
+```
+guid: HY-/v,w^3T
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+02_vorlesung
+```
+
+## Front
 How is <b>MAE</b> defined?
 
-### Back
+## Back
 \(\text{MAE}=\frac{1}{n} \sum_{i=1}^{n}\left|y_{i}-\hat{y}_{i}\right|\)

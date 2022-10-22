@@ -1,13 +1,18 @@
-## Note
-nid: 1650348318413
-model: Basic-02d89-e0e22
-tags: re::re-I::introduction
-markdown: false
+# Note
+```
+guid: Fx]ZnAiW(<
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+re::re-I::introduction
+```
+
+## Front
 Define <b>requirement</b>.
 
-### Back
+## Back
 Requirement:
 <ol>
   <li>A need preceived by a stakeholder

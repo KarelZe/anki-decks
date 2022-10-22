@@ -1,13 +1,18 @@
-## Note
-nid: 1653673543901
-model: Basic-02d89-e0e22
-tags: bda::05_neural_networks
-markdown: false
+# Note
+```
+guid: zbUw39x<F{
+notetype: Basic-02d89-e0e22
+```
 
-### Front
+### Tags
+```
+bda::05_neural_networks
+```
+
+## Front
 Explain the <b>basic components</b> of a <b>GRU</b>.
 
-### Back
+## Back
 <img src="paste-17111a79d52081a91a29c950071383aa6715e14c.jpg">
 <ul>
   <li>Cell state is reperesented in a single vector \(h_t\).

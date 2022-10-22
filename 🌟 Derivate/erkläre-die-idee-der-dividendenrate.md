@@ -1,13 +1,18 @@
-## Note
-nid: 1635148035327
-model: Basic-d7a3e-4ce08
-tags: derivate::02_forwards_futures
-markdown: false
+# Note
+```
+guid: 2isCmV)G4
+notetype: Basic-d7a3e-4ce08
+```
 
-### Front
+### Tags
+```
+derivate::02_forwards_futures
+```
+
+## Front
 Erkläre die <b>Idee</b> der <b>Dividendenrate</b>.
 
-### Back
+## Back
 Anstatt einmaliger Dividendenzahlung pro Periode wird eine stetige
 Dividendenrate \(\delta\) p. a. unterstellt.
 <div>
