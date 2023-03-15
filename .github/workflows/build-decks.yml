@@ -25,7 +25,7 @@ jobs:
 
       - name: Configure git
         run: |
-          git config --global user.email "github@emarkusbilz.com"
+          git config --global user.email "github@markusbilz.com"
           git config --global user.name "Ki GithubActions"
 
       - name: Install ki
