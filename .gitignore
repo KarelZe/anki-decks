@@ -5,3 +5,5 @@
 
 # ignore binary apkgs
 *.apkg
+
+# .venv/
